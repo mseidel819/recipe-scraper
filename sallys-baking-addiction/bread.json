@@ -1,6 +1,7 @@
 [
   {
     "title": "My Favorite Cornbread Recipe",
+    "slug": "my-favorite-cornbread",
     "rating": 4.8,
     "num_reviews": 282,
     "link": "https://sallysbakingaddiction.com/my-favorite-cornbread/",
@@ -51,6 +52,7 @@
   },
   {
     "title": "Homemade Buttermilk Biscuits (Popular Recipe!)",
+    "slug": "flaky-buttermilk-biscuits",
     "rating": 4.9,
     "num_reviews": 445,
     "link": "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/",
@@ -109,6 +111,7 @@
   },
   {
     "title": "Birthday Cake Cinnamon Rolls (Like Funfetti Cake!)",
+    "slug": "cake-batter-cinnamon-rolls-without-cake-mix",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/cake-batter-cinnamon-rolls-without-cake-mix/",
@@ -190,6 +193,7 @@
   },
   {
     "title": "Jalape\u00f1o Cheddar Soft Pretzels",
+    "slug": "jalapeno-cheddar-soft-pretzels",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/jalapeno-cheddar-soft-pretzels/",
@@ -250,6 +254,7 @@
   },
   {
     "title": "Homemade Glazed Doughnuts",
+    "slug": "how-to-make-homemade-glazed-doughnuts",
     "rating": 4.9,
     "num_reviews": 140,
     "link": "https://sallysbakingaddiction.com/how-to-make-homemade-glazed-doughnuts/",
@@ -313,6 +318,7 @@
   },
   {
     "title": "3 Donut Frosting Flavors",
+    "slug": "donut-frostings",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/donut-frostings/",
@@ -367,6 +373,7 @@
   },
   {
     "title": "Raspberry Swirl Sweet Rolls",
+    "slug": "raspberry-swirl-sweet-rolls",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/raspberry-swirl-sweet-rolls/",
@@ -434,6 +441,7 @@
   },
   {
     "title": "Fan-Favorite Chocolate Zucchini Bread",
+    "slug": "double-chocolate-zucchini-bread",
     "rating": 4.9,
     "num_reviews": 176,
     "link": "https://sallysbakingaddiction.com/double-chocolate-zucchini-bread/",
@@ -497,6 +505,7 @@
   },
   {
     "title": "Cold Veggie Pizza (Homemade Appetizer)",
+    "slug": "veggie-pizza",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/veggie-pizza/",
@@ -563,6 +572,7 @@
   },
   {
     "title": "Easy Strawberry Bread",
+    "slug": "glazed-strawberry-bread",
     "rating": 4.7,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/glazed-strawberry-bread/",
@@ -625,6 +635,7 @@
   },
   {
     "title": "Soft & Fluffy Lemon Sweet Rolls",
+    "slug": "lemon-sweet-rolls",
     "rating": 4.7,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/lemon-sweet-rolls/",
@@ -690,6 +701,7 @@
   },
   {
     "title": "Honey Butter Rolls",
+    "slug": "tried-true-honey-butter-rolls",
     "rating": 4.8,
     "num_reviews": 52,
     "link": "https://sallysbakingaddiction.com/tried-true-honey-butter-rolls/",
@@ -747,6 +759,7 @@
   },
   {
     "title": "Homemade Cheddar Biscuits",
+    "slug": "homemade-cheddar-biscuits",
     "rating": 4.9,
     "num_reviews": 53,
     "link": "https://sallysbakingaddiction.com/homemade-cheddar-biscuits/",
@@ -805,6 +818,7 @@
   },
   {
     "title": "Cinnamon Swirl Banana Bread",
+    "slug": "cinnamon-swirl-banana-bread",
     "rating": 4.9,
     "num_reviews": 34,
     "link": "https://sallysbakingaddiction.com/cinnamon-swirl-banana-bread/",
@@ -863,6 +877,7 @@
   },
   {
     "title": "My Favorite Banana Bread",
+    "slug": "best-banana-bread-recipe",
     "rating": 4.8,
     "num_reviews": 1225,
     "link": "https://sallysbakingaddiction.com/best-banana-bread-recipe/",
@@ -918,6 +933,7 @@
   },
   {
     "title": "Homemade Soft Breadsticks",
+    "slug": "homemade-breadsticks",
     "rating": 5.0,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/homemade-breadsticks/",
@@ -978,6 +994,7 @@
   },
   {
     "title": "No Knead Seeded Oat Bread",
+    "slug": "seeded-oat-bread",
     "rating": 4.8,
     "num_reviews": 111,
     "link": "https://sallysbakingaddiction.com/seeded-oat-bread/",
@@ -1044,6 +1061,7 @@
   },
   {
     "title": "Easy Cinnamon Rolls (from scratch)",
+    "slug": "easy-cinnamon-rolls-from-scratch",
     "rating": 4.8,
     "num_reviews": 551,
     "link": "https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/",
@@ -1107,6 +1125,7 @@
   },
   {
     "title": "Brown Butter Sage Dinner Rolls",
+    "slug": "brown-butter-sage-dinner-rolls",
     "rating": 4.9,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/brown-butter-sage-dinner-rolls/",
@@ -1167,6 +1186,7 @@
   },
   {
     "title": "My Best Pumpkin Bread",
+    "slug": "pumpkin-chocolate-chip-bread",
     "rating": 4.8,
     "num_reviews": 463,
     "link": "https://sallysbakingaddiction.com/pumpkin-chocolate-chip-bread/",
@@ -1221,6 +1241,7 @@
   },
   {
     "title": "Pizza Pull Apart Rolls",
+    "slug": "pizza-pull-apart-rolls",
     "rating": 4.8,
     "num_reviews": 159,
     "link": "https://sallysbakingaddiction.com/pizza-pull-apart-rolls/",
@@ -1323,6 +1344,7 @@
   },
   {
     "title": "Zucchini Bread",
+    "slug": "zucchini-bread",
     "rating": 4.8,
     "num_reviews": 366,
     "link": "https://sallysbakingaddiction.com/zucchini-bread/",
@@ -1374,6 +1396,7 @@
   },
   {
     "title": "Easy No-Knead Olive Bread",
+    "slug": "easy-olive-bread",
     "rating": 4.9,
     "num_reviews": 47,
     "link": "https://sallysbakingaddiction.com/easy-olive-bread/",
@@ -1429,6 +1452,7 @@
   },
   {
     "title": "Croissant Bread (Loaf)",
+    "slug": "croissant-bread",
     "rating": 4.9,
     "num_reviews": 193,
     "link": "https://sallysbakingaddiction.com/croissant-bread/",
@@ -1527,6 +1551,7 @@
   },
   {
     "title": "No-Knead Honey Oat Bread",
+    "slug": "no-knead-homemade-honey-oat-bread",
     "rating": 4.8,
     "num_reviews": 40,
     "link": "https://sallysbakingaddiction.com/no-knead-homemade-honey-oat-bread/",
@@ -1584,6 +1609,7 @@
   },
   {
     "title": "Whole Wheat Pizza Dough",
+    "slug": "whole-wheat-pizza-dough",
     "rating": 4.7,
     "num_reviews": 40,
     "link": "https://sallysbakingaddiction.com/whole-wheat-pizza-dough/",
@@ -1638,6 +1664,7 @@
   },
   {
     "title": "Homemade English Muffins",
+    "slug": "honey-wheat-english-muffins",
     "rating": 4.9,
     "num_reviews": 298,
     "link": "https://sallysbakingaddiction.com/honey-wheat-english-muffins/",
@@ -1741,6 +1768,7 @@
   },
   {
     "title": "Sea Salt & Herb Skillet Rolls",
+    "slug": "sea-salt-herb-skillet-rolls",
     "rating": 4.9,
     "num_reviews": 45,
     "link": "https://sallysbakingaddiction.com/sea-salt-herb-skillet-rolls/",
@@ -1799,6 +1827,7 @@
   },
   {
     "title": "Pumpkin Cinnamon Rolls",
+    "slug": "pumpkin-cinnamon-rolls",
     "rating": 4.8,
     "num_reviews": 69,
     "link": "https://sallysbakingaddiction.com/pumpkin-cinnamon-rolls/",
@@ -1865,6 +1894,7 @@
   },
   {
     "title": "Apple Cinnamon Quick Bread",
+    "slug": "apple-cinnamon-bread",
     "rating": 4.8,
     "num_reviews": 96,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-bread/",
@@ -1924,6 +1954,7 @@
   },
   {
     "title": "Roasted Vegetable Whole Wheat Pizza",
+    "slug": "roasted-vegetable-whole-wheat-pizza",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/roasted-vegetable-whole-wheat-pizza/",
@@ -1973,6 +2004,7 @@
   },
   {
     "title": "Soft Pretzel Knots",
+    "slug": "soft-pretzel-knots",
     "rating": 4.9,
     "num_reviews": 185,
     "link": "https://sallysbakingaddiction.com/soft-pretzel-knots/",
@@ -2055,6 +2087,7 @@
   },
   {
     "title": "Peach Quick Bread",
+    "slug": "peach-quick-bread",
     "rating": 5.0,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/peach-quick-bread/",
@@ -2114,6 +2147,7 @@
   },
   {
     "title": "Asiago & Sun-Dried Tomato Quick Bread",
+    "slug": "asiago-cheese-sun-dried-tomato-quick-bread",
     "rating": 4.9,
     "num_reviews": 235,
     "link": "https://sallysbakingaddiction.com/asiago-cheese-sun-dried-tomato-quick-bread/",
@@ -2186,6 +2220,7 @@
   },
   {
     "title": "Chocolate Sweet Rolls",
+    "slug": "chocolate-sweet-rolls",
     "rating": 4.9,
     "num_reviews": 271,
     "link": "https://sallysbakingaddiction.com/chocolate-sweet-rolls/",
@@ -2295,6 +2330,7 @@
   },
   {
     "title": "Soft Pretzel Bites",
+    "slug": "soft-pretzel-bites",
     "rating": 4.9,
     "num_reviews": 102,
     "link": "https://sallysbakingaddiction.com/soft-pretzel-bites/",
@@ -2346,6 +2382,7 @@
   },
   {
     "title": "Chocolate Chip Loaf Cake",
+    "slug": "chocolate-chip-loaf-cake",
     "rating": 4.8,
     "num_reviews": 77,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-loaf-cake/",
@@ -2402,6 +2439,7 @@
   },
   {
     "title": "Homemade Overnight Cinnamon Rolls",
+    "slug": "overnight-cinnamon-rolls",
     "rating": 4.9,
     "num_reviews": 228,
     "link": "https://sallysbakingaddiction.com/overnight-cinnamon-rolls/",
@@ -2468,6 +2506,7 @@
   },
   {
     "title": "Cinnamon Crunch Bread",
+    "slug": "cinnamon-crunch-bread",
     "rating": 4.9,
     "num_reviews": 79,
     "link": "https://sallysbakingaddiction.com/cinnamon-crunch-bread/",
@@ -2529,6 +2568,7 @@
   },
   {
     "title": "Soft Multigrain Bread",
+    "slug": "multigrain-bread",
     "rating": 4.9,
     "num_reviews": 228,
     "link": "https://sallysbakingaddiction.com/multigrain-bread/",
@@ -2590,6 +2630,7 @@
   },
   {
     "title": "Lemon Poppy Seed Bread",
+    "slug": "lemon-poppy-seed-bread",
     "rating": 4.7,
     "num_reviews": 62,
     "link": "https://sallysbakingaddiction.com/lemon-poppy-seed-bread/",
@@ -2644,6 +2685,7 @@
   },
   {
     "title": "Homemade Stromboli (Yields 2)",
+    "slug": "homemade-stromboli",
     "rating": 4.9,
     "num_reviews": 704,
     "link": "https://sallysbakingaddiction.com/homemade-stromboli/",
@@ -2780,6 +2822,7 @@
   },
   {
     "title": "Rosemary Garlic Pull Apart Bread",
+    "slug": "rosemary-garlic-pull-apart-bread",
     "rating": 4.9,
     "num_reviews": 131,
     "link": "https://sallysbakingaddiction.com/rosemary-garlic-pull-apart-bread/",
@@ -2844,6 +2887,7 @@
   },
   {
     "title": "Everything Biscuits",
+    "slug": "everything-biscuits",
     "rating": 5.0,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/everything-biscuits/",
@@ -2908,6 +2952,7 @@
   },
   {
     "title": "Carrot Cake Loaf (Quick Bread)",
+    "slug": "carrot-cake-loaf",
     "rating": 4.9,
     "num_reviews": 89,
     "link": "https://sallysbakingaddiction.com/carrot-cake-loaf/",
@@ -2968,6 +3013,7 @@
   },
   {
     "title": "Apple Cinnamon Babka",
+    "slug": "apple-cinnamon-babka",
     "rating": 4.7,
     "num_reviews": 100,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-babka/",
@@ -3037,6 +3083,7 @@
   },
   {
     "title": "Cinnamon Swirl Quick Bread",
+    "slug": "cinnamon-swirl-quick-bread",
     "rating": 4.9,
     "num_reviews": 603,
     "link": "https://sallysbakingaddiction.com/cinnamon-swirl-quick-bread/",
@@ -3153,6 +3200,7 @@
   },
   {
     "title": "Blueberry Cream Cheese Pastry Braid",
+    "slug": "blueberries-n-cream-danish-braid",
     "rating": 5.0,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/blueberries-n-cream-danish-braid/",
@@ -3231,6 +3279,7 @@
   },
   {
     "title": "Breakfast Pastries with Shortcut Homemade Dough",
+    "slug": "breakfast-pastries",
     "rating": 4.9,
     "num_reviews": 258,
     "link": "https://sallysbakingaddiction.com/breakfast-pastries/",
@@ -3341,6 +3390,7 @@
   },
   {
     "title": "Homemade No Yeast Bread (Soda Bread)",
+    "slug": "no-yeast-bread",
     "rating": 4.9,
     "num_reviews": 80,
     "link": "https://sallysbakingaddiction.com/no-yeast-bread/",
@@ -3391,6 +3441,7 @@
   },
   {
     "title": "Homemade Flatbread Pizza Recipe",
+    "slug": "homemade-flatbread-pizza-recipe",
     "rating": 4.9,
     "num_reviews": 284,
     "link": "https://sallysbakingaddiction.com/homemade-flatbread-pizza-recipe/",
@@ -3485,6 +3536,7 @@
   },
   {
     "title": "Giant Cinnamon Roll Cake",
+    "slug": "giant-cinnamon-roll-cake",
     "rating": 5.0,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/giant-cinnamon-roll-cake/",
@@ -3546,6 +3598,7 @@
   },
   {
     "title": "Homemade Garlic Knots",
+    "slug": "garlic-knots-recipe",
     "rating": 4.8,
     "num_reviews": 165,
     "link": "https://sallysbakingaddiction.com/garlic-knots-recipe/",
@@ -3606,6 +3659,7 @@
   },
   {
     "title": "Whole Wheat Healthy Banana Bread",
+    "slug": "whole-wheat-banana-bread",
     "rating": 4.9,
     "num_reviews": 79,
     "link": "https://sallysbakingaddiction.com/whole-wheat-banana-bread/",
@@ -3657,6 +3711,7 @@
   },
   {
     "title": "Homemade Artisan Bread Recipe",
+    "slug": "homemade-artisan-bread",
     "rating": 4.9,
     "num_reviews": 819,
     "link": "https://sallysbakingaddiction.com/homemade-artisan-bread/",
@@ -3769,6 +3824,7 @@
   },
   {
     "title": "Sandwich Bread",
+    "slug": "sandwich-bread",
     "rating": 4.9,
     "num_reviews": 620,
     "link": "https://sallysbakingaddiction.com/sandwich-bread/",
@@ -3824,6 +3880,7 @@
   },
   {
     "title": "Orange Glazed Cranberry Bread",
+    "slug": "orange-glazed-cranberry-bread",
     "rating": 4.8,
     "num_reviews": 116,
     "link": "https://sallysbakingaddiction.com/orange-glazed-cranberry-bread/",
@@ -3882,6 +3939,7 @@
   },
   {
     "title": "Harvest Spice Bread",
+    "slug": "harvest-spice-bread",
     "rating": 4.9,
     "num_reviews": 125,
     "link": "https://sallysbakingaddiction.com/harvest-spice-bread/",
@@ -3937,6 +3995,7 @@
   },
   {
     "title": "Homemade Cheese Bread \u2013 Extra Soft",
+    "slug": "homemade-cheese-bread",
     "rating": 4.9,
     "num_reviews": 266,
     "link": "https://sallysbakingaddiction.com/homemade-cheese-bread/",
@@ -4026,6 +4085,7 @@
   },
   {
     "title": "Homemade Monkey Bread",
+    "slug": "homemade-monkey-bread-aka-cinnamon-roll-bites",
     "rating": 4.8,
     "num_reviews": 111,
     "link": "https://sallysbakingaddiction.com/homemade-monkey-bread-aka-cinnamon-roll-bites/",
@@ -4087,6 +4147,7 @@
   },
   {
     "title": "Homemade Berry Fritters",
+    "slug": "homemade-berry-fritters",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/homemade-berry-fritters/",
@@ -4151,6 +4212,7 @@
   },
   {
     "title": "Garlic Rosemary Herb Focaccia",
+    "slug": "garlic-rosemary-herb-focaccia",
     "rating": 4.8,
     "num_reviews": 120,
     "link": "https://sallysbakingaddiction.com/garlic-rosemary-herb-focaccia/",
@@ -4208,6 +4270,7 @@
   },
   {
     "title": "Hot Cross Buns",
+    "slug": "hot-cross-buns",
     "rating": 4.7,
     "num_reviews": 131,
     "link": "https://sallysbakingaddiction.com/hot-cross-buns/",
@@ -4276,6 +4339,7 @@
   },
   {
     "title": "Soft Dinner Rolls Recipe",
+    "slug": "soft-dinner-rolls",
     "rating": 4.8,
     "num_reviews": 783,
     "link": "https://sallysbakingaddiction.com/soft-dinner-rolls/",
@@ -4348,6 +4412,7 @@
   },
   {
     "title": "Grandma\u2019s Irish Soda Bread",
+    "slug": "grandmas-irish-soda-bread",
     "rating": 4.8,
     "num_reviews": 384,
     "link": "https://sallysbakingaddiction.com/grandmas-irish-soda-bread/",
@@ -4395,6 +4460,7 @@
   },
   {
     "title": "Blueberry Muffin Bread",
+    "slug": "blueberry-muffin-bread",
     "rating": 4.8,
     "num_reviews": 196,
     "link": "https://sallysbakingaddiction.com/blueberry-muffin-bread/",
@@ -4446,6 +4512,7 @@
   },
   {
     "title": "Pepperoni Pizza Rolls",
+    "slug": "pepperoni-pizza-rolls",
     "rating": 4.4,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/pepperoni-pizza-rolls/",
@@ -4494,6 +4561,7 @@
   },
   {
     "title": "Cheesy Breadsticks Made from Pizza Dough",
+    "slug": "cheesy-breadsticks",
     "rating": 4.9,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/cheesy-breadsticks/",
@@ -4538,6 +4606,7 @@
   },
   {
     "title": "Easy Homemade Pizza Dough",
+    "slug": "homemade-pizza-crust-recipe",
     "rating": 4.9,
     "num_reviews": 760,
     "link": "https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/",
@@ -4584,6 +4653,7 @@
   },
   {
     "title": "Homemade Bagels Recipe",
+    "slug": "homemade-bagels",
     "rating": 4.9,
     "num_reviews": 535,
     "link": "https://sallysbakingaddiction.com/homemade-bagels/",
@@ -4676,6 +4746,7 @@
   },
   {
     "title": "Star Bread",
+    "slug": "star-bread",
     "rating": 4.8,
     "num_reviews": 94,
     "link": "https://sallysbakingaddiction.com/star-bread/",
@@ -4730,6 +4801,7 @@
   },
   {
     "title": "No Knead Jalape\u00f1o Cheddar Bread",
+    "slug": "jalapeno-cheddar-bread",
     "rating": 4.8,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/jalapeno-cheddar-bread/",
@@ -4781,6 +4853,7 @@
   },
   {
     "title": "Raspberry Danish Twist Bread",
+    "slug": "raspberry-danish-twist-bread",
     "rating": 4.5,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/raspberry-danish-twist-bread/",
@@ -4833,6 +4906,7 @@
   },
   {
     "title": "Everything Bagel Pull Apart Bread",
+    "slug": "everything-bagel-pull-apart-bread",
     "rating": 4.8,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/everything-bagel-pull-apart-bread/",
@@ -4902,6 +4976,7 @@
   },
   {
     "title": "Sausage & Garlic Pesto Flatbread",
+    "slug": "pesto-flatbread",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/pesto-flatbread/",
@@ -4954,6 +5029,7 @@
   },
   {
     "title": "Homemade Cinnamon Swirl Bread",
+    "slug": "homemade-cinnamon-swirl-bread",
     "rating": 4.9,
     "num_reviews": 75,
     "link": "https://sallysbakingaddiction.com/homemade-cinnamon-swirl-bread/",
@@ -5008,6 +5084,7 @@
   },
   {
     "title": "Homemade Chocolate Croissants (Pain au Chocolat)",
+    "slug": "homemade-chocolate-croissants",
     "rating": 4.7,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/homemade-chocolate-croissants/",
@@ -5077,6 +5154,7 @@
   },
   {
     "title": "Greek Yogurt Apple Blueberry Bread",
+    "slug": "greek-yogurt-apple-blueberry-bread",
     "rating": 4.9,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/greek-yogurt-apple-blueberry-bread/",
@@ -5125,6 +5203,7 @@
   },
   {
     "title": "How to Make Croissants",
+    "slug": "homemade-croissants",
     "rating": 4.8,
     "num_reviews": 240,
     "link": "https://sallysbakingaddiction.com/homemade-croissants/",
@@ -5204,6 +5283,7 @@
   },
   {
     "title": "Honey Whole Wheat Dinner Rolls",
+    "slug": "whole-wheat-rolls",
     "rating": 4.9,
     "num_reviews": 66,
     "link": "https://sallysbakingaddiction.com/whole-wheat-rolls/",
@@ -5257,6 +5337,7 @@
   },
   {
     "title": "Dark Chocolate Bread Pudding",
+    "slug": "dark-chocolate-bread-pudding",
     "rating": 4.9,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-bread-pudding/",
@@ -5308,6 +5389,7 @@
   },
   {
     "title": "Nutella Babka",
+    "slug": "nutella-babka",
     "rating": 4.9,
     "num_reviews": 52,
     "link": "https://sallysbakingaddiction.com/nutella-babka/",
@@ -5372,6 +5454,7 @@
   },
   {
     "title": "Homemade Bread Bowls",
+    "slug": "homemade-bread-bowls",
     "rating": 4.8,
     "num_reviews": 55,
     "link": "https://sallysbakingaddiction.com/homemade-bread-bowls/",
@@ -5438,6 +5521,7 @@
   },
   {
     "title": "Crusty Cranberry Nut No Knead Bread",
+    "slug": "no-knead-cranberry-nut-bread",
     "rating": 4.9,
     "num_reviews": 297,
     "link": "https://sallysbakingaddiction.com/no-knead-cranberry-nut-bread/",
@@ -5493,6 +5577,7 @@
   },
   {
     "title": "Easy Pretzel Rolls",
+    "slug": "easy-pretzel-rolls",
     "rating": 4.9,
     "num_reviews": 77,
     "link": "https://sallysbakingaddiction.com/easy-pretzel-rolls/",
@@ -5542,6 +5627,7 @@
   },
   {
     "title": "Easy Orange Sweet Rolls",
+    "slug": "orange-sweet-rolls",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/orange-sweet-rolls/",
@@ -5597,6 +5683,7 @@
   },
   {
     "title": "Easy Homemade Soft Pretzels",
+    "slug": "easy-homemade-soft-pretzels",
     "rating": 4.9,
     "num_reviews": 622,
     "link": "https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/",
@@ -5653,6 +5740,7 @@
   },
   {
     "title": "Maple Pecan Sticky Buns",
+    "slug": "maple-pecan-sticky-buns",
     "rating": 4.7,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/maple-pecan-sticky-buns/",
@@ -5721,6 +5809,7 @@
   },
   {
     "title": "Homemade Stuffed Crust Pizza",
+    "slug": "how-to-make-stuffed-crust-pizza",
     "rating": 5.0,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/how-to-make-stuffed-crust-pizza/",
@@ -5770,6 +5859,7 @@
   },
   {
     "title": "Spiced Gingerbread Loaf",
+    "slug": "spiced-gingerbread-loaf",
     "rating": 4.7,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/spiced-gingerbread-loaf/",
@@ -5820,6 +5910,7 @@
   },
   {
     "title": "Cinnamon Roll Wreath",
+    "slug": "cinnamon-roll-wreath",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/cinnamon-roll-wreath/",
@@ -5875,6 +5966,7 @@
   },
   {
     "title": "Cheesy Pretzel Twists",
+    "slug": "cheesy-pretzel-twists",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/cheesy-pretzel-twists/",
@@ -5927,6 +6019,7 @@
   },
   {
     "title": "Big Giant Cinnamon Rolls",
+    "slug": "big-giant-cinnamon-rolls",
     "rating": 4.7,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/big-giant-cinnamon-rolls/",
@@ -5987,6 +6080,7 @@
   },
   {
     "title": "Zucchini & Herbed Ricotta Flatbread",
+    "slug": "zucchini-herbed-ricotta-flatbread",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/zucchini-herbed-ricotta-flatbread/",
@@ -6045,6 +6139,7 @@
   },
   {
     "title": "Honey Skillet Cornbread",
+    "slug": "honey-skillet-cornbread",
     "rating": 4.8,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/honey-skillet-cornbread/",
@@ -6092,6 +6187,7 @@
   },
   {
     "title": "Greek Yogurt Zucchini Bread",
+    "slug": "greek-yogurt-zucchini-bread",
     "rating": 4.8,
     "num_reviews": 55,
     "link": "https://sallysbakingaddiction.com/greek-yogurt-zucchini-bread/",
@@ -6141,6 +6237,7 @@
   },
   {
     "title": "Homemade Ham & Cheese Pockets",
+    "slug": "homemade-ham-cheese-pockets",
     "rating": 4.7,
     "num_reviews": 31,
     "link": "https://sallysbakingaddiction.com/homemade-ham-cheese-pockets/",
@@ -6189,6 +6286,7 @@
   },
   {
     "title": "Slow Cooker Cinnamon Rolls",
+    "slug": "easy-slow-cooker-cinnamon-rolls",
     "rating": 4.3,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/easy-slow-cooker-cinnamon-rolls/",
@@ -6241,6 +6339,7 @@
   },
   {
     "title": "Homemade Cinnamon Raisin Bagels",
+    "slug": "homemade-cinnamon-raisin-bagels",
     "rating": 4.5,
     "num_reviews": 57,
     "link": "https://sallysbakingaddiction.com/homemade-cinnamon-raisin-bagels/",
@@ -6300,6 +6399,7 @@
   },
   {
     "title": "Homemade Everything Bagels",
+    "slug": "homemade-everything-bagels",
     "rating": 4.9,
     "num_reviews": 72,
     "link": "https://sallysbakingaddiction.com/homemade-everything-bagels/",
@@ -6364,6 +6464,7 @@
   },
   {
     "title": "Maple Cinnamon Rolls",
+    "slug": "melt-in-your-mouth-maple-cinnamon-rolls",
     "rating": 4.5,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/melt-in-your-mouth-maple-cinnamon-rolls/",
@@ -6417,6 +6518,7 @@
   },
   {
     "title": "Strawberry Rolls with Sweet Lemon Glaze",
+    "slug": "strawberry-rolls-with-sweet-lemon-glaze",
     "rating": 4.6,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/strawberry-rolls-with-sweet-lemon-glaze/",
@@ -6470,6 +6572,7 @@
   },
   {
     "title": "Goat Cheese, Honey, & Fruit Crostini",
+    "slug": "easiest-appetizer-goat-cheese-honey-fruit-crostini",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/easiest-appetizer-goat-cheese-honey-fruit-crostini/",
@@ -6505,6 +6608,7 @@
   },
   {
     "title": "How To Make Chicago-Style Deep Dish Pizza",
+    "slug": "how-to-make-chicago-style-deep-dish-pizza",
     "rating": 4.9,
     "num_reviews": 170,
     "link": "https://sallysbakingaddiction.com/how-to-make-chicago-style-deep-dish-pizza/",
@@ -6586,6 +6690,7 @@
   },
   {
     "title": "Hawaiian Pizza",
+    "slug": "hawaiian-pizza",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/hawaiian-pizza/",
@@ -6628,6 +6733,7 @@
   },
   {
     "title": "Award-Winning Zucchini Bread with Brown Sugar Streusel",
+    "slug": "award-winning-zucchini-bread",
     "rating": 4.9,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/award-winning-zucchini-bread/",
@@ -6681,6 +6787,7 @@
   },
   {
     "title": "Spinach Artichoke White Cheese Pizza",
+    "slug": "spinach-artichoke-white-cheese-pizza",
     "rating": 5.0,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/spinach-artichoke-white-cheese-pizza/",
@@ -6727,6 +6834,7 @@
   },
   {
     "title": "Dark Chocolate Chip Raspberry Banana Bread",
+    "slug": "dark-chocolate-chip-raspberry-banana-bread",
     "rating": 4.8,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-chip-raspberry-banana-bread/",
@@ -6781,6 +6889,7 @@
   },
   {
     "title": "Homemade BBQ Chicken Pizza",
+    "slug": "homemade-bbq-chicken-pizza",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/homemade-bbq-chicken-pizza/",
@@ -6828,6 +6937,7 @@
   },
   {
     "title": "Homemade Crab Pretzels",
+    "slug": "homemade-crab-pretzels",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/homemade-crab-pretzels/",
@@ -6874,6 +6984,7 @@
   },
   {
     "title": "Homemade Extra Cheese Pizza Recipe",
+    "slug": "homemade-extra-cheese-pizza",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/homemade-extra-cheese-pizza/",
@@ -6919,6 +7030,7 @@
   },
   {
     "title": "Iced Raspberry Danish Braid",
+    "slug": "raspberry-danish-braid",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/raspberry-danish-braid/",
@@ -6968,6 +7080,7 @@
   },
   {
     "title": "Homemade Pastry Dough (Quick Method)",
+    "slug": "danish-pastry-dough",
     "rating": 5.0,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/danish-pastry-dough/",
@@ -7039,6 +7152,7 @@
   },
   {
     "title": "Cinnamon-Swirl Chocolate Chip Bread",
+    "slug": "cinnamon-swirl-chocolate-chip-bread",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/cinnamon-swirl-chocolate-chip-bread/",
@@ -7084,6 +7198,7 @@
   },
   {
     "title": "Blueberry Sweet Rolls with Sweet Lemon Glaze",
+    "slug": "blueberry-sweet-rolls-with-lemon-glaze",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/blueberry-sweet-rolls-with-lemon-glaze/",
@@ -7138,6 +7253,7 @@
   },
   {
     "title": "Homemade Monkey Bread with Caramel Sauce",
+    "slug": "homemade-monkey-bread-with-caramel-sauce",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/homemade-monkey-bread-with-caramel-sauce/",
@@ -7194,6 +7310,7 @@
   },
   {
     "title": "Homemade Orange Sweet Rolls",
+    "slug": "homemade-orange-sweet-rolls",
     "rating": 4.5,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/homemade-orange-sweet-rolls/",
@@ -7250,6 +7367,7 @@
   },
   {
     "title": "30 Minute Homemade Soft Pretzels",
+    "slug": "30-minute-whole-wheat-pretzels",
     "rating": 4.8,
     "num_reviews": 62,
     "link": "https://sallysbakingaddiction.com/30-minute-whole-wheat-pretzels/",
@@ -7295,6 +7413,7 @@
   },
   {
     "title": "Nutella Swirled Peanut Butter Banana Bread",
+    "slug": "nutella-swirled-peanut-butter-banana-bread",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/nutella-swirled-peanut-butter-banana-bread/",

@@ -1,6 +1,7 @@
 [
   {
     "title": "Deliciously Moist Chocolate Layer Cake",
+    "slug": "triple-chocolate-layer-cake",
     "rating": 4.9,
     "num_reviews": 902,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-layer-cake/",
@@ -68,6 +69,7 @@
   },
   {
     "title": "Homemade Strawberry Cake",
+    "slug": "strawberry-cake",
     "rating": 4.8,
     "num_reviews": 552,
     "link": "https://sallysbakingaddiction.com/strawberry-cake/",
@@ -134,6 +136,7 @@
   },
   {
     "title": "Quick & Easy Banana Muffins",
+    "slug": "banana-muffins",
     "rating": 4.9,
     "num_reviews": 1568,
     "link": "https://sallysbakingaddiction.com/banana-muffins/",
@@ -186,6 +189,7 @@
   },
   {
     "title": "My Favorite Banana Bread",
+    "slug": "best-banana-bread-recipe",
     "rating": 4.8,
     "num_reviews": 1225,
     "link": "https://sallysbakingaddiction.com/best-banana-bread-recipe/",
@@ -241,6 +245,7 @@
   },
   {
     "title": "Lemon Bars",
+    "slug": "lemon-bars-recipe",
     "rating": 4.7,
     "num_reviews": 1021,
     "link": "https://sallysbakingaddiction.com/lemon-bars-recipe/",
@@ -289,6 +294,7 @@
   },
   {
     "title": "Easy Homemade Pizza Dough",
+    "slug": "homemade-pizza-crust-recipe",
     "rating": 4.9,
     "num_reviews": 760,
     "link": "https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/",

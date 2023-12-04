@@ -1,6 +1,7 @@
 [
   {
     "title": "Gingerbread Cookie Bars",
+    "slug": "gingerbread-cookie-bars",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/gingerbread-cookie-bars/",
@@ -64,6 +65,7 @@
   },
   {
     "title": "Nutella Crinkle Cookies",
+    "slug": "nutella-crinkle-cookies",
     "rating": 4.5,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/nutella-crinkle-cookies/",
@@ -124,6 +126,7 @@
   },
   {
     "title": "Lemon Thumbprints",
+    "slug": "lemon-thumbprint-cookies",
     "rating": 5.0,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/lemon-thumbprint-cookies/",
@@ -183,6 +186,7 @@
   },
   {
     "title": "Flourless Monster Cookies",
+    "slug": "flourless-monster-cookies",
     "rating": 4.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/flourless-monster-cookies/",
@@ -236,6 +240,7 @@
   },
   {
     "title": "Marshmallow-Surprise Hot Cocoa Cookies",
+    "slug": "marshmallow-surprise-hot-cocoa-cookies",
     "rating": 4.9,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/marshmallow-surprise-hot-cocoa-cookies/",
@@ -294,6 +299,7 @@
   },
   {
     "title": "Peppermint Snowball Cookies",
+    "slug": "peppermint-snowball-cookies",
     "rating": 4.3,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/peppermint-snowball-cookies/",
@@ -340,6 +346,7 @@
   },
   {
     "title": "Coconut Macaroons",
+    "slug": "coconut-macaroons",
     "rating": 4.6,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/coconut-macaroons/",
@@ -391,6 +398,7 @@
   },
   {
     "title": "Brown Butter Pumpkin Oatmeal Cookies",
+    "slug": "brown-butter-pumpkin-oatmeal-cookies",
     "rating": 4.9,
     "num_reviews": 104,
     "link": "https://sallysbakingaddiction.com/brown-butter-pumpkin-oatmeal-cookies/",
@@ -457,6 +465,7 @@
   },
   {
     "title": "Flourless Peanut Butter Oatmeal Cookies",
+    "slug": "flourless-peanut-butter-oatmeal-cookies",
     "rating": 4.6,
     "num_reviews": 23,
     "link": "https://sallysbakingaddiction.com/flourless-peanut-butter-oatmeal-cookies/",
@@ -507,6 +516,7 @@
   },
   {
     "title": "Bakery-Style Peanut Butter Chocolate Chip Cookies",
+    "slug": "peanut-butter-chocolate-chip-cookies",
     "rating": 4.9,
     "num_reviews": 72,
     "link": "https://sallysbakingaddiction.com/peanut-butter-chocolate-chip-cookies/",
@@ -562,6 +572,7 @@
   },
   {
     "title": "Fireworks Celebration Cookies (Easy Decoration)",
+    "slug": "fireworks-celebration-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/fireworks-celebration-cookies/",
@@ -625,6 +636,7 @@
   },
   {
     "title": "Soft-Baked Peanut Butter Chocolate Swirl Cookies",
+    "slug": "soft-baked-peanut-butter-chocolate-swirl-cookies",
     "rating": 4.7,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/soft-baked-peanut-butter-chocolate-swirl-cookies/",
@@ -690,6 +702,7 @@
   },
   {
     "title": "Easter Cookies (Decorated & Festive)",
+    "slug": "easter-cookies",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/easter-cookies/",
@@ -755,6 +768,7 @@
   },
   {
     "title": "1 Giant Double Chocolate Cookie",
+    "slug": "one-giant-chocolate-cookie",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/one-giant-chocolate-cookie/",
@@ -805,6 +819,7 @@
   },
   {
     "title": "Valentine\u2019s Day Cookies",
+    "slug": "valentines-day-heart-sugar-cookies",
     "rating": 4.6,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/valentines-day-heart-sugar-cookies/",
@@ -866,6 +881,7 @@
   },
   {
     "title": "Strawberries & Cream Cookies",
+    "slug": "strawberry-cream-cookies",
     "rating": 4.4,
     "num_reviews": 48,
     "link": "https://sallysbakingaddiction.com/strawberry-cream-cookies/",
@@ -920,6 +936,7 @@
   },
   {
     "title": "Banana Chocolate Chip Breakfast Cookies",
+    "slug": "banana-chocolate-chip-breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 37,
     "link": "https://sallysbakingaddiction.com/banana-chocolate-chip-breakfast-cookies/",
@@ -968,6 +985,7 @@
   },
   {
     "title": "Soft M&M Cookie Bars",
+    "slug": "mm-cookie-bars",
     "rating": 4.7,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/mm-cookie-bars/",
@@ -1021,6 +1039,7 @@
   },
   {
     "title": "Spiced Eggnog Oatmeal Cream Pies",
+    "slug": "eggnog-oatmeal-cream-pies",
     "rating": 4.8,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/eggnog-oatmeal-cream-pies/",
@@ -1079,6 +1098,7 @@
   },
   {
     "title": "Cranberry Orange Icebox Cookies",
+    "slug": "cranberry-orange-icebox-cookies",
     "rating": 4.9,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/cranberry-orange-icebox-cookies/",
@@ -1133,6 +1153,7 @@
   },
   {
     "title": "Andes Mint Chocolate Cookies",
+    "slug": "andes-mint-chocolate-cookies",
     "rating": 4.9,
     "num_reviews": 34,
     "link": "https://sallysbakingaddiction.com/andes-mint-chocolate-cookies/",
@@ -1192,6 +1213,7 @@
   },
   {
     "title": "Peanut Butter Snickerdoodles",
+    "slug": "peanut-butter-snickerdoodles",
     "rating": 4.8,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/peanut-butter-snickerdoodles/",
@@ -1246,6 +1268,7 @@
   },
   {
     "title": "Lemon Crinkle Cookies",
+    "slug": "lemon-crinkle-cookies",
     "rating": 4.5,
     "num_reviews": 104,
     "link": "https://sallysbakingaddiction.com/lemon-crinkle-cookies/",
@@ -1307,6 +1330,7 @@
   },
   {
     "title": "How to Make Pinwheel Cookies",
+    "slug": "pinwheel-cookies",
     "rating": 4.8,
     "num_reviews": 109,
     "link": "https://sallysbakingaddiction.com/pinwheel-cookies/",
@@ -1377,6 +1401,7 @@
   },
   {
     "title": "Pecan Sugar Cookies with Brown Butter Icing",
+    "slug": "pecan-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 50,
     "link": "https://sallysbakingaddiction.com/pecan-sugar-cookies/",
@@ -1443,6 +1468,7 @@
   },
   {
     "title": "Candy Cane Kiss Cookies",
+    "slug": "candy-cane-kiss-cookies",
     "rating": 4.6,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/candy-cane-kiss-cookies/",
@@ -1501,6 +1527,7 @@
   },
   {
     "title": "Chocolate Ginger Cookies",
+    "slug": "chocolate-ginger-cookies",
     "rating": 4.8,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/chocolate-ginger-cookies/",
@@ -1566,6 +1593,7 @@
   },
   {
     "title": "Classic Peanut Butter Blossoms",
+    "slug": "classic-peanut-butter-blossoms",
     "rating": 4.5,
     "num_reviews": 48,
     "link": "https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/",
@@ -1620,6 +1648,7 @@
   },
   {
     "title": "Snowball Cookies Recipe",
+    "slug": "snowball-cookies-recipe",
     "rating": 4.7,
     "num_reviews": 46,
     "link": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
@@ -1667,6 +1696,7 @@
   },
   {
     "title": "Christmas Sugar Cookies Recipe with Easy Icing",
+    "slug": "christmas-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 79,
     "link": "https://sallysbakingaddiction.com/christmas-sugar-cookies/",
@@ -1735,6 +1765,7 @@
   },
   {
     "title": "Pumpkin Snickerdoodles",
+    "slug": "white-chocolate-pumpkin-snickerdoodles",
     "rating": 4.6,
     "num_reviews": 57,
     "link": "https://sallysbakingaddiction.com/white-chocolate-pumpkin-snickerdoodles/",
@@ -1794,6 +1825,7 @@
   },
   {
     "title": "Favorite Double Chocolate Chip Cookies Recipe",
+    "slug": "double-chocolate-chip-cookies-recipe",
     "rating": 4.8,
     "num_reviews": 84,
     "link": "https://sallysbakingaddiction.com/double-chocolate-chip-cookies-recipe/",
@@ -1848,6 +1880,7 @@
   },
   {
     "title": "Cookie Ice Cream Sandwiches (Like a Chipwich!)",
+    "slug": "cookie-ice-cream-sandwiches",
     "rating": 4.6,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/cookie-ice-cream-sandwiches/",
@@ -1903,6 +1936,7 @@
   },
   {
     "title": "Peanut Butter Filled Brownie Cookies",
+    "slug": "peanut-butter-filled-brownie-cookies",
     "rating": 4.8,
     "num_reviews": 224,
     "link": "https://sallysbakingaddiction.com/peanut-butter-filled-brownie-cookies/",
@@ -1999,6 +2033,7 @@
   },
   {
     "title": "Chewy Chocolate Chip Cookies",
+    "slug": "chewy-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 1005,
     "link": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/",
@@ -2052,6 +2087,7 @@
   },
   {
     "title": "Soft & Thick Peanut Butter Cookies",
+    "slug": "soft-peanut-butter-cookie-recipe",
     "rating": 4.7,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/soft-peanut-butter-cookie-recipe/",
@@ -2106,6 +2142,7 @@
   },
   {
     "title": "Vanilla Bean St. Patrick\u2019s Day Cookies",
+    "slug": "vanilla-bean-shamrock-cookies",
     "rating": 4.6,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/vanilla-bean-shamrock-cookies/",
@@ -2169,6 +2206,7 @@
   },
   {
     "title": "White Chocolate Dipped Red Velvet Cookies",
+    "slug": "white-chocolate-dipped-red-velvet-cookies",
     "rating": 4.0,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/white-chocolate-dipped-red-velvet-cookies/",
@@ -2223,6 +2261,7 @@
   },
   {
     "title": "Peanut Butter Sweetheart Cookies",
+    "slug": "peanut-butter-sweethearts",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/peanut-butter-sweethearts/",
@@ -2273,6 +2312,7 @@
   },
   {
     "title": "Soft-Baked White Chocolate Cranberry Cookies",
+    "slug": "soft-baked-white-chocolate-chip-cranberry-cookies",
     "rating": 4.8,
     "num_reviews": 81,
     "link": "https://sallysbakingaddiction.com/soft-baked-white-chocolate-chip-cranberry-cookies/",
@@ -2322,6 +2362,7 @@
   },
   {
     "title": "Peanut Butter Chocolate Half Moons",
+    "slug": "peanut-butter-chocolate-half-moon-cookies",
     "rating": 4.4,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/peanut-butter-chocolate-half-moon-cookies/",
@@ -2374,6 +2415,7 @@
   },
   {
     "title": "Lemon Coconut Drop Shortbread Cookies",
+    "slug": "lemon-coconut-shortbread-cookies",
     "rating": 4.8,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/lemon-coconut-shortbread-cookies/",
@@ -2431,6 +2473,7 @@
   },
   {
     "title": "Caramel Hazelnut Linzer Cookies",
+    "slug": "caramel-hazelnut-sandwich-cookies",
     "rating": 4.9,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/caramel-hazelnut-sandwich-cookies/",
@@ -2495,6 +2538,7 @@
   },
   {
     "title": "Maple Pecan Snickerdoodles",
+    "slug": "maple-pecan-snickerdoodles",
     "rating": 4.8,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/maple-pecan-snickerdoodles/",
@@ -2558,6 +2602,7 @@
   },
   {
     "title": "Peppermint Frosted Chocolate Cookies",
+    "slug": "peppermint-frosted-chocolate-cookies",
     "rating": 4.8,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/peppermint-frosted-chocolate-cookies/",
@@ -2618,6 +2663,7 @@
   },
   {
     "title": "Almond Butter Sparkle Cookies",
+    "slug": "almond-butter-sparkle-cookies",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/almond-butter-sparkle-cookies/",
@@ -2671,6 +2717,7 @@
   },
   {
     "title": "Shortbread Wedge Cookies",
+    "slug": "shortbread-wedge-cookies",
     "rating": 4.8,
     "num_reviews": 231,
     "link": "https://sallysbakingaddiction.com/shortbread-wedge-cookies/",
@@ -2745,6 +2792,7 @@
   },
   {
     "title": "Cinnamon Spice Palmiers",
+    "slug": "cinnamon-spice-palmiers",
     "rating": 4.9,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/cinnamon-spice-palmiers/",
@@ -2795,6 +2843,7 @@
   },
   {
     "title": "Iced Gingerbread Oatmeal Cookies",
+    "slug": "iced-gingerbread-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 137,
     "link": "https://sallysbakingaddiction.com/iced-gingerbread-oatmeal-cookies/",
@@ -2853,6 +2902,7 @@
   },
   {
     "title": "Halloween Chocolate Cookies",
+    "slug": "halloween-chocolate-cookies",
     "rating": 4.9,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/halloween-chocolate-cookies/",
@@ -2905,6 +2955,7 @@
   },
   {
     "title": "Pumpkin Spice Roll Cookies",
+    "slug": "pumpkin-spice-roll-cookies",
     "rating": 4.8,
     "num_reviews": 209,
     "link": "https://sallysbakingaddiction.com/pumpkin-spice-roll-cookies/",
@@ -2998,6 +3049,7 @@
   },
   {
     "title": "Dark Chocolate Pecan Cookies (with Brown Butter)",
+    "slug": "dark-chocolate-pecan-cookies",
     "rating": 4.7,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-pecan-cookies/",
@@ -3048,6 +3100,7 @@
   },
   {
     "title": "Glazed Coconut Lime Cookies",
+    "slug": "coconut-lime-cookies",
     "rating": 5.0,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/coconut-lime-cookies/",
@@ -3103,6 +3156,7 @@
   },
   {
     "title": "Brown Butter Toffee Chocolate Chip Cookies",
+    "slug": "brown-butter-toffee-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/brown-butter-toffee-chocolate-chip-cookies/",
@@ -3151,6 +3205,7 @@
   },
   {
     "title": "XXL Buttery Soft Sugar Cookie",
+    "slug": "giant-sugar-cookie",
     "rating": 4.8,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/giant-sugar-cookie/",
@@ -3191,6 +3246,7 @@
   },
   {
     "title": "French Macarons",
+    "slug": "french-macarons",
     "rating": 4.8,
     "num_reviews": 534,
     "link": "https://sallysbakingaddiction.com/french-macarons/",
@@ -3317,6 +3373,7 @@
   },
   {
     "title": "Raspberry Sugar Cookies",
+    "slug": "raspberry-sugar-cookies",
     "rating": 4.4,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/raspberry-sugar-cookies/",
@@ -3375,6 +3432,7 @@
   },
   {
     "title": "Soft-Baked M&M Cookies",
+    "slug": "rainbow-mm-cookies",
     "rating": 4.7,
     "num_reviews": 102,
     "link": "https://sallysbakingaddiction.com/rainbow-mm-cookies/",
@@ -3421,6 +3479,7 @@
   },
   {
     "title": "Lemon Ginger Cookies",
+    "slug": "lemon-ginger-cookies",
     "rating": 4.8,
     "num_reviews": 45,
     "link": "https://sallysbakingaddiction.com/lemon-ginger-cookies/",
@@ -3477,6 +3536,7 @@
   },
   {
     "title": "Red Velvet Kiss Cookies",
+    "slug": "red-velvet-kiss-cookies",
     "rating": 4.6,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/red-velvet-kiss-cookies/",
@@ -3530,6 +3590,7 @@
   },
   {
     "title": "Sweet Vanilla Bean Biscotti",
+    "slug": "sweet-vanilla-bean-biscotti",
     "rating": 4.6,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/sweet-vanilla-bean-biscotti/",
@@ -3583,6 +3644,7 @@
   },
   {
     "title": "Brownie Cookies",
+    "slug": "brownie-cookies",
     "rating": 4.8,
     "num_reviews": 111,
     "link": "https://sallysbakingaddiction.com/brownie-cookies/",
@@ -3637,6 +3699,7 @@
   },
   {
     "title": "Apricot Cream Cheese Cookies",
+    "slug": "apricot-cream-cheese-cookies",
     "rating": 4.7,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/apricot-cream-cheese-cookies/",
@@ -3691,6 +3754,7 @@
   },
   {
     "title": "Stamped Cinnamon Brown Sugar Cookies",
+    "slug": "cinnamon-brown-sugar-stamped-cookies",
     "rating": 4.5,
     "num_reviews": 48,
     "link": "https://sallysbakingaddiction.com/cinnamon-brown-sugar-stamped-cookies/",
@@ -3741,6 +3805,7 @@
   },
   {
     "title": "Almond Butter Coconut Macaroons (GF)",
+    "slug": "almond-butter-coconut-macaroons",
     "rating": 4.8,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/almond-butter-coconut-macaroons/",
@@ -3782,6 +3847,7 @@
   },
   {
     "title": "Mint Chocolate Checkerboard Cookies",
+    "slug": "mint-chocolate-checkerboard-cookies",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/mint-chocolate-checkerboard-cookies/",
@@ -3844,6 +3910,7 @@
   },
   {
     "title": "Gingerbread Whoopie Pies",
+    "slug": "gingerbread-whoopie-pies",
     "rating": 4.8,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/gingerbread-whoopie-pies/",
@@ -3904,6 +3971,7 @@
   },
   {
     "title": "Stained Glass Window Sugar Cookies",
+    "slug": "stained-glass-window-cookies",
     "rating": 4.8,
     "num_reviews": 169,
     "link": "https://sallysbakingaddiction.com/stained-glass-window-cookies/",
@@ -3959,6 +4027,7 @@
   },
   {
     "title": "Chocolate Peanut Butter No-Bake Cookies",
+    "slug": "chocolate-peanut-butter-no-bake-cookies",
     "rating": 4.6,
     "num_reviews": 88,
     "link": "https://sallysbakingaddiction.com/chocolate-peanut-butter-no-bake-cookies/",
@@ -4006,6 +4075,7 @@
   },
   {
     "title": "Super Soft Pumpkin Cookies",
+    "slug": "pumpkin-cookies",
     "rating": 4.9,
     "num_reviews": 81,
     "link": "https://sallysbakingaddiction.com/pumpkin-cookies/",
@@ -4067,6 +4137,7 @@
   },
   {
     "title": "Breakfast Cookies",
+    "slug": "breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/breakfast-cookies/",
@@ -4117,6 +4188,7 @@
   },
   {
     "title": "Zucchini Chocolate Chip Cookies",
+    "slug": "zucchini-oatmeal-chocolate-chip-cookies",
     "rating": 4.7,
     "num_reviews": 66,
     "link": "https://sallysbakingaddiction.com/zucchini-oatmeal-chocolate-chip-cookies/",
@@ -4169,6 +4241,7 @@
   },
   {
     "title": "Cookies & Cream Cookies",
+    "slug": "cookies-n-cream-cookies",
     "rating": 4.9,
     "num_reviews": 83,
     "link": "https://sallysbakingaddiction.com/cookies-n-cream-cookies/",
@@ -4222,6 +4295,7 @@
   },
   {
     "title": "Flourless Almond Butter Chocolate Chip Cookies",
+    "slug": "almond-butter-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 78,
     "link": "https://sallysbakingaddiction.com/almond-butter-chocolate-chip-cookies/",
@@ -4263,6 +4337,7 @@
   },
   {
     "title": "Dark Chocolate Chunk Oatmeal Cookies",
+    "slug": "dark-chocolate-chunk-oatmeal-cookies",
     "rating": 4.6,
     "num_reviews": 58,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-chunk-oatmeal-cookies/",
@@ -4316,6 +4391,7 @@
   },
   {
     "title": "Strawberry Biscuit Cookies",
+    "slug": "strawberry-biscuit-cookies",
     "rating": 4.8,
     "num_reviews": 38,
     "link": "https://sallysbakingaddiction.com/strawberry-biscuit-cookies/",
@@ -4374,6 +4450,7 @@
   },
   {
     "title": "Inside Out Chocolate Chip Cookies",
+    "slug": "inside-out-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 160,
     "link": "https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/",
@@ -4425,6 +4502,7 @@
   },
   {
     "title": "Chocolate Swirl Meringue Cookies",
+    "slug": "chocolate-swirled-meringue-cookies",
     "rating": 4.6,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/chocolate-swirled-meringue-cookies/",
@@ -4475,6 +4553,7 @@
   },
   {
     "title": "Caramel Stuffed Nutella Cookies",
+    "slug": "caramel-stuffed-nutella-cookies",
     "rating": 4.8,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/caramel-stuffed-nutella-cookies/",
@@ -4528,6 +4607,7 @@
   },
   {
     "title": "Pecan Shortbread",
+    "slug": "pecan-shortbread",
     "rating": 4.5,
     "num_reviews": 35,
     "link": "https://sallysbakingaddiction.com/pecan-shortbread/",
@@ -4578,6 +4658,7 @@
   },
   {
     "title": "Peanut Butter Jam Thumbprints",
+    "slug": "peanut-butter-jam-thumbprints",
     "rating": 4.8,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/peanut-butter-jam-thumbprints/",
@@ -4635,6 +4716,7 @@
   },
   {
     "title": "White Chocolate Chip Cherry Oatmeal Cookies",
+    "slug": "white-chocolate-chip-cherry-oatmeal-cookies",
     "rating": 4.6,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/white-chocolate-chip-cherry-oatmeal-cookies/",
@@ -4689,6 +4771,7 @@
   },
   {
     "title": "Cranberry Spice Drops with Eggnog Icing",
+    "slug": "cranberry-spice-cookies",
     "rating": 4.8,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/cranberry-spice-cookies/",
@@ -4744,6 +4827,7 @@
   },
   {
     "title": "Chocolate Gingerbread Sandwich Cookies",
+    "slug": "chocolate-gingerbread-sandwich-cookies",
     "rating": 5.0,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/chocolate-gingerbread-sandwich-cookies/",
@@ -4803,6 +4887,7 @@
   },
   {
     "title": "Chocolate Peppermint Thumbprints",
+    "slug": "chocolate-peppermint-thumbprints",
     "rating": 4.8,
     "num_reviews": 34,
     "link": "https://sallysbakingaddiction.com/chocolate-peppermint-thumbprints/",
@@ -4861,6 +4946,7 @@
   },
   {
     "title": "Butter Cookies",
+    "slug": "butter-cookies",
     "rating": 4.8,
     "num_reviews": 172,
     "link": "https://sallysbakingaddiction.com/butter-cookies/",
@@ -4943,6 +5029,7 @@
   },
   {
     "title": "Double Chocolate Crinkle Cookies",
+    "slug": "double-chocolate-crinkle-cookies",
     "rating": 4.9,
     "num_reviews": 252,
     "link": "https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/",
@@ -4996,6 +5083,7 @@
   },
   {
     "title": "Apple Cinnamon Spice Whoopie Pies",
+    "slug": "apple-spice-whoopie-pies",
     "rating": 4.9,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/apple-spice-whoopie-pies/",
@@ -5064,6 +5152,7 @@
   },
   {
     "title": "Chewy Pumpkin Chocolate Chip Cookies",
+    "slug": "pumpkin-chocolate-chip-cookies",
     "rating": 4.6,
     "num_reviews": 243,
     "link": "https://sallysbakingaddiction.com/pumpkin-chocolate-chip-cookies/",
@@ -5118,6 +5207,7 @@
   },
   {
     "title": "Soft Cut-Out Sugar Cookies",
+    "slug": "best-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 750,
     "link": "https://sallysbakingaddiction.com/best-sugar-cookies/",
@@ -5172,6 +5262,7 @@
   },
   {
     "title": "Drop Style Sprinkle Sugar Cookies",
+    "slug": "drop-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 101,
     "link": "https://sallysbakingaddiction.com/drop-sugar-cookies/",
@@ -5218,6 +5309,7 @@
   },
   {
     "title": "Maple Brown Sugar Cookies",
+    "slug": "maple-brown-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 281,
     "link": "https://sallysbakingaddiction.com/maple-brown-sugar-cookies/",
@@ -5277,6 +5369,7 @@
   },
   {
     "title": "Super-Chunk White Chocolate Macadamia Nut Cookies",
+    "slug": "super-chunk-white-chocolate-macadamia-nut-cookies",
     "rating": 4.7,
     "num_reviews": 166,
     "link": "https://sallysbakingaddiction.com/super-chunk-white-chocolate-macadamia-nut-cookies/",
@@ -5326,6 +5419,7 @@
   },
   {
     "title": "Chewy Oatmeal M&M Cookies",
+    "slug": "chewy-oatmeal-mm-cookies",
     "rating": 4.5,
     "num_reviews": 46,
     "link": "https://sallysbakingaddiction.com/chewy-oatmeal-mm-cookies/",
@@ -5377,6 +5471,7 @@
   },
   {
     "title": "Very Peanut Butter Cookies",
+    "slug": "peanut-butter-cookies",
     "rating": 4.8,
     "num_reviews": 165,
     "link": "https://sallysbakingaddiction.com/peanut-butter-cookies/",
@@ -5427,6 +5522,7 @@
   },
   {
     "title": "S\u2019more Chocolate Chip Cookies",
+    "slug": "smores-chocolate-chip-cookies",
     "rating": 5.0,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/smores-chocolate-chip-cookies/",
@@ -5482,6 +5578,7 @@
   },
   {
     "title": "6 Giant Chocolate Chip Cookies",
+    "slug": "giant-chocolate-chip-cookies",
     "rating": 5.0,
     "num_reviews": 174,
     "link": "https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/",
@@ -5531,6 +5628,7 @@
   },
   {
     "title": "One Giant Monster Cookie",
+    "slug": "one-giant-monster-mm-cookie",
     "rating": 4.9,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/one-giant-monster-mm-cookie/",
@@ -5577,6 +5675,7 @@
   },
   {
     "title": "Jelly Bean Sugar Cookies",
+    "slug": "jellybean-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/jellybean-sugar-cookies/",
@@ -5626,6 +5725,7 @@
   },
   {
     "title": "Soft and Chewy Oatmeal Raisin Cookies",
+    "slug": "soft-chewy-oatmeal-raisin-cookies",
     "rating": 4.8,
     "num_reviews": 763,
     "link": "https://sallysbakingaddiction.com/soft-chewy-oatmeal-raisin-cookies/",
@@ -5674,6 +5774,7 @@
   },
   {
     "title": "Pistachio Drop Cookies",
+    "slug": "pistachio-cookies",
     "rating": 4.7,
     "num_reviews": 138,
     "link": "https://sallysbakingaddiction.com/pistachio-cookies/",
@@ -5727,6 +5828,7 @@
   },
   {
     "title": "Sparkle Sweetheart Cookies",
+    "slug": "sparkle-sweetheart-cookies",
     "rating": 4.8,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/sparkle-sweetheart-cookies/",
@@ -5777,6 +5879,7 @@
   },
   {
     "title": "1 Dough Neapolitan Cookies",
+    "slug": "neapolitan-cookies",
     "rating": 4.9,
     "num_reviews": 40,
     "link": "https://sallysbakingaddiction.com/neapolitan-cookies/",
@@ -5845,6 +5948,7 @@
   },
   {
     "title": "Drop Style Christmas Sugar Cookies",
+    "slug": "drop-christmas-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/drop-christmas-sugar-cookies/",
@@ -5892,6 +5996,7 @@
   },
   {
     "title": "Easy Lace Cookies",
+    "slug": "lace-cookies",
     "rating": 4.5,
     "num_reviews": 149,
     "link": "https://sallysbakingaddiction.com/lace-cookies/",
@@ -5939,6 +6044,7 @@
   },
   {
     "title": "Gingerbread House Recipe (VIDEO)",
+    "slug": "gingerbread-house",
     "rating": 4.3,
     "num_reviews": 80,
     "link": "https://sallysbakingaddiction.com/gingerbread-house/",
@@ -5985,7 +6091,7 @@
       "royal icing (the \u201cglue\u201d)",
       "assorted candies (see post for suggestions)",
       "1/2 cup (95g) shortening, at room temperature",
-      "1/2 cup (115g) unsalted butter, softened to room temperature",
+      "1/2 cup (8 Tbsp; 113g) unsalted butter, softened to room temperature",
       "4 cups (480g) confectioners\u2019 sugar",
       "2 Tablespoons (30ml) milk",
       "1/4 teaspoon pure vanilla extract",
@@ -5994,30 +6100,31 @@
     "instructions": [
       "Print out my\u00a0Sally\u2019s Baking Recipes Gingerbread House Template and cut out the shapes. Set aside for step 6.",
       "Make the cookie dough: Whisk the flour, baking soda, ginger, cinnamon, allspice, and salt together in a large bowl. Set aside.",
-      "In a large bowl using a hand-held mixer or stand mixer fitted with a paddle attachment, beat the butter and brown sugar together on medium speed until completely smooth and creamy, about 2 minutes. Beat\u00a0in the egg, molasses, and water on high speed. Scrape down the sides and up the bottom of the bowl and beat again as needed to combine. On low speed, slowly mix the dry ingredients into the wet ingredients until combined. Cookie dough will be very thick.",
+      "In a large bowl using a handheld mixer or stand mixer fitted with a paddle attachment, beat the butter and brown sugar together on medium speed until completely smooth and creamy, about 2 minutes. Beat in the egg, molasses, and water on high speed. Scrape down the sides and up the bottom of the bowl and beat again as needed to combine. On low speed, slowly mix the dry ingredients into the wet ingredients until combined. Cookie dough will be very thick.",
       "Divide cookie dough in half, flatten into discs (about 4-5 inches in diameter), and wrap each tightly in plastic wrap. Chill in the refrigerator for 2 hours or up to 3 days.",
       "Preheat oven to\u00a0350\u00b0F (177\u00b0C). Line 2-3 large baking sheets with parchment paper or silicone baking mats.",
-      "Cut into shapes: Remove each disc from the refrigerator and roll each out in between two pieces of parchment paper. Watch me do this in the video above\u2013 gingerbread cookie dough will stick to your counter no matter how much you flour it. Parchment is best. Roll out to about 1/4 inch thick. You want thick pieces for your gingerbread house. Lightly flour the underside of gingerbread house template shapes. (The dough is sticky and the paper may stick to it otherwise.) Using a pizza cutter or small knife, carefully cut the dough into the gingerbread house template shapes. You will need TWO of each shape. Re-roll dough scraps so you have enough dough for the whole house. Use any extra dough to create fun shapes using cookie cutters. I made a few gingerbread stars!",
+      "Cut into shapes: Remove each disc from the refrigerator and roll each out in between two pieces of parchment paper. Watch me do this in the video above\u2014gingerbread cookie dough will stick to your counter no matter how much you flour it. Parchment is best. Roll out to about 1/4 inch thick. You want thick pieces for your gingerbread house. Lightly flour the underside of gingerbread house template shapes. (The dough is sticky and the paper may stick to it otherwise.) Using a pizza cutter or small knife, carefully cut the dough into the gingerbread house template shapes. You will need TWO of each shape. Re-roll dough scraps so you have enough dough for the whole house. Use any extra dough to create fun shapes using cookie cutters. I made a few gingerbread stars!",
       "Carefully arrange gingerbread house shapes onto prepared baking sheets, about 3 inches apart. If they lost some of their shape transferring to the baking sheet, straighten out the edges (see my video above).",
-      "Bake house pieces for about 18-20 minutes or until edges are lightly browned. Bake chimney pieces for about 12-13 minutes or until edges are lightly browned. Remove from the oven and allow shapes to cool completely on the baking sheets or on the counter. A flat surface is KEY for cooling\u2013 the gingerbread house edges very slightly curl up otherwise. Cooled gingerbread house pieces can be made up to 1 week in advance, cover tightly and store at room temperature or in the refrigerator. They can also be frozen for up to 3 months, thaw at room temperature before using.",
-      "Construct the base of the house:\u00a0Select a base for your gingerbread house. I used a wooden cake server. Watch my video above to guide you through constructing the house. Start with two pieces: the front of the house and 1 side. Using a squeeze bottle, run a thick line of royal icing on one long edge and one short edge of the side of the house piece. Stick it to your base. Use whatever you have around the house to help it stand up. You can see in my video that I use snack bag clips. You can also prop it up with soda cans, a tall cup, water bottle, etc. Run a line of royal icing along the bottom of the front of the house piece. Stick it to your base, adhering it to the side of the house piece. Hold the two in place for a few minutes until the icing is partially set, propping them up as necessary. Repeat with the 2nd side of the house piece and back of the house piece. Pipe royal icing inside any seams, inside and outside of the house, to fill any voids. Don\u2019t be afraid to go heavy on the royal icing \u201cglue\u201d \u2014 when it dries, it looks like snow! Allow it to set at room temperature for at least 1 hour before adding the roof pieces.",
+      "Bake house pieces for about 18-20 minutes or until edges are lightly browned. Bake chimney pieces for about 12-13 minutes or until edges are lightly browned. Remove from the oven and allow shapes to cool completely on the baking sheets or on the counter. A flat surface is KEY for cooling\u2014the gingerbread house edges very slightly curl up otherwise. Cooled gingerbread house pieces can be made up to 1 week in advance, cover tightly and store at room temperature or in the refrigerator. They can also be frozen for up to 3 months, thaw at room temperature before using.",
+      "Construct the base of the house:\u00a0Select a base for your gingerbread house. I used a wooden cake server. Watch my video above to guide you through constructing the house. Start with two pieces: the front of the house and 1 side. Using a squeeze bottle, run a thick line of royal icing on one long edge and one short edge of the side of the house piece. Stick it to your base. Use whatever you have around the house to help it stand up. You can see in my video that I use snack bag clips. You can also prop it up with soda cans, a tall cup, water bottle, etc. Run a line of royal icing along the bottom of the front of the house piece. Stick it to your base, adhering it to the side of the house piece. Hold the two in place for a few minutes until the icing is partially set, propping them up as necessary. Repeat with the 2nd side of the house piece and back of the house piece. Pipe royal icing inside any seams, inside and outside of the house, to fill any voids. Don\u2019t be afraid to go heavy on the royal icing \u201cglue\u201d\u2014when it dries, it looks like snow! Allow it to set at room temperature for at least 1 hour before adding the roof pieces.",
       "Add the roof:\u00a0The roof pieces will be placed on top of the house base. Run a thick line of royal icing on the inside edges of one of the roof pieces and adhere it to the base. Hold in place for a few minutes. Repeat with 2nd roof piece. Run a thick line of royal icing where the two roof pieces meet at the top of the house. Hold in place for a few minutes.",
       "Optional Chimney:\u00a0The chimney is optional, but it\u2019s a lot of fun. I recommend putting together the chimney separately, then adhering to the roof. It\u2019s easiest to glue the chimney pieces together upside-down. Use thick lines of royal icing to assemble the chimney in the same way you put together the base of the house. (Except you\u2019re not adhering it to a base because it\u2019s going on the roof!) Allow icing to set by propping it up as necessary. Once set, adhere onto the roof. The chimney may not fit to the exact angle of the roof because both puffed up or lost some shape during baking and cooling, so use as much royal icing as necessary and you can cover any bare spots with buttercream during decoration.",
       "House must set: Before decorating, the icing on the entire house must completely set. Allow the entire house to set at room temperature for at least 3 hours, preferably 4-6 hours or even overnight before decorating. Cover and store leftover royal icing at room temperature or in the refrigerator during this time. It will be the glue for adhering candies to the house.",
-      "Prepare the buttercream:\u00a0Buttercream can be prepared up to 1 day in advance\u2013 cover tightly and store in the refrigerator overnight. Bring to room temperature before piping/decorating.\u00a0With a handheld or stand mixer fitted with a paddle attachment, beat the shortening and butter together on medium speed until creamy, about 2 minutes. Add confectioners\u2019 sugar, milk, and vanilla extract. Beat on low speed for 30 seconds, then increase to high speed and beat for 3 full minutes. Frosting will be very thick, which is what you want. If much too thick, add another splash of milk. Add a pinch of salt if frosting is too sweet. (I add 1/8 teaspoon salt.)",
+      "Prepare the buttercream:\u00a0Buttercream can be prepared up to 1 day in advance\u2014cover tightly and store in the refrigerator overnight. Bring to room temperature before piping/decorating. With a handheld or stand mixer fitted with a paddle attachment, beat the shortening and butter together on medium speed until creamy, about 2 minutes. Add confectioners\u2019 sugar, milk, and vanilla extract. Beat on low speed for 30 seconds, then increase to high speed and beat for 3 full minutes. Frosting will be very thick, which is what you want. If much too thick, add another splash of milk. Add a pinch of salt if frosting is too sweet. (I add 1/8 teaspoon salt.)",
       "Use buttercream, leftover royal icing, and candies for decorating. See my candy suggestions in the blog post above. I only used 1 piping tip for the entire house: Ateco piping tip #32. This is a small open star piping tip and you can watch me use it in the video above. Makes a lovely design.",
       "Don\u2019t forget to chow down on your beautiful creation if you\u2019re in the mood for eating it. Use your best judgment here, obviously the food will taste old after a few days!"
     ],
     "notes": [
       "Make Ahead Instructions:\u00a0Royal icing can be prepared the day before, see recipe note below. Crusting buttercream can also be made the day before, see step 13. Cookie dough can be made up to 3 days in advance, see step 4. Baked and cooled house pieces can be made up to 1 week in advance or frozen for up to 3 months, see step 8. House can be completely constructed up to 1 day in advance, see step 12.",
-      "Special Tools:\u00a0KitchenAid Stand Mixer | Rolling Pin | Pizza Cutter | Baking Sheet | Silpat Baking Mat | Meringue Powder | Squeeze Bottle | Wooden Server |\u00a0Piping Bags (reusable or disposable) | Ateco Decorating Tip #32 | Christmas Tree Decorations | Snowflake Decorations | Mini Candy Canes | Candy Canes | Gum Drops",
+      "Special Tools\u00a0(affiliate links): Glass Mixing Bowl | Whisk | Electric Mixer (Handheld or Stand) | Baking Sheets | Silicone Baking Mats | Parchment Paper | Rolling Pin | Pizza Cutter |\u00a0Wooden Server (or similar base for gingerbread house) |\u00a0Squeeze Bottle | Piping Bag (Reusable or Disposable) | Ateco Piping Tip #32 | Christmas Tree Decorations | Snowflake Decorations | Mini Candy Canes | Candy Canes | Gum Drops",
       "Recipe Yield: One gingerbread house\u00a0plus 6-8 3-inch cookies. Gingerbread house is about 7 inches tall (with chimney) and 6 inches wide.",
-      "Royal Icing: Decide how much royal icing you want to use. I suggest making the entire royal icing recipe so you have plenty for constructing and decorating. You can make the royal icing the day before\u2013 cover and store at room temperature or in the refrigerator overnight. Let it come to room temperature before using. You can freeze leftover royal icing (instructions in that recipe) or use it to decorate Christmas cookies. As you can see in these photos, I covered the roof with royal icing before piping the buttercream on top. (Let the royal icing dry before adding the buttercream on top.) As the royal icing dried, it gently dripped off the sides and looked like snow!",
+      "Royal Icing: Decide how much royal icing you want to use. I suggest making the entire royal icing recipe so you have plenty for constructing and decorating. You can make the royal icing the day before\u2014cover and store at room temperature or in the refrigerator overnight. Let it come to room temperature before using. You can freeze leftover royal icing (instructions in that recipe) or use it to decorate Christmas cookies. As you can see in these photos, I covered the roof with royal icing before piping the buttercream on top. (Let the royal icing dry before adding the buttercream on top.) As the royal icing dried, it gently dripped off the sides and looked like snow!",
       "Shortening: Shortening is what makes this buttercream \u201ccrust\u201d or \u201cset\u201d after a couple hours. If you want a sticky buttercream, you can replace the shortening with unsalted butter."
     ]
   },
   {
     "title": "Iced Oatmeal Cookies",
+    "slug": "iced-oatmeal-cookies",
     "rating": 4.9,
     "num_reviews": 123,
     "link": "https://sallysbakingaddiction.com/iced-oatmeal-cookies/",
@@ -6076,6 +6183,7 @@
   },
   {
     "title": "Santa\u2019s Whiskers Cookies",
+    "slug": "santas-whiskers-cookies",
     "rating": 4.9,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/santas-whiskers-cookies/",
@@ -6125,6 +6233,7 @@
   },
   {
     "title": "Christmas Cookies in a Jar & Free Printable",
+    "slug": "christmas-cookies-in-a-jar",
     "rating": 4.7,
     "num_reviews": 18,
     "link": "https://sallysbakingaddiction.com/christmas-cookies-in-a-jar/",
@@ -6162,6 +6271,7 @@
   },
   {
     "title": "My Favorite Spritz Cookies",
+    "slug": "spritz-cookies",
     "rating": 4.3,
     "num_reviews": 151,
     "link": "https://sallysbakingaddiction.com/spritz-cookies/",
@@ -6212,6 +6322,7 @@
   },
   {
     "title": "Peppermint Bark Cookies",
+    "slug": "peppermint-bark-cookies",
     "rating": 5.0,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/peppermint-bark-cookies/",
@@ -6265,6 +6376,7 @@
   },
   {
     "title": "Peanut Butter Cup Cookies",
+    "slug": "peanut-butter-cup-blossoms",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/peanut-butter-cup-blossoms/",
@@ -6314,6 +6426,7 @@
   },
   {
     "title": "Butter Cookies with Orange & Chocolate Ganache",
+    "slug": "butter-cookies-chocolate-ganache",
     "rating": 4.5,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/butter-cookies-chocolate-ganache/",
@@ -6368,6 +6481,7 @@
   },
   {
     "title": "Crispy Chocolate Chip Cookies",
+    "slug": "crispy-chocolate-chip-cookies",
     "rating": 4.6,
     "num_reviews": 135,
     "link": "https://sallysbakingaddiction.com/crispy-chocolate-chip-cookies/",
@@ -6416,6 +6530,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Layer Cake",
+    "slug": "chocolate-chip-cookie-layer-cake",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-layer-cake/",
@@ -6486,6 +6601,7 @@
   },
   {
     "title": "Coconut Macadamia Nut Cookies",
+    "slug": "coconut-macadamia-nut-cookies",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/coconut-macadamia-nut-cookies/",
@@ -6537,6 +6653,7 @@
   },
   {
     "title": "Mini Animal Cracker Cookies",
+    "slug": "animal-cracker-cookies",
     "rating": 5.0,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/animal-cracker-cookies/",
@@ -6591,6 +6708,7 @@
   },
   {
     "title": "Soft Cakey Sugar Cookies",
+    "slug": "soft-cakey-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 38,
     "link": "https://sallysbakingaddiction.com/soft-cakey-sugar-cookies/",
@@ -6643,8 +6761,9 @@
   },
   {
     "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+    "slug": "peanut-butter-oatmeal-chocolate-chip-cookies",
     "rating": 4.9,
-    "num_reviews": 435,
+    "num_reviews": 436,
     "link": "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2018/05/thick-peanut-butter-oatmeal-chocolate-chip-cookies-6.jpg",
@@ -6693,6 +6812,7 @@
   },
   {
     "title": "Soft & Chewy Oatmeal Scotchies",
+    "slug": "oatmeal-scotchies",
     "rating": 4.7,
     "num_reviews": 86,
     "link": "https://sallysbakingaddiction.com/oatmeal-scotchies/",
@@ -6744,6 +6864,7 @@
   },
   {
     "title": "Salted Pistachio Chocolate Chunk Slice and Bake Cookies",
+    "slug": "salted-pistachio-chocolate-chunk-cookies",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/salted-pistachio-chocolate-chunk-cookies/",
@@ -6793,6 +6914,7 @@
   },
   {
     "title": "Blueberry Muffin Cookies",
+    "slug": "blueberry-muffin-cookies",
     "rating": 4.7,
     "num_reviews": 59,
     "link": "https://sallysbakingaddiction.com/blueberry-muffin-cookies/",
@@ -6847,6 +6969,7 @@
   },
   {
     "title": "Lemon Ricotta Cookies",
+    "slug": "lemon-ricotta-cookies",
     "rating": 4.6,
     "num_reviews": 58,
     "link": "https://sallysbakingaddiction.com/lemon-ricotta-cookies/",
@@ -6901,6 +7024,7 @@
   },
   {
     "title": "Soft Cream Cheese Cookies with Nutella Glaze",
+    "slug": "cream-cheese-cookies-nutella-glaze",
     "rating": 4.8,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/cream-cheese-cookies-nutella-glaze/",
@@ -6957,6 +7081,7 @@
   },
   {
     "title": "Madeleines",
+    "slug": "madeleines",
     "rating": 4.9,
     "num_reviews": 146,
     "link": "https://sallysbakingaddiction.com/madeleines/",
@@ -7011,6 +7136,7 @@
   },
   {
     "title": "How to Make Football Cookies",
+    "slug": "football-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/football-cookies/",
@@ -7063,6 +7189,7 @@
   },
   {
     "title": "Cookie Cutter Sugar Cookies",
+    "slug": "decorated-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/decorated-sugar-cookies/",
@@ -7113,6 +7240,7 @@
   },
   {
     "title": "Dark Chocolate Orange Biscotti",
+    "slug": "dark-chocolate-orange-biscotti",
     "rating": 4.7,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-orange-biscotti/",
@@ -7167,6 +7295,7 @@
   },
   {
     "title": "Peanut Butter Cookie Sandwiches",
+    "slug": "peanut-butter-cookie-sandwiches",
     "rating": 4.8,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/peanut-butter-cookie-sandwiches/",
@@ -7219,6 +7348,7 @@
   },
   {
     "title": "Seriously Soft Molasses Cookies",
+    "slug": "soft-molasses-cookies",
     "rating": 4.5,
     "num_reviews": 299,
     "link": "https://sallysbakingaddiction.com/soft-molasses-cookies/",
@@ -7272,6 +7402,7 @@
   },
   {
     "title": "Christmas Cookie Sparkles",
+    "slug": "christmas-cookie-sparkles",
     "rating": 5.0,
     "num_reviews": 34,
     "link": "https://sallysbakingaddiction.com/christmas-cookie-sparkles/",
@@ -7322,6 +7453,7 @@
   },
   {
     "title": "Raspberry Pistachio Linzer Cookies",
+    "slug": "raspberry-pistachio-linzer-cookies",
     "rating": 4.9,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/raspberry-pistachio-linzer-cookies/",
@@ -7379,6 +7511,7 @@
   },
   {
     "title": "Mini M&M Cookies",
+    "slug": "mini-mm-cookies",
     "rating": 4.6,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/mini-mm-cookies/",
@@ -7427,6 +7560,7 @@
   },
   {
     "title": "No-Bake Chocolate Coconut Snowballs",
+    "slug": "no-bake-chocolate-coconut-snowballs",
     "rating": 4.8,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/no-bake-chocolate-coconut-snowballs/",
@@ -7470,6 +7604,7 @@
   },
   {
     "title": "Cream Cheese Stuffed Red Velvet Cookies",
+    "slug": "cream-cheese-stuffed-red-velvet-cookies",
     "rating": 4.5,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/cream-cheese-stuffed-red-velvet-cookies/",
@@ -7534,6 +7669,7 @@
   },
   {
     "title": "Snowman Sugar Cookies",
+    "slug": "snowman-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/snowman-sugar-cookies/",
@@ -7592,6 +7728,7 @@
   },
   {
     "title": "White Chocolate Chai Snickerdoodles",
+    "slug": "white-chocolate-chai-snickerdoodles",
     "rating": 4.7,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/white-chocolate-chai-snickerdoodles/",
@@ -7644,6 +7781,7 @@
   },
   {
     "title": "Chewy Pumpkin Oatmeal Chocolate Chip Cookies",
+    "slug": "chewy-pumpkin-oatmeal-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 52,
     "link": "https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/",
@@ -7695,6 +7833,7 @@
   },
   {
     "title": "White Chocolate Peanut Butter Cookies",
+    "slug": "white-chocolate-peanut-butter-cookies",
     "rating": 5.0,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/white-chocolate-peanut-butter-cookies/",
@@ -7745,6 +7884,7 @@
   },
   {
     "title": "Black and White Cookies",
+    "slug": "black-and-white-cookies",
     "rating": 4.5,
     "num_reviews": 78,
     "link": "https://sallysbakingaddiction.com/black-and-white-cookies/",
@@ -7801,6 +7941,7 @@
   },
   {
     "title": "Dark Chocolate Cranberry Almond Cookies",
+    "slug": "dark-chocolate-cranberry-almond-cookies",
     "rating": 4.9,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-cranberry-almond-cookies/",
@@ -7849,6 +7990,7 @@
   },
   {
     "title": "Caramel Apple Spice Thumbprints",
+    "slug": "caramel-apple-spice-thumbprints",
     "rating": 4.8,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/caramel-apple-spice-thumbprints/",
@@ -7898,6 +8040,7 @@
   },
   {
     "title": "Brownie Walnut Chunk Cookies",
+    "slug": "brownie-walnut-chunk-cookies",
     "rating": 4.8,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/brownie-walnut-chunk-cookies/",
@@ -7948,6 +8091,7 @@
   },
   {
     "title": "Striped Fudge Cookie Sandwiches",
+    "slug": "striped-fudge-cookie-sandwiches",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/striped-fudge-cookie-sandwiches/",
@@ -8006,6 +8150,7 @@
   },
   {
     "title": "Watermelon Sugar Cookies",
+    "slug": "watermelon-sugar-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/watermelon-sugar-cookies/",
@@ -8057,6 +8202,7 @@
   },
   {
     "title": "Soft and Chewy Oatmeal Chocolate Chip Cookies",
+    "slug": "oatmeal-chocolate-chip-cookies",
     "rating": 4.7,
     "num_reviews": 503,
     "link": "https://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/",
@@ -8106,6 +8252,7 @@
   },
   {
     "title": "Chocolate Whoopie Pies with Salted Caramel Frosting",
+    "slug": "chocolate-whoopie-pies-with-salted-caramel-frosting",
     "rating": 4.4,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/chocolate-whoopie-pies-with-salted-caramel-frosting/",
@@ -8164,6 +8311,7 @@
   },
   {
     "title": "Blueberry Banana Breakfast Cookies",
+    "slug": "blueberry-banana-breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/blueberry-banana-breakfast-cookies/",
@@ -8214,6 +8362,7 @@
   },
   {
     "title": "Cinnamon Roll Cookies",
+    "slug": "cinnamon-roll-cookies",
     "rating": 4.4,
     "num_reviews": 40,
     "link": "https://sallysbakingaddiction.com/cinnamon-roll-cookies/",
@@ -8269,6 +8418,7 @@
   },
   {
     "title": "Maple Cinnamon Star Cookies",
+    "slug": "maple-cinnamon-star-cookies",
     "rating": 4.8,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/maple-cinnamon-star-cookies/",
@@ -8322,6 +8472,7 @@
   },
   {
     "title": "Brown Butter Sugar Cookies",
+    "slug": "brown-butter-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/brown-butter-sugar-cookies/",
@@ -8368,6 +8519,7 @@
   },
   {
     "title": "Peppermint White Chocolate Cookies",
+    "slug": "peppermint-white-chocolate-cookies",
     "rating": 4.8,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/peppermint-white-chocolate-cookies/",
@@ -8417,6 +8569,7 @@
   },
   {
     "title": "Salted Chocolate Pistachio Shortbread",
+    "slug": "salted-chocolate-pistachio-shortbread",
     "rating": 4.9,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/salted-chocolate-pistachio-shortbread/",
@@ -8462,6 +8615,7 @@
   },
   {
     "title": "Crisp Molasses Cookies",
+    "slug": "crisp-molasses-cookies",
     "rating": 4.9,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/crisp-molasses-cookies/",
@@ -8509,6 +8663,7 @@
   },
   {
     "title": "Magic 5 Cookies, Holiday Edition",
+    "slug": "white-chocolate-cranberry-pecan-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/white-chocolate-cranberry-pecan-oatmeal-cookies/",
@@ -8555,6 +8710,7 @@
   },
   {
     "title": "Rugelach Cookies with Cream Cheese Dough",
+    "slug": "how-to-make-rugelach-cookies",
     "rating": 4.9,
     "num_reviews": 33,
     "link": "https://sallysbakingaddiction.com/how-to-make-rugelach-cookies/",
@@ -8597,6 +8753,7 @@
   },
   {
     "title": "Red Velvet Whoopie Pies",
+    "slug": "red-velvet-whoopie-pies",
     "rating": 4.7,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/red-velvet-whoopie-pies/",
@@ -8647,6 +8804,7 @@
   },
   {
     "title": "Dark Chocolate Orange Slice & Bake Cookies",
+    "slug": "dark-chocolate-orange-slice-bake-cookies",
     "rating": 5.0,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-orange-slice-bake-cookies/",
@@ -8694,6 +8852,7 @@
   },
   {
     "title": "Apple Cinnamon Oatmeal Cookies",
+    "slug": "apple-cinnamon-oatmeal-cookies",
     "rating": 4.5,
     "num_reviews": 51,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-oatmeal-cookies/",
@@ -8747,6 +8906,7 @@
   },
   {
     "title": "Chewy Chocolate Chip Cookies with Less Sugar",
+    "slug": "chewy-chocolate-chip-cookies-with-less-sugar",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies-with-less-sugar/",
@@ -8798,6 +8958,7 @@
   },
   {
     "title": "Soft Caramel Snickerdoodles",
+    "slug": "soft-caramel-snickerdoodles",
     "rating": 4.1,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/soft-caramel-snickerdoodles/",
@@ -8851,6 +9012,7 @@
   },
   {
     "title": "Cream Cheese Sugar Cookies",
+    "slug": "cream-cheese-sugar-cookies",
     "rating": 4.8,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/cream-cheese-sugar-cookies/",
@@ -8910,6 +9072,7 @@
   },
   {
     "title": "Salted Dark Chocolate Cookies",
+    "slug": "salted-dark-chocolate-cookies",
     "rating": 4.7,
     "num_reviews": 18,
     "link": "https://sallysbakingaddiction.com/salted-dark-chocolate-cookies/",
@@ -8964,6 +9127,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Pizza",
+    "slug": "chocolate-chip-cookie-pizza",
     "rating": 4.7,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-pizza/",
@@ -9012,6 +9176,7 @@
   },
   {
     "title": "Peanut Butter Skillet Cookie",
+    "slug": "peanut-butter-skillet-cookie",
     "rating": 4.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/peanut-butter-skillet-cookie/",
@@ -9060,6 +9225,7 @@
   },
   {
     "title": "Magic 5 Cookies",
+    "slug": "magic-5-cookies",
     "rating": 4.5,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/magic-5-cookies/",
@@ -9107,6 +9273,7 @@
   },
   {
     "title": "Classic Chocolate Chip Cookie Bars",
+    "slug": "soft-chewy-chocolate-chip-cookie-bars",
     "rating": 4.6,
     "num_reviews": 120,
     "link": "https://sallysbakingaddiction.com/soft-chewy-chocolate-chip-cookie-bars/",
@@ -9151,6 +9318,7 @@
   },
   {
     "title": "Homemade Thin Mint Cookies",
+    "slug": "homemade-thin-mint-cookies",
     "rating": 4.7,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/homemade-thin-mint-cookies/",
@@ -9202,6 +9370,7 @@
   },
   {
     "title": "Chocolate Sugar Cookies",
+    "slug": "chocolate-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 37,
     "link": "https://sallysbakingaddiction.com/chocolate-sugar-cookies/",
@@ -9253,6 +9422,7 @@
   },
   {
     "title": "Chewy Chocolate Covered Pretzel Cookies",
+    "slug": "chewy-chocolate-covered-pretzel-cookies",
     "rating": 4.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/chewy-chocolate-covered-pretzel-cookies/",
@@ -9300,6 +9470,7 @@
   },
   {
     "title": "Sprinkle Slice \u2018n\u2019 Bake Cookies",
+    "slug": "sprinkle-slice-n-bake-cookies",
     "rating": 3.5,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/sprinkle-slice-n-bake-cookies/",
@@ -9345,6 +9516,7 @@
   },
   {
     "title": "Biscoff Chocolate Chip Cookies",
+    "slug": "biscoff-chocolate-chip-cookies",
     "rating": 4.4,
     "num_reviews": 23,
     "link": "https://sallysbakingaddiction.com/biscoff-chocolate-chip-cookies/",
@@ -9391,6 +9563,7 @@
   },
   {
     "title": "Toasted Hazelnut Slice \u2018n\u2019 Bake Cookies with Milk Chocolate",
+    "slug": "toasted-hazelnut-slice-n-bake-cookies-with-milk-chocolate",
     "rating": 3.3,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/toasted-hazelnut-slice-n-bake-cookies-with-milk-chocolate/",
@@ -9437,6 +9610,7 @@
   },
   {
     "title": "White Chocolate Cranberry Pistachio Biscotti",
+    "slug": "white-chocolate-cranberry-pistachio-biscotti",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/white-chocolate-cranberry-pistachio-biscotti/",
@@ -9485,6 +9659,7 @@
   },
   {
     "title": "Peppermint Mocha Cookies",
+    "slug": "peppermint-mocha-cookies",
     "rating": 4.9,
     "num_reviews": 31,
     "link": "https://sallysbakingaddiction.com/peppermint-mocha-cookies/",
@@ -9534,6 +9709,7 @@
   },
   {
     "title": "Soft & Thick Snickerdoodles",
+    "slug": "soft-thick-snickerdoodles-in-20-minutes",
     "rating": 4.8,
     "num_reviews": 332,
     "link": "https://sallysbakingaddiction.com/soft-thick-snickerdoodles-in-20-minutes/",
@@ -9584,6 +9760,7 @@
   },
   {
     "title": "Gingerbread Cookies",
+    "slug": "best-gingerbread-cookies",
     "rating": 4.8,
     "num_reviews": 273,
     "link": "https://sallysbakingaddiction.com/best-gingerbread-cookies/",
@@ -9634,6 +9811,7 @@
   },
   {
     "title": "Soft Peanut Butter Carrot Dog Treats",
+    "slug": "soft-peanut-butter-carrot-dog-treats",
     "rating": 4.9,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/soft-peanut-butter-carrot-dog-treats/",
@@ -9675,6 +9853,7 @@
   },
   {
     "title": "Toasted S\u2019more Chocolate Chip Cookies",
+    "slug": "toasted-smore-chocolate-chip-cookies",
     "rating": 4.6,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/toasted-smore-chocolate-chip-cookies/",
@@ -9721,6 +9900,7 @@
   },
   {
     "title": "Chocolate Peanut Butter Macarons",
+    "slug": "chocolate-peanut-butter-macarons",
     "rating": 3.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/chocolate-peanut-butter-macarons/",
@@ -9769,6 +9949,7 @@
   },
   {
     "title": "Basic French Macarons",
+    "slug": "step-by-step-guide-to-french-macarons",
     "rating": 0.0,
     "num_reviews": 0,
     "link": "https://sallysbakingaddiction.com/step-by-step-guide-to-french-macarons/",
@@ -9822,6 +10003,7 @@
   },
   {
     "title": "M&M\u2019S\u00ae Chocolate Chip Skillet Cookie",
+    "slug": "mms-chocolate-chip-skillet-cookie",
     "rating": 4.6,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/mms-chocolate-chip-skillet-cookie/",
@@ -9870,6 +10052,7 @@
   },
   {
     "title": "Salted Vanilla Toffee Cookies",
+    "slug": "salted-vanilla-toffee-cookies",
     "rating": 4.3,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/salted-vanilla-toffee-cookies/",
@@ -9917,6 +10100,7 @@
   },
   {
     "title": "Strawberry Coconut Macaroons",
+    "slug": "strawberry-coconut-macaroons",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/strawberry-coconut-macaroons/",
@@ -9957,6 +10141,7 @@
   },
   {
     "title": "Mocha Chip Biscotti",
+    "slug": "mocha-chip-biscotti",
     "rating": 4.2,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/mocha-chip-biscotti/",
@@ -10009,6 +10194,7 @@
   },
   {
     "title": "Nutella Chocolate Chip Cookies",
+    "slug": "nutella-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/nutella-chocolate-chip-cookies/",
@@ -10059,6 +10245,7 @@
   },
   {
     "title": "Chocolate Cherry Blossom Cookies",
+    "slug": "chocolate-cherry-blossom-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/chocolate-cherry-blossom-cookies/",
@@ -10099,6 +10286,7 @@
   },
   {
     "title": "Brown Butter Chocolate Chip Cookies",
+    "slug": "brown-butter-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 53,
     "link": "https://sallysbakingaddiction.com/brown-butter-chocolate-chip-cookies/",
@@ -10150,6 +10338,7 @@
   },
   {
     "title": "Sprinkle Cookies Supreme",
+    "slug": "funfetti-cookies-supreme",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/funfetti-cookies-supreme/",
@@ -10201,6 +10390,7 @@
   },
   {
     "title": "Soft-Baked White Chocolate Chip Molasses Cookies",
+    "slug": "soft-baked-white-chocolate-chip-molasses-cookies",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/soft-baked-white-chocolate-chip-molasses-cookies/",
@@ -10245,6 +10435,7 @@
   },
   {
     "title": "Chocolate-Dipped Almond Biscotti",
+    "slug": "chocolate-dipped-almond-biscotti",
     "rating": 4.8,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/chocolate-dipped-almond-biscotti/",
@@ -10298,6 +10489,7 @@
   },
   {
     "title": "Peanut Butter Cup Surprise Monster Cookies",
+    "slug": "peanut-butter-cup-surprise-monster-cookies",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/peanut-butter-cup-surprise-monster-cookies/",
@@ -10342,6 +10534,7 @@
   },
   {
     "title": "Cherry Almond Shortbread Cookies",
+    "slug": "cherry-almond-shortbread-cookies",
     "rating": 4.4,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/cherry-almond-shortbread-cookies/",
@@ -10380,6 +10573,7 @@
   },
   {
     "title": "Butter Pecan Cookies",
+    "slug": "butter-pecan-cookies",
     "rating": 4.6,
     "num_reviews": 33,
     "link": "https://sallysbakingaddiction.com/butter-pecan-cookies/",
@@ -10427,6 +10621,7 @@
   },
   {
     "title": "White Chocolate Cranberry Pistachio Cookies",
+    "slug": "white-chocolate-cranberry-pistachio-cookies",
     "rating": 4.5,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/white-chocolate-cranberry-pistachio-cookies/",
@@ -10472,6 +10667,7 @@
   },
   {
     "title": "Frosted Chai Spice Sugar Cookies",
+    "slug": "frosted-chai-spice-snickerdoodles",
     "rating": 4.6,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/frosted-chai-spice-snickerdoodles/",
@@ -10527,6 +10723,7 @@
   },
   {
     "title": "Crisp Peanut Butter Cookies",
+    "slug": "classic-peanut-butter-cookies",
     "rating": 4.8,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/classic-peanut-butter-cookies/",
@@ -10571,6 +10768,7 @@
   },
   {
     "title": "Double Chocolate Chip Swirl Cookies",
+    "slug": "double-chocolate-chip-swirl-cookies",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/double-chocolate-chip-swirl-cookies/",
@@ -10629,6 +10827,7 @@
   },
   {
     "title": "Flourless Peanut Butter Chocolate Cookies",
+    "slug": "flourless-peanut-butter-brownie-cookies",
     "rating": 4.3,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/flourless-peanut-butter-brownie-cookies/",
@@ -10672,6 +10871,7 @@
   },
   {
     "title": "Funfetti Sugar Cookie Cake",
+    "slug": "funfetti-sugar-cookie-cake",
     "rating": 4.7,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/funfetti-sugar-cookie-cake/",
@@ -10729,6 +10929,7 @@
   },
   {
     "title": "White Chocolate Macadamia Nut Oatmeal Cookies",
+    "slug": "white-chocolate-macadamia-nut-oatmeal-cookies",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/white-chocolate-macadamia-nut-oatmeal-cookies/",
@@ -10774,6 +10975,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Cake",
+    "slug": "chocolate-chip-cookie-cake",
     "rating": 4.7,
     "num_reviews": 74,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-cake/",
@@ -10818,6 +11020,7 @@
   },
   {
     "title": "Cake Batter Oreo Cookies",
+    "slug": "cake-batter-oreo-cookies",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/cake-batter-oreo-cookies/",
@@ -10866,6 +11069,7 @@
   },
   {
     "title": "Dark Chocolate Almond Butter Cookies",
+    "slug": "dark-chocolate-almond-butter-cookies",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-almond-butter-cookies/",
@@ -10911,6 +11115,7 @@
   },
   {
     "title": "Loaded Oatmeal Cookies",
+    "slug": "loaded-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/loaded-oatmeal-cookies/",
@@ -10959,6 +11164,7 @@
   },
   {
     "title": "1 Giant Oatmeal Creme Pie",
+    "slug": "1-giant-oatmeal-creme-pie",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/1-giant-oatmeal-creme-pie/",
@@ -11010,6 +11216,7 @@
   },
   {
     "title": "Peanut Butter Cup Stuffed Cookies",
+    "slug": "reeses-stuffed-peanut-butter-cookies",
     "rating": 4.7,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/reeses-stuffed-peanut-butter-cookies/",
@@ -11061,6 +11268,7 @@
   },
   {
     "title": "Chewy Brown Sugar Cookies",
+    "slug": "chewy-brown-sugar-cookies",
     "rating": 4.7,
     "num_reviews": 66,
     "link": "https://sallysbakingaddiction.com/chewy-brown-sugar-cookies/",
@@ -11107,6 +11315,7 @@
   },
   {
     "title": "Homemade Oreos",
+    "slug": "homemade-oreos",
     "rating": 4.9,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/homemade-oreos/",
@@ -11159,6 +11368,7 @@
   },
   {
     "title": "Red Velvet Chocolate Chip Cookies",
+    "slug": "red-velvet-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/",
@@ -11206,6 +11416,7 @@
   },
   {
     "title": "Raspberry Almond Thumbprint Cookies",
+    "slug": "raspberry-almond-thumbprint-cookies",
     "rating": 0.0,
     "num_reviews": 0,
     "link": "https://sallysbakingaddiction.com/raspberry-almond-thumbprint-cookies/",
@@ -11253,6 +11464,7 @@
   },
   {
     "title": "Chocolate Turtle Cookies",
+    "slug": "chocolate-turtle-cookies",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/chocolate-turtle-cookies/",
@@ -11300,6 +11512,7 @@
   },
   {
     "title": "Biscoff White Chocolate Oatmeal Cookies",
+    "slug": "biscoff-white-chocolate-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/biscoff-white-chocolate-oatmeal-cookies/",
@@ -11346,6 +11559,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Dough Sandwiches",
+    "slug": "chocolate-chip-cookie-dough-sandwiches",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-dough-sandwiches/",
@@ -11407,6 +11621,7 @@
   },
   {
     "title": "Homemade Peanut Butter & Bacon Dog Treats",
+    "slug": "homemade-peanut-butter-dog-treats",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/homemade-peanut-butter-dog-treats/",
@@ -11451,6 +11666,7 @@
   },
   {
     "title": "Ultimate Peanut Butter Chocolate Cookies",
+    "slug": "ultimate-peanut-butter-chocolate-cookies",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/ultimate-peanut-butter-chocolate-cookies/",
@@ -11497,6 +11713,7 @@
   },
   {
     "title": "Soft-Baked Pumpkin Oatmeal Cookies",
+    "slug": "favorite-pumpkin-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/favorite-pumpkin-oatmeal-cookies/",
@@ -11547,6 +11764,7 @@
   },
   {
     "title": "Mocha Mint Chocolate Chunk Cookies",
+    "slug": "mocha-mint-chocolate-chunk-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/mocha-mint-chocolate-chunk-cookies/",
@@ -11593,6 +11811,7 @@
   },
   {
     "title": "S\u2019more Chocolate Crinkle Cookies",
+    "slug": "smore-chocolate-crinkle-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/smore-chocolate-crinkle-cookies/",
@@ -11640,6 +11859,7 @@
   },
   {
     "title": "Peanut Butter Cup Oatmeal Cookies",
+    "slug": "peanut-butter-cup-oatmeal-cookies",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/peanut-butter-cup-oatmeal-cookies/",
@@ -11687,6 +11907,7 @@
   },
   {
     "title": "Salted Caramel Chocolate Chip Cookies",
+    "slug": "salted-caramel-chocolate-chip-cookies",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/salted-caramel-chocolate-chip-cookies/",
@@ -11735,6 +11956,7 @@
   },
   {
     "title": "Soft-Baked Sprinkle Sugar Cookies",
+    "slug": "soft-baked-sprinkle-sugar-cookies",
     "rating": 4.9,
     "num_reviews": 18,
     "link": "https://sallysbakingaddiction.com/soft-baked-sprinkle-sugar-cookies/",
@@ -11783,6 +12005,7 @@
   },
   {
     "title": "Sprinkle Cheesecake Cookie Cups",
+    "slug": "cheesecake-cookie-cups",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/cheesecake-cookie-cups/",
@@ -11828,6 +12051,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Dough Cupcakes",
+    "slug": "chocolate-chip-cookie-dough-cupcakes",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-dough-cupcakes/",
@@ -11875,6 +12099,7 @@
   },
   {
     "title": "Salted Caramel Dark Chocolate Cookies",
+    "slug": "salted-caramel-dark-chocolate-cookies",
     "rating": 4.6,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/salted-caramel-dark-chocolate-cookies/",
@@ -11926,6 +12151,7 @@
   },
   {
     "title": "S\u2019more Peanut Butter Cookies",
+    "slug": "smore-peanut-butter-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/smore-peanut-butter-cookies/",
@@ -11961,6 +12187,7 @@
   },
   {
     "title": "Triple Chocolate Chip Cookies",
+    "slug": "triple-chocolate-chip-cookies",
     "rating": 5.0,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-chip-cookies/",
@@ -12010,6 +12237,7 @@
   },
   {
     "title": "Strawberry Chocolate Chip Cookies",
+    "slug": "strawberry-chocolate-chip-cookies",
     "rating": 4.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/strawberry-chocolate-chip-cookies/",
@@ -12048,6 +12276,7 @@
   },
   {
     "title": "Homemade Oatmeal Creme Pies",
+    "slug": "homemade-little-debbie-oatmeal-creme-pies",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/homemade-little-debbie-oatmeal-creme-pies/",
@@ -12104,6 +12333,7 @@
   },
   {
     "title": "Soft-Baked Monster Cookies",
+    "slug": "soft-baked-monster-cookies",
     "rating": 4.6,
     "num_reviews": 38,
     "link": "https://sallysbakingaddiction.com/soft-baked-monster-cookies/",
@@ -12153,6 +12383,7 @@
   },
   {
     "title": "Cake Batter Chocolate Chip Cookies",
+    "slug": "recipe-round-2-cake-batter-chocolate-chip-cookies",
     "rating": 4.9,
     "num_reviews": 46,
     "link": "https://sallysbakingaddiction.com/recipe-round-2-cake-batter-chocolate-chip-cookies/",
@@ -12202,6 +12433,7 @@
   },
   {
     "title": "Salted Caramel Pecan Chocolate Chip Cookies",
+    "slug": "salted-caramel-pecan-chocolate-chip-cookies",
     "rating": 4.9,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/salted-caramel-pecan-chocolate-chip-cookies/",
@@ -12250,6 +12482,7 @@
   },
   {
     "title": "Confetti Cake Batter Cookies",
+    "slug": "holiday-confetti-cake-batter-cookies",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/holiday-confetti-cake-batter-cookies/",
@@ -12287,6 +12520,7 @@
   },
   {
     "title": "Soft-Baked Gingersnap Molasses Cookies",
+    "slug": "soft-gingersnap-molasses-cookies-4-ways",
     "rating": 4.6,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/soft-gingersnap-molasses-cookies-4-ways/",
@@ -12332,6 +12566,7 @@
   },
   {
     "title": "Chocolate Fudge Cookies with Candy Cane Buttercream",
+    "slug": "chocolate-fudge-cookies-with-candy-cane-buttercream",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/chocolate-fudge-cookies-with-candy-cane-buttercream/",
@@ -12382,6 +12617,7 @@
   },
   {
     "title": "Healthy Pumpkin Chocolate Chip Oatmeal Cookies",
+    "slug": "healthy-pumpkin-chocolate-chip-oatmeal-cookies",
     "rating": 4.7,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/healthy-pumpkin-chocolate-chip-oatmeal-cookies/",
@@ -12433,6 +12669,7 @@
   },
   {
     "title": "Death by Chocolate Peanut Butter Chip Cookies",
+    "slug": "death-by-chocolate-peanut-butter-chip-cookies",
     "rating": 4.5,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/death-by-chocolate-peanut-butter-chip-cookies/",
@@ -12480,6 +12717,7 @@
   },
   {
     "title": "Oatmeal Pumpkin Creme Pies",
+    "slug": "oatmeal-pumpkin-creme-sandwiches",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/oatmeal-pumpkin-creme-sandwiches/",
@@ -12532,6 +12770,7 @@
   },
   {
     "title": "Soft-Baked Andes Mint Chocolate Chunk Cookies",
+    "slug": "soft-andes-mint-chocolate-chunk-cookies",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/soft-andes-mint-chocolate-chunk-cookies/",
@@ -12579,6 +12818,7 @@
   },
   {
     "title": "Bite-Size Sprinkle Sugar Cookies",
+    "slug": "cake-batter-sugar-cookies",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/cake-batter-sugar-cookies/",
@@ -12619,6 +12859,7 @@
   },
   {
     "title": "The Best Soft Chocolate Chip Cookies",
+    "slug": "chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 331,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookies/",
@@ -12666,6 +12907,7 @@
   },
   {
     "title": "Rolo-Stuffed Peanut Butter Cookies",
+    "slug": "take-2-rolo-stuffed-peanut-butter-cookies",
     "rating": 0.0,
     "num_reviews": 0,
     "link": "https://sallysbakingaddiction.com/take-2-rolo-stuffed-peanut-butter-cookies/",
@@ -12705,6 +12947,7 @@
   },
   {
     "title": "Oreo Cheesecake Cookies",
+    "slug": "oreo-cheesecake-cookies",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/oreo-cheesecake-cookies/",
@@ -12745,6 +12988,7 @@
   },
   {
     "title": "1 Giant Snickerdoodle Cookie",
+    "slug": "1-giant-snickerdoodle-cookie",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/1-giant-snickerdoodle-cookie/",
@@ -12783,6 +13027,7 @@
   },
   {
     "title": "Thick Oatmeal Raisinet Cookies",
+    "slug": "thick-oatmeal-raisinet-cookies",
     "rating": 4.9,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/thick-oatmeal-raisinet-cookies/",
@@ -12824,6 +13069,7 @@
   },
   {
     "title": "Peanut Butter Snickers Cookies",
+    "slug": "peanut-butter-snickers-cookies",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/peanut-butter-snickers-cookies/",
@@ -12864,6 +13110,7 @@
   },
   {
     "title": "Butterscotch Pretzel Chocolate Chip Cookies",
+    "slug": "pretzel-butterscotch-chocolate-chip-cookies",
     "rating": 4.8,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/pretzel-butterscotch-chocolate-chip-cookies/",
@@ -12910,6 +13157,7 @@
   },
   {
     "title": "Peanut Butter M&M Cookies",
+    "slug": "peanut-butter-mm-cookies",
     "rating": 4.7,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/peanut-butter-mm-cookies/",
@@ -12946,6 +13194,7 @@
   },
   {
     "title": "Butterscotch Toffee Chocolate Fudge Cookies",
+    "slug": "butterscotch-toffee-chocolate-fudge-cookies",
     "rating": 4.8,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/butterscotch-toffee-chocolate-fudge-cookies/",
@@ -12993,6 +13242,7 @@
   },
   {
     "title": "Chocolate Cake Mix Cookies",
+    "slug": "devils-food-cake-mix-cookies",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/devils-food-cake-mix-cookies/",
@@ -13030,6 +13280,7 @@
   },
   {
     "title": "Chewy Butterfinger Cookies",
+    "slug": "butterfinger-cookies",
     "rating": 4.6,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/butterfinger-cookies/",
@@ -13067,6 +13318,7 @@
   },
   {
     "title": "1 Giant Reese\u2019s Pieces Peanut Butter Cookie",
+    "slug": "giant-reeses-pieces-peanut-butter-cookie",
     "rating": 4.5,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/giant-reeses-pieces-peanut-butter-cookie/",

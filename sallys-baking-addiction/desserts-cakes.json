@@ -1,6 +1,7 @@
 [
   {
     "title": "Pumpkin Bundt Cake",
+    "slug": "pumpkin-bundt-cake-recipe",
     "rating": 5.0,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/pumpkin-bundt-cake-recipe/",
@@ -63,6 +64,7 @@
   },
   {
     "title": "Fresh Peach Cake",
+    "slug": "peach-cake",
     "rating": 4.9,
     "num_reviews": 46,
     "link": "https://sallysbakingaddiction.com/peach-cake/",
@@ -120,6 +122,7 @@
   },
   {
     "title": "Easy Berry Icebox Cake",
+    "slug": "berry-icebox-cake",
     "rating": 5.0,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/berry-icebox-cake/",
@@ -170,6 +173,7 @@
   },
   {
     "title": "Easy Zucchini Cake",
+    "slug": "zucchini-cake",
     "rating": 4.9,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/zucchini-cake/",
@@ -241,6 +245,7 @@
   },
   {
     "title": "Easter Cake Recipe",
+    "slug": "coconut-easter-cake",
     "rating": 4.6,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/coconut-easter-cake/",
@@ -309,6 +314,7 @@
   },
   {
     "title": "Guinness Chocolate Cake",
+    "slug": "guinness-chocolate-cake",
     "rating": 4.9,
     "num_reviews": 27,
     "link": "https://sallysbakingaddiction.com/guinness-chocolate-cake/",
@@ -382,6 +388,7 @@
   },
   {
     "title": "Chocolate Raspberry Cake",
+    "slug": "chocolate-raspberry-cake",
     "rating": 4.9,
     "num_reviews": 42,
     "link": "https://sallysbakingaddiction.com/chocolate-raspberry-cake/",
@@ -469,6 +476,7 @@
   },
   {
     "title": "Sour Cream Coffee Cake (with Crumb Topping)",
+    "slug": "coffee-cake-recipe",
     "rating": 4.8,
     "num_reviews": 106,
     "link": "https://sallysbakingaddiction.com/coffee-cake-recipe/",
@@ -540,6 +548,7 @@
   },
   {
     "title": "Delicious Homemade Pumpkin Roll",
+    "slug": "pumpkin-roll",
     "rating": 4.9,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/pumpkin-roll/",
@@ -602,6 +611,7 @@
   },
   {
     "title": "Confetti Birthday Cake",
+    "slug": "funfetti-layer-cake",
     "rating": 4.6,
     "num_reviews": 106,
     "link": "https://sallysbakingaddiction.com/funfetti-layer-cake/",
@@ -672,6 +682,7 @@
   },
   {
     "title": "Fresh Apple Cake",
+    "slug": "apple-cake",
     "rating": 4.9,
     "num_reviews": 78,
     "link": "https://sallysbakingaddiction.com/apple-cake/",
@@ -737,6 +748,7 @@
   },
   {
     "title": "Chocolate Peanut Butter Cake",
+    "slug": "chocolate-peanut-butter-cake",
     "rating": 4.8,
     "num_reviews": 60,
     "link": "https://sallysbakingaddiction.com/chocolate-peanut-butter-cake/",
@@ -811,6 +823,7 @@
   },
   {
     "title": "Cookie Monster Cake (for Decorating Beginners)",
+    "slug": "cookie-monster-cake",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/cookie-monster-cake/",
@@ -886,6 +899,7 @@
   },
   {
     "title": "Brown Butter Berry Tea Cakes",
+    "slug": "brown-butter-berry-tea-cakes",
     "rating": 4.9,
     "num_reviews": 135,
     "link": "https://sallysbakingaddiction.com/brown-butter-berry-tea-cakes/",
@@ -964,6 +978,7 @@
   },
   {
     "title": "Marble Loaf Cake",
+    "slug": "marble-loaf-cake",
     "rating": 4.3,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/marble-loaf-cake/",
@@ -1024,6 +1039,7 @@
   },
   {
     "title": "Cheesecake Swirl Carrot Bundt Cake",
+    "slug": "cheesecake-swirl-carrot-bundt-cake",
     "rating": 5.0,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/cheesecake-swirl-carrot-bundt-cake/",
@@ -1089,6 +1105,7 @@
   },
   {
     "title": "Sunshine Citrus Cake",
+    "slug": "6-inch-citrus-cake",
     "rating": 4.7,
     "num_reviews": 232,
     "link": "https://sallysbakingaddiction.com/6-inch-citrus-cake/",
@@ -1198,6 +1215,7 @@
   },
   {
     "title": "Espresso Chocolate Chip Cake",
+    "slug": "espresso-chocolate-chip-cake",
     "rating": 4.4,
     "num_reviews": 51,
     "link": "https://sallysbakingaddiction.com/espresso-chocolate-chip-cake/",
@@ -1263,6 +1281,7 @@
   },
   {
     "title": "Mint Chocolate Cake",
+    "slug": "mint-chocolate-cake",
     "rating": 4.8,
     "num_reviews": 33,
     "link": "https://sallysbakingaddiction.com/mint-chocolate-cake/",
@@ -1328,6 +1347,7 @@
   },
   {
     "title": "Cranberry Pecan Cake",
+    "slug": "cranberry-pecan-cake",
     "rating": 4.9,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/cranberry-pecan-cake/",
@@ -1387,6 +1407,7 @@
   },
   {
     "title": "Pumpkin Crumb Coffee Cake",
+    "slug": "iced-pumpkin-coffee-cake",
     "rating": 4.8,
     "num_reviews": 122,
     "link": "https://sallysbakingaddiction.com/iced-pumpkin-coffee-cake/",
@@ -1443,6 +1464,7 @@
   },
   {
     "title": "Ice Cream Loaf Cake",
+    "slug": "ice-cream-loaf-cake",
     "rating": 4.7,
     "num_reviews": 119,
     "link": "https://sallysbakingaddiction.com/ice-cream-loaf-cake/",
@@ -1523,6 +1545,7 @@
   },
   {
     "title": "Cookies & Cream Sheet Cake",
+    "slug": "cookies-cream-sheet-cake",
     "rating": 4.9,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/cookies-cream-sheet-cake/",
@@ -1584,6 +1607,7 @@
   },
   {
     "title": "Chocolate Marble Banana Bundt Cake",
+    "slug": "chocolate-marble-banana-bundt-cake",
     "rating": 5.0,
     "num_reviews": 35,
     "link": "https://sallysbakingaddiction.com/chocolate-marble-banana-bundt-cake/",
@@ -1640,6 +1664,7 @@
   },
   {
     "title": "Cherry Almond Buckle",
+    "slug": "cherry-almond-buckle",
     "rating": 5.0,
     "num_reviews": 33,
     "link": "https://sallysbakingaddiction.com/cherry-almond-buckle/",
@@ -1693,6 +1718,7 @@
   },
   {
     "title": "Chocolate Chip Loaf Cake",
+    "slug": "chocolate-chip-loaf-cake",
     "rating": 4.8,
     "num_reviews": 77,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-loaf-cake/",
@@ -1749,6 +1775,7 @@
   },
   {
     "title": "Pineapple Coconut Cake",
+    "slug": "pineapple-coconut-cake",
     "rating": 4.6,
     "num_reviews": 50,
     "link": "https://sallysbakingaddiction.com/pineapple-coconut-cake/",
@@ -1826,6 +1853,7 @@
   },
   {
     "title": "Small Chocolate Cake (6 Inch)",
+    "slug": "small-chocolate-cake",
     "rating": 4.7,
     "num_reviews": 107,
     "link": "https://sallysbakingaddiction.com/small-chocolate-cake/",
@@ -1885,6 +1913,7 @@
   },
   {
     "title": "B\u00fbche De No\u00ebl (Yule Log)",
+    "slug": "buche-de-noel-yule-log",
     "rating": 4.7,
     "num_reviews": 160,
     "link": "https://sallysbakingaddiction.com/buche-de-noel-yule-log/",
@@ -1969,6 +1998,7 @@
   },
   {
     "title": "Caramel Apple Upside Down Cake",
+    "slug": "buttery-caramel-apple-upside-down-cake",
     "rating": 4.8,
     "num_reviews": 112,
     "link": "https://sallysbakingaddiction.com/buttery-caramel-apple-upside-down-cake/",
@@ -2025,6 +2055,7 @@
   },
   {
     "title": "Tiramisu Crepe Cake",
+    "slug": "tiramisu-crepe-cake",
     "rating": 4.6,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/tiramisu-crepe-cake/",
@@ -2090,6 +2121,7 @@
   },
   {
     "title": "Carrot Cake Loaf (Quick Bread)",
+    "slug": "carrot-cake-loaf",
     "rating": 4.9,
     "num_reviews": 89,
     "link": "https://sallysbakingaddiction.com/carrot-cake-loaf/",
@@ -2150,6 +2182,7 @@
   },
   {
     "title": "One Layer Sprinkle Cake",
+    "slug": "easy-homemade-funfetti-cake",
     "rating": 4.7,
     "num_reviews": 35,
     "link": "https://sallysbakingaddiction.com/easy-homemade-funfetti-cake/",
@@ -2212,6 +2245,7 @@
   },
   {
     "title": "Fresh Berry Cream Cake",
+    "slug": "fresh-berry-cream-cake",
     "rating": 5.0,
     "num_reviews": 162,
     "link": "https://sallysbakingaddiction.com/fresh-berry-cream-cake/",
@@ -2297,6 +2331,7 @@
   },
   {
     "title": "Yellow Cake",
+    "slug": "yellow-cake",
     "rating": 4.7,
     "num_reviews": 101,
     "link": "https://sallysbakingaddiction.com/yellow-cake/",
@@ -2369,6 +2404,7 @@
   },
   {
     "title": "Lemon Pudding Cakes",
+    "slug": "lemon-pudding-cakes",
     "rating": 4.9,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/lemon-pudding-cakes/",
@@ -2424,6 +2460,7 @@
   },
   {
     "title": "Pineapple Upside Down Cake",
+    "slug": "pineapple-upside-cake",
     "rating": 4.8,
     "num_reviews": 217,
     "link": "https://sallysbakingaddiction.com/pineapple-upside-cake/",
@@ -2481,6 +2518,7 @@
   },
   {
     "title": "Giant Cinnamon Roll Cake",
+    "slug": "giant-cinnamon-roll-cake",
     "rating": 5.0,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/giant-cinnamon-roll-cake/",
@@ -2542,6 +2580,7 @@
   },
   {
     "title": "Flourless Chocolate Cake",
+    "slug": "flourless-chocolate-cake-recipe",
     "rating": 4.8,
     "num_reviews": 135,
     "link": "https://sallysbakingaddiction.com/flourless-chocolate-cake-recipe/",
@@ -2602,6 +2641,7 @@
   },
   {
     "title": "Deliciously Moist Chocolate Layer Cake",
+    "slug": "triple-chocolate-layer-cake",
     "rating": 4.9,
     "num_reviews": 902,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-layer-cake/",
@@ -2669,6 +2709,7 @@
   },
   {
     "title": "Simple Homemade Wedding Cake Recipe",
+    "slug": "homemade-wedding-cake",
     "rating": 4.8,
     "num_reviews": 68,
     "link": "https://sallysbakingaddiction.com/homemade-wedding-cake/",
@@ -2752,6 +2793,7 @@
   },
   {
     "title": "Lemon Berry Yogurt Cake",
+    "slug": "lemon-berry-yogurt-cake",
     "rating": 4.8,
     "num_reviews": 195,
     "link": "https://sallysbakingaddiction.com/lemon-berry-yogurt-cake/",
@@ -2810,6 +2852,7 @@
   },
   {
     "title": "New York Style Crumb Cake",
+    "slug": "crumb-cake",
     "rating": 4.6,
     "num_reviews": 90,
     "link": "https://sallysbakingaddiction.com/crumb-cake/",
@@ -2864,6 +2907,7 @@
   },
   {
     "title": "Dark Chocolate Raspberry Coffee Cake",
+    "slug": "raspberry-chocolate-coffee-cake",
     "rating": 4.8,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/raspberry-chocolate-coffee-cake/",
@@ -2918,6 +2962,7 @@
   },
   {
     "title": "Homemade Butter Rum Cake",
+    "slug": "rum-cake",
     "rating": 4.5,
     "num_reviews": 37,
     "link": "https://sallysbakingaddiction.com/rum-cake/",
@@ -2979,6 +3024,7 @@
   },
   {
     "title": "Snickerdoodle Cake",
+    "slug": "snickerdoodle-cake",
     "rating": 4.8,
     "num_reviews": 89,
     "link": "https://sallysbakingaddiction.com/snickerdoodle-cake/",
@@ -3053,6 +3099,7 @@
   },
   {
     "title": "Glazed Apple Bundt Cake",
+    "slug": "glazed-apple-bundt-cake",
     "rating": 4.8,
     "num_reviews": 68,
     "link": "https://sallysbakingaddiction.com/glazed-apple-bundt-cake/",
@@ -3105,6 +3152,7 @@
   },
   {
     "title": "Elmo Cake",
+    "slug": "elmo-cake",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/elmo-cake/",
@@ -3171,6 +3219,7 @@
   },
   {
     "title": "Burnt Sugar Cake",
+    "slug": "burnt-sugar-caramel-cake",
     "rating": 4.8,
     "num_reviews": 56,
     "link": "https://sallysbakingaddiction.com/burnt-sugar-caramel-cake/",
@@ -3238,6 +3287,7 @@
   },
   {
     "title": "How to Freeze Cakes",
+    "slug": "how-to-freeze-cakes",
     "rating": 5.0,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/how-to-freeze-cakes/",
@@ -3276,6 +3326,7 @@
   },
   {
     "title": "Homemade Cake Flour Substitute",
+    "slug": "cake-flour-substitute",
     "rating": 4.8,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/cake-flour-substitute/",
@@ -3311,6 +3362,7 @@
   },
   {
     "title": "Dark Chocolate Mousse Cake",
+    "slug": "dark-chocolate-mousse-cake",
     "rating": 4.9,
     "num_reviews": 311,
     "link": "https://sallysbakingaddiction.com/dark-chocolate-mousse-cake/",
@@ -3380,6 +3432,7 @@
   },
   {
     "title": "Vertical Cake (Lemon & Blueberry)",
+    "slug": "vertical-cake",
     "rating": 4.9,
     "num_reviews": 91,
     "link": "https://sallysbakingaddiction.com/vertical-cake/",
@@ -3462,6 +3515,7 @@
   },
   {
     "title": "Yellow Sheet Cake with Chocolate Fudge Frosting",
+    "slug": "yellow-sheet-cake-chocolate-fudge-frosting",
     "rating": 4.8,
     "num_reviews": 45,
     "link": "https://sallysbakingaddiction.com/yellow-sheet-cake-chocolate-fudge-frosting/",
@@ -3523,6 +3577,7 @@
   },
   {
     "title": "6 Inch Vanilla Cake",
+    "slug": "6-inch-cake-recipes",
     "rating": 4.7,
     "num_reviews": 97,
     "link": "https://sallysbakingaddiction.com/6-inch-cake-recipes/",
@@ -3581,6 +3636,7 @@
   },
   {
     "title": "Vanilla Sheet Cake with Whipped Buttercream Frosting",
+    "slug": "vanilla-sheet-cake",
     "rating": 4.5,
     "num_reviews": 85,
     "link": "https://sallysbakingaddiction.com/vanilla-sheet-cake/",
@@ -3642,6 +3698,7 @@
   },
   {
     "title": "Angel Food Cake",
+    "slug": "angel-food-cake",
     "rating": 4.8,
     "num_reviews": 337,
     "link": "https://sallysbakingaddiction.com/angel-food-cake/",
@@ -3704,6 +3761,7 @@
   },
   {
     "title": "One Layer Strawberry Shortcake Cake",
+    "slug": "strawberry-shortcake-cake",
     "rating": 4.8,
     "num_reviews": 130,
     "link": "https://sallysbakingaddiction.com/strawberry-shortcake-cake/",
@@ -3759,6 +3817,7 @@
   },
   {
     "title": "Chocolate Swiss Roll Cake (Regular & Mini)",
+    "slug": "chocolate-cake-roll",
     "rating": 4.5,
     "num_reviews": 75,
     "link": "https://sallysbakingaddiction.com/chocolate-cake-roll/",
@@ -3825,6 +3884,7 @@
   },
   {
     "title": "Lemon Berry Petit Fours",
+    "slug": "lemon-berry-petit-fours",
     "rating": 4.4,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/lemon-berry-petit-fours/",
@@ -3890,6 +3950,7 @@
   },
   {
     "title": "Blackberry Lavender Cake",
+    "slug": "blackberry-lavender-cake",
     "rating": 4.8,
     "num_reviews": 65,
     "link": "https://sallysbakingaddiction.com/blackberry-lavender-cake/",
@@ -3964,8 +4025,9 @@
   },
   {
     "title": "Coconut Cake",
+    "slug": "coconut-cake",
     "rating": 4.8,
-    "num_reviews": 554,
+    "num_reviews": 555,
     "link": "https://sallysbakingaddiction.com/coconut-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/04/coconut-cake-buttercream-rose.jpg",
@@ -4034,6 +4096,7 @@
   },
   {
     "title": "Cream Cheese Pound Cake",
+    "slug": "cream-cheese-pound-cake",
     "rating": 4.8,
     "num_reviews": 335,
     "link": "https://sallysbakingaddiction.com/cream-cheese-pound-cake/",
@@ -4084,6 +4147,7 @@
   },
   {
     "title": "Red Velvet Cake with Cream Cheese Frosting",
+    "slug": "red-velvet-layer-cake-with-cream-cheese-frosting",
     "rating": 4.7,
     "num_reviews": 309,
     "link": "https://sallysbakingaddiction.com/red-velvet-layer-cake-with-cream-cheese-frosting/",
@@ -4149,6 +4213,7 @@
   },
   {
     "title": "Best Vanilla Cake",
+    "slug": "vanilla-cake",
     "rating": 4.8,
     "num_reviews": 569,
     "link": "https://sallysbakingaddiction.com/vanilla-cake/",
@@ -4212,6 +4277,7 @@
   },
   {
     "title": "Champagne Cake Roll",
+    "slug": "champagne-cake-roll",
     "rating": 4.9,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/champagne-cake-roll/",
@@ -4270,6 +4336,7 @@
   },
   {
     "title": "Upside-Down Pear Gingerbread Cake",
+    "slug": "upside-down-pear-gingerbread-cake",
     "rating": 5.0,
     "num_reviews": 34,
     "link": "https://sallysbakingaddiction.com/upside-down-pear-gingerbread-cake/",
@@ -4326,6 +4393,7 @@
   },
   {
     "title": "Black Forest Cake",
+    "slug": "black-forest-cake",
     "rating": 4.9,
     "num_reviews": 180,
     "link": "https://sallysbakingaddiction.com/black-forest-cake/",
@@ -4397,6 +4465,7 @@
   },
   {
     "title": "6 Inch Zebra Cake with Strawberry Frosting",
+    "slug": "1st-birthday-cake",
     "rating": 4.9,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/1st-birthday-cake/",
@@ -4465,6 +4534,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Layer Cake",
+    "slug": "chocolate-chip-cookie-layer-cake",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-layer-cake/",
@@ -4535,6 +4605,7 @@
   },
   {
     "title": "Zucchini Crumb Cake",
+    "slug": "zucchini-crumb-cake",
     "rating": 4.9,
     "num_reviews": 63,
     "link": "https://sallysbakingaddiction.com/zucchini-crumb-cake/",
@@ -4588,6 +4659,7 @@
   },
   {
     "title": "Smith Island Cake",
+    "slug": "smith-island-cake",
     "rating": 4.9,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/smith-island-cake/",
@@ -4651,6 +4723,7 @@
   },
   {
     "title": "Lemon Layer Cake with Lemon Cream Cheese Buttercream",
+    "slug": "lemon-cake",
     "rating": 4.7,
     "num_reviews": 243,
     "link": "https://sallysbakingaddiction.com/lemon-cake/",
@@ -4716,6 +4789,7 @@
   },
   {
     "title": "No Bake S\u2019mores Cake",
+    "slug": "no-bake-smores-cake",
     "rating": 4.8,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/no-bake-smores-cake/",
@@ -4765,6 +4839,7 @@
   },
   {
     "title": "Brownie Baked Alaska",
+    "slug": "brownie-baked-alaska",
     "rating": 4.6,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/brownie-baked-alaska/",
@@ -4824,6 +4899,7 @@
   },
   {
     "title": "6 Inch Birthday Cake with Easy Buttercream Flowers",
+    "slug": "decorated-6-inch-cake",
     "rating": 5.0,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/decorated-6-inch-cake/",
@@ -4884,6 +4960,7 @@
   },
   {
     "title": "Boston Cream Pie",
+    "slug": "boston-cream-pie",
     "rating": 4.5,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/boston-cream-pie/",
@@ -4952,6 +5029,7 @@
   },
   {
     "title": "Lemon Berry Trifle",
+    "slug": "lemon-berry-trifle",
     "rating": 4.9,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/lemon-berry-trifle/",
@@ -4999,6 +5077,7 @@
   },
   {
     "title": "Almond Poppy Seed Tea Cakes",
+    "slug": "almond-poppy-seed-tea-cakes",
     "rating": 5.0,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/almond-poppy-seed-tea-cakes/",
@@ -5055,6 +5134,7 @@
   },
   {
     "title": "Raspberry Almond Crumb Cake",
+    "slug": "raspberry-almond-crumb-cake",
     "rating": 4.9,
     "num_reviews": 52,
     "link": "https://sallysbakingaddiction.com/raspberry-almond-crumb-cake/",
@@ -5111,6 +5191,7 @@
   },
   {
     "title": "Upgraded German Chocolate Cake",
+    "slug": "german-chocolate-cake",
     "rating": 4.9,
     "num_reviews": 202,
     "link": "https://sallysbakingaddiction.com/german-chocolate-cake/",
@@ -5176,6 +5257,7 @@
   },
   {
     "title": "Pavlova",
+    "slug": "pavlova",
     "rating": 4.8,
     "num_reviews": 112,
     "link": "https://sallysbakingaddiction.com/pavlova/",
@@ -5226,6 +5308,7 @@
   },
   {
     "title": "Pistachio Cake",
+    "slug": "pistachio-cake",
     "rating": 4.9,
     "num_reviews": 184,
     "link": "https://sallysbakingaddiction.com/pistachio-cake/",
@@ -5285,6 +5368,7 @@
   },
   {
     "title": "Vanilla Naked Cake",
+    "slug": "vanilla-naked-cake",
     "rating": 4.9,
     "num_reviews": 42,
     "link": "https://sallysbakingaddiction.com/vanilla-naked-cake/",
@@ -5348,6 +5432,7 @@
   },
   {
     "title": "Mini Vanilla Pound Cakes",
+    "slug": "mini-vanilla-pound-cakes",
     "rating": 4.9,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/mini-vanilla-pound-cakes/",
@@ -5401,6 +5486,7 @@
   },
   {
     "title": "Chocolate Cake Pops",
+    "slug": "chocolate-cake-pops",
     "rating": 4.8,
     "num_reviews": 62,
     "link": "https://sallysbakingaddiction.com/chocolate-cake-pops/",
@@ -5465,6 +5551,7 @@
   },
   {
     "title": "Zebra Cake",
+    "slug": "zebra-cake",
     "rating": 4.7,
     "num_reviews": 38,
     "link": "https://sallysbakingaddiction.com/zebra-cake/",
@@ -5533,6 +5620,7 @@
   },
   {
     "title": "Homemade Strawberry Cake",
+    "slug": "strawberry-cake",
     "rating": 4.8,
     "num_reviews": 552,
     "link": "https://sallysbakingaddiction.com/strawberry-cake/",
@@ -5599,6 +5687,7 @@
   },
   {
     "title": "Tuxedo Cake",
+    "slug": "tuxedo-cake",
     "rating": 4.9,
     "num_reviews": 30,
     "link": "https://sallysbakingaddiction.com/tuxedo-cake/",
@@ -5668,6 +5757,7 @@
   },
   {
     "title": "Cranberry Orange Bundt Cake",
+    "slug": "cranberry-orange-bundt-cake",
     "rating": 4.7,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/cranberry-orange-bundt-cake/",
@@ -5727,6 +5817,7 @@
   },
   {
     "title": "Chai Spiced Cinnamon Swirl Bundt Cake",
+    "slug": "chai-cinnamon-swirl-bundt-cake",
     "rating": 4.5,
     "num_reviews": 23,
     "link": "https://sallysbakingaddiction.com/chai-cinnamon-swirl-bundt-cake/",
@@ -5785,6 +5876,7 @@
   },
   {
     "title": "Pumpkin Cake",
+    "slug": "best-pumpkin-cake",
     "rating": 4.8,
     "num_reviews": 247,
     "link": "https://sallysbakingaddiction.com/best-pumpkin-cake/",
@@ -5844,6 +5936,7 @@
   },
   {
     "title": "Apple Crumb Cake",
+    "slug": "apple-crumb-cake",
     "rating": 4.7,
     "num_reviews": 92,
     "link": "https://sallysbakingaddiction.com/apple-crumb-cake/",
@@ -5903,6 +5996,7 @@
   },
   {
     "title": "Banana Cake with Brown Butter Cream Cheese Frosting",
+    "slug": "banana-cake-with-brown-butter-cream-cheese-frosting",
     "rating": 4.9,
     "num_reviews": 69,
     "link": "https://sallysbakingaddiction.com/banana-cake-with-brown-butter-cream-cheese-frosting/",
@@ -5966,6 +6060,7 @@
   },
   {
     "title": "Checkerboard Cake",
+    "slug": "checkerboard-cake",
     "rating": 5.0,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/checkerboard-cake/",
@@ -6024,6 +6119,7 @@
   },
   {
     "title": "Blackberry Peach Skillet Cornmeal Cake",
+    "slug": "blackberry-peach-skillet-cornmeal-cake",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/blackberry-peach-skillet-cornmeal-cake/",
@@ -6079,6 +6175,7 @@
   },
   {
     "title": "Homemade Cake Pops",
+    "slug": "homemade-cake-pops",
     "rating": 4.7,
     "num_reviews": 132,
     "link": "https://sallysbakingaddiction.com/homemade-cake-pops/",
@@ -6136,6 +6233,7 @@
   },
   {
     "title": "Chocolate Zucchini Cake",
+    "slug": "chocolate-zucchini-cake",
     "rating": 4.9,
     "num_reviews": 168,
     "link": "https://sallysbakingaddiction.com/chocolate-zucchini-cake/",
@@ -6190,6 +6288,7 @@
   },
   {
     "title": "Peach Bundt Cake with Brown Butter Icing",
+    "slug": "peach-bundt-cake-with-brown-butter-icing",
     "rating": 4.8,
     "num_reviews": 47,
     "link": "https://sallysbakingaddiction.com/peach-bundt-cake-with-brown-butter-icing/",
@@ -6249,6 +6348,7 @@
   },
   {
     "title": "Raspberry Swirl Pound Cake",
+    "slug": "raspberry-swirl-pound-cake",
     "rating": 4.4,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/raspberry-swirl-pound-cake/",
@@ -6295,6 +6395,7 @@
   },
   {
     "title": "Blueberry Lemon Icebox Cake",
+    "slug": "blueberry-lemon-icebox-cake",
     "rating": 5.0,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/blueberry-lemon-icebox-cake/",
@@ -6348,6 +6449,7 @@
   },
   {
     "title": "Strawberries \u2018n\u2019 Cream Cake Roll",
+    "slug": "strawberries-n-cream-cake-roll",
     "rating": 4.9,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/strawberries-n-cream-cake-roll/",
@@ -6412,6 +6514,7 @@
   },
   {
     "title": "Hummingbird Cake",
+    "slug": "hummingbird-cake",
     "rating": 4.9,
     "num_reviews": 88,
     "link": "https://sallysbakingaddiction.com/hummingbird-cake/",
@@ -6477,6 +6580,7 @@
   },
   {
     "title": "Pineapple Carrot Cake with Cream Cheese Frosting",
+    "slug": "pineapple-carrot-cake-with-cream-cheese-frosting",
     "rating": 4.7,
     "num_reviews": 131,
     "link": "https://sallysbakingaddiction.com/pineapple-carrot-cake-with-cream-cheese-frosting/",
@@ -6538,6 +6642,7 @@
   },
   {
     "title": "Chocolate Cream Cheese Bundt Cake",
+    "slug": "chocolate-cream-cheese-bundt-cake",
     "rating": 4.6,
     "num_reviews": 55,
     "link": "https://sallysbakingaddiction.com/chocolate-cream-cheese-bundt-cake/",
@@ -6597,6 +6702,7 @@
   },
   {
     "title": "Chocolate Lava Cakes",
+    "slug": "chocolate-lava-cakes",
     "rating": 4.9,
     "num_reviews": 128,
     "link": "https://sallysbakingaddiction.com/chocolate-lava-cakes/",
@@ -6645,6 +6751,7 @@
   },
   {
     "title": "Iced Lemon Pound Cake",
+    "slug": "iced-lemon-pound-cake",
     "rating": 4.7,
     "num_reviews": 110,
     "link": "https://sallysbakingaddiction.com/iced-lemon-pound-cake/",
@@ -6697,6 +6804,7 @@
   },
   {
     "title": "Favorite White Layer Cake",
+    "slug": "new-favorite-white-layer-cake",
     "rating": 4.8,
     "num_reviews": 202,
     "link": "https://sallysbakingaddiction.com/new-favorite-white-layer-cake/",
@@ -6755,6 +6863,7 @@
   },
   {
     "title": "Red Velvet Cake Roll",
+    "slug": "how-to-make-a-red-velvet-cake-roll",
     "rating": 4.4,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/how-to-make-a-red-velvet-cake-roll/",
@@ -6818,6 +6927,7 @@
   },
   {
     "title": "Spiced Gingerbread Loaf",
+    "slug": "spiced-gingerbread-loaf",
     "rating": 4.7,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/spiced-gingerbread-loaf/",
@@ -6868,6 +6978,7 @@
   },
   {
     "title": "Pumpkin Cream Cheese Bundt Cake",
+    "slug": "pumpkin-cream-cheese-bundt-cake",
     "rating": 4.5,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/pumpkin-cream-cheese-bundt-cake/",
@@ -6924,6 +7035,7 @@
   },
   {
     "title": "Super Moist Spice Cake",
+    "slug": "super-moist-spice-cake",
     "rating": 4.8,
     "num_reviews": 68,
     "link": "https://sallysbakingaddiction.com/super-moist-spice-cake/",
@@ -6984,6 +7096,7 @@
   },
   {
     "title": "The Best Banana Cake I\u2019ve Ever Had",
+    "slug": "best-banana-cake",
     "rating": 4.8,
     "num_reviews": 595,
     "link": "https://sallysbakingaddiction.com/best-banana-cake/",
@@ -7043,6 +7156,7 @@
   },
   {
     "title": "Easy 5 Layer Ice Cream Cake",
+    "slug": "easy-5-layer-ice-cream-cake",
     "rating": 4.8,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/easy-5-layer-ice-cream-cake/",
@@ -7087,6 +7201,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Pizza",
+    "slug": "chocolate-chip-cookie-pizza",
     "rating": 4.7,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-pizza/",
@@ -7135,6 +7250,7 @@
   },
   {
     "title": "Grapefruit Greek Yogurt Cake",
+    "slug": "grapefruit-greek-yogurt-loaf",
     "rating": 4.6,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/grapefruit-greek-yogurt-loaf/",
@@ -7185,6 +7301,7 @@
   },
   {
     "title": "Homemade Funnel Cakes",
+    "slug": "homemade-funnel-cakes",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/homemade-funnel-cakes/",
@@ -7230,6 +7347,7 @@
   },
   {
     "title": "Glazed Orange Bundt Cake",
+    "slug": "glazed-orange-bundt-cake",
     "rating": 4.4,
     "num_reviews": 45,
     "link": "https://sallysbakingaddiction.com/glazed-orange-bundt-cake/",
@@ -7283,6 +7401,7 @@
   },
   {
     "title": "Brown Butter Pound Cake with Strawberry Compote",
+    "slug": "brown-butter-pound-cake-strawberry-compote",
     "rating": 4.6,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/brown-butter-pound-cake-strawberry-compote/",
@@ -7334,6 +7453,7 @@
   },
   {
     "title": "Lemon Coconut Cake",
+    "slug": "lemon-coconut-cake",
     "rating": 4.5,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/lemon-coconut-cake/",
@@ -7397,6 +7517,7 @@
   },
   {
     "title": "Chocolate Sheet Cake with Creamy Peanut Butter Frosting",
+    "slug": "chocolate-sheet-cake-with-creamy-peanut-butter-frosting",
     "rating": 4.5,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/chocolate-sheet-cake-with-creamy-peanut-butter-frosting/",
@@ -7456,6 +7577,7 @@
   },
   {
     "title": "Marble Cake",
+    "slug": "marble-cake",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/marble-cake/",
@@ -7521,6 +7643,7 @@
   },
   {
     "title": "Peanut Butter Chocolate Lava Cakes",
+    "slug": "peanut-butter-chocolate-lava-cakes",
     "rating": 4.7,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/peanut-butter-chocolate-lava-cakes/",
@@ -7568,6 +7691,7 @@
   },
   {
     "title": "Moist Gingerbread Spice Snack Cake",
+    "slug": "moist-gingerbread-spice-snack-cake",
     "rating": 4.6,
     "num_reviews": 18,
     "link": "https://sallysbakingaddiction.com/moist-gingerbread-spice-snack-cake/",
@@ -7625,6 +7749,7 @@
   },
   {
     "title": "Party Angel Food Cake",
+    "slug": "party-angel-food-cake",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/party-angel-food-cake/",
@@ -7677,6 +7802,7 @@
   },
   {
     "title": "M&M\u2019S\u00ae Chocolate Chip Skillet Cookie",
+    "slug": "mms-chocolate-chip-skillet-cookie",
     "rating": 4.6,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/mms-chocolate-chip-skillet-cookie/",
@@ -7725,6 +7851,7 @@
   },
   {
     "title": "Pi\u00f1ata Cake",
+    "slug": "how-to-make-a-pinata-cake",
     "rating": 4.1,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/how-to-make-a-pinata-cake/",
@@ -7793,6 +7920,7 @@
   },
   {
     "title": "My Favorite Carrot Cake Recipe",
+    "slug": "my-favorite-carrot-cake-recipe",
     "rating": 4.8,
     "num_reviews": 519,
     "link": "https://sallysbakingaddiction.com/my-favorite-carrot-cake-recipe/",
@@ -7858,6 +7986,7 @@
   },
   {
     "title": "Glazed Lemon Poppy Seed Bundt Cake",
+    "slug": "glazed-lemon-poppy-seed-bundt-cake",
     "rating": 4.8,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/glazed-lemon-poppy-seed-bundt-cake/",
@@ -7915,6 +8044,7 @@
   },
   {
     "title": "Two Small Chocolate Cakes",
+    "slug": "chocolate-fudge-cakes-2",
     "rating": 5.0,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/chocolate-fudge-cakes-2/",
@@ -7969,6 +8099,7 @@
   },
   {
     "title": "Funfetti Sheet Cake",
+    "slug": "funfetti-sheet-cake",
     "rating": 4.9,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/funfetti-sheet-cake/",
@@ -8019,6 +8150,7 @@
   },
   {
     "title": "S\u2019mores Chocolate Chip Cookie Cake",
+    "slug": "smores-chocolate-chip-cookie-cake",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/smores-chocolate-chip-cookie-cake/",
@@ -8063,6 +8195,7 @@
   },
   {
     "title": "Oreo Cake",
+    "slug": "oreo-cake",
     "rating": 3.6,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/oreo-cake/",
@@ -8130,6 +8263,7 @@
   },
   {
     "title": "Funfetti Sugar Cookie Cake",
+    "slug": "funfetti-sugar-cookie-cake",
     "rating": 4.7,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/funfetti-sugar-cookie-cake/",
@@ -8187,6 +8321,7 @@
   },
   {
     "title": "Raspberry Chocolate Chip Layer Cake",
+    "slug": "raspberry-chocolate-chip-layer-cake",
     "rating": 4.4,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/raspberry-chocolate-chip-layer-cake/",
@@ -8238,6 +8373,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Cake",
+    "slug": "chocolate-chip-cookie-cake",
     "rating": 4.7,
     "num_reviews": 74,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-cake/",
@@ -8282,6 +8418,7 @@
   },
   {
     "title": "Lemon Blueberry Layer Cake",
+    "slug": "lemon-blueberry-layer-cake",
     "rating": 4.7,
     "num_reviews": 336,
     "link": "https://sallysbakingaddiction.com/lemon-blueberry-layer-cake/",
@@ -8345,6 +8482,7 @@
   },
   {
     "title": "Banana Chocolate Chip Crumb Cake",
+    "slug": "banana-chocolate-chip-crumb-cake",
     "rating": 4.7,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/banana-chocolate-chip-crumb-cake/",
@@ -8392,6 +8530,7 @@
   },
   {
     "title": "How to Make a Tie-Dye Cake",
+    "slug": "how-to-make-a-tie-dye-cake",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/how-to-make-a-tie-dye-cake/",
@@ -8428,6 +8567,7 @@
   },
   {
     "title": "Super-Crumb Coffee Cake",
+    "slug": "super-crumb-coffee-cake",
     "rating": 4.7,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/super-crumb-coffee-cake/",
@@ -8479,6 +8619,7 @@
   },
   {
     "title": "Nutella Swirl Pound Cake",
+    "slug": "nutella-swirl-pound-cake",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/nutella-swirl-pound-cake/",
@@ -8523,6 +8664,7 @@
   },
   {
     "title": "Super Moist Carrot Cake",
+    "slug": "super-moist-carrot-cake",
     "rating": 4.7,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/super-moist-carrot-cake/",
@@ -8584,6 +8726,7 @@
   },
   {
     "title": "Chocolate Gingerbread Bundt Cake with Cream Cheese Frosting",
+    "slug": "chocolate-gingerbread-bundt-cake-with-cream-cheese-frosting",
     "rating": 4.7,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/chocolate-gingerbread-bundt-cake-with-cream-cheese-frosting/",

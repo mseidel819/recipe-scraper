@@ -1,6 +1,7 @@
 [
   {
     "title": "Homemade Buttermilk Biscuits (Popular Recipe!)",
+    "slug": "flaky-buttermilk-biscuits",
     "rating": 4.9,
     "num_reviews": 445,
     "link": "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/",
@@ -59,6 +60,7 @@
   },
   {
     "title": "Pumpkin Pancakes Recipe",
+    "slug": "pumpkin-pancakes-recipe",
     "rating": 4.9,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/pumpkin-pancakes-recipe/",
@@ -115,6 +117,7 @@
   },
   {
     "title": "Pumpkin Waffles",
+    "slug": "pumpkin-waffles",
     "rating": 4.4,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/pumpkin-waffles/",
@@ -175,6 +178,7 @@
   },
   {
     "title": "Baked Apple Cider French Toast",
+    "slug": "baked-apple-cider-french-toast",
     "rating": 4.7,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/baked-apple-cider-french-toast/",
@@ -244,6 +248,7 @@
   },
   {
     "title": "Birthday Cake Cinnamon Rolls (Like Funfetti Cake!)",
+    "slug": "cake-batter-cinnamon-rolls-without-cake-mix",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/cake-batter-cinnamon-rolls-without-cake-mix/",
@@ -325,6 +330,7 @@
   },
   {
     "title": "Healthy Breakfast Ideas: Chicken Sausage Frittata",
+    "slug": "healthy-breakfast-recipes",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/healthy-breakfast-recipes/",
@@ -403,6 +409,7 @@
   },
   {
     "title": "Homemade Glazed Doughnuts",
+    "slug": "how-to-make-homemade-glazed-doughnuts",
     "rating": 4.9,
     "num_reviews": 140,
     "link": "https://sallysbakingaddiction.com/how-to-make-homemade-glazed-doughnuts/",
@@ -466,6 +473,7 @@
   },
   {
     "title": "3 Donut Frosting Flavors",
+    "slug": "donut-frostings",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/donut-frostings/",
@@ -520,6 +528,7 @@
   },
   {
     "title": "Healthy Blueberry Banana Muffins",
+    "slug": "blueberry-banana-muffins",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/blueberry-banana-muffins/",
@@ -576,6 +585,7 @@
   },
   {
     "title": "Breakfast Egg Muffins (Frittata Muffins)",
+    "slug": "egg-muffins-recipe",
     "rating": 4.9,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/egg-muffins-recipe/",
@@ -633,6 +643,7 @@
   },
   {
     "title": "Raspberry Swirl Sweet Rolls",
+    "slug": "raspberry-swirl-sweet-rolls",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/raspberry-swirl-sweet-rolls/",
@@ -700,6 +711,7 @@
   },
   {
     "title": "Homemade Crepes",
+    "slug": "make-crepes",
     "rating": 4.9,
     "num_reviews": 252,
     "link": "https://sallysbakingaddiction.com/make-crepes/",
@@ -776,6 +788,7 @@
   },
   {
     "title": "Chocolate Chip Baked Oatmeal Cups (GF)",
+    "slug": "chocolate-chip-baked-oatmeal-cups",
     "rating": 4.8,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-baked-oatmeal-cups/",
@@ -831,6 +844,7 @@
   },
   {
     "title": "Easy Frittata Recipe (Choose Your Add-Ins)",
+    "slug": "frittata-recipe",
     "rating": 4.8,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/frittata-recipe/",
@@ -893,6 +907,7 @@
   },
   {
     "title": "Birthday Cake Pancakes",
+    "slug": "birthday-cake-pancakes",
     "rating": 4.8,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/birthday-cake-pancakes/",
@@ -955,6 +970,7 @@
   },
   {
     "title": "No-Bake Greek Yogurt Fruit Tart",
+    "slug": "greek-yogurt-fruit-tart",
     "rating": 4.8,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/greek-yogurt-fruit-tart/",
@@ -998,6 +1014,7 @@
   },
   {
     "title": "Soft & Fluffy Lemon Sweet Rolls",
+    "slug": "lemon-sweet-rolls",
     "rating": 4.7,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/lemon-sweet-rolls/",
@@ -1063,6 +1080,7 @@
   },
   {
     "title": "Peanut Butter Banana Muffins",
+    "slug": "peanut-butter-banana-muffins",
     "rating": 5.0,
     "num_reviews": 53,
     "link": "https://sallysbakingaddiction.com/peanut-butter-banana-muffins/",
@@ -1117,6 +1135,7 @@
   },
   {
     "title": "Lemon Blueberry Muffins",
+    "slug": "lemon-blueberry-muffins",
     "rating": 4.8,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/lemon-blueberry-muffins/",
@@ -1180,6 +1199,7 @@
   },
   {
     "title": "Fluffy Whole Wheat Pancakes",
+    "slug": "whole-wheat-pancakes-recipe",
     "rating": 5.0,
     "num_reviews": 23,
     "link": "https://sallysbakingaddiction.com/whole-wheat-pancakes-recipe/",
@@ -1233,6 +1253,7 @@
   },
   {
     "title": "Whole Wheat Blueberry Pancakes",
+    "slug": "whole-wheat-blueberry-pancakes",
     "rating": 4.9,
     "num_reviews": 29,
     "link": "https://sallysbakingaddiction.com/whole-wheat-blueberry-pancakes/",
@@ -1285,6 +1306,7 @@
   },
   {
     "title": "Maple Almond Granola Clusters",
+    "slug": "maple-almond-granola-clusters-vegan",
     "rating": 4.9,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/maple-almond-granola-clusters-vegan/",
@@ -1334,6 +1356,7 @@
   },
   {
     "title": "No-Bake Chocolate Fudge Oat Bars",
+    "slug": "chocolate-fudge-oat-bars",
     "rating": 4.6,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/chocolate-fudge-oat-bars/",
@@ -1380,6 +1403,7 @@
   },
   {
     "title": "Healthy Bran Muffins Recipe",
+    "slug": "bran-muffins-recipe",
     "rating": 4.8,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/bran-muffins-recipe/",
@@ -1441,6 +1465,7 @@
   },
   {
     "title": "Banana Chocolate Chip Breakfast Cookies",
+    "slug": "banana-chocolate-chip-breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 37,
     "link": "https://sallysbakingaddiction.com/banana-chocolate-chip-breakfast-cookies/",
@@ -1489,6 +1514,7 @@
   },
   {
     "title": "Gingerbread Waffles",
+    "slug": "gingerbread-waffles",
     "rating": 4.7,
     "num_reviews": 18,
     "link": "https://sallysbakingaddiction.com/gingerbread-waffles/",
@@ -1549,6 +1575,7 @@
   },
   {
     "title": "Cheesy Ham & Potato Casserole",
+    "slug": "ham-potato-casserole",
     "rating": 5.0,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/ham-potato-casserole/",
@@ -1610,6 +1637,7 @@
   },
   {
     "title": "Sour Cream Coffee Cake (with Crumb Topping)",
+    "slug": "coffee-cake-recipe",
     "rating": 4.8,
     "num_reviews": 106,
     "link": "https://sallysbakingaddiction.com/coffee-cake-recipe/",
@@ -1681,6 +1709,7 @@
   },
   {
     "title": "Easy Cinnamon Rolls (from scratch)",
+    "slug": "easy-cinnamon-rolls-from-scratch",
     "rating": 4.8,
     "num_reviews": 551,
     "link": "https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/",
@@ -1744,6 +1773,7 @@
   },
   {
     "title": "Crunchy Pumpkin Spice Granola",
+    "slug": "pumpkin-spice-granola",
     "rating": 5.0,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/pumpkin-spice-granola/",
@@ -1796,6 +1826,7 @@
   },
   {
     "title": "Banana Chocolate Chip Muffins with Cinnamon Streusel",
+    "slug": "banana-muffins-with-cinnamon-chocolate-chip-streusel",
     "rating": 4.9,
     "num_reviews": 51,
     "link": "https://sallysbakingaddiction.com/banana-muffins-with-cinnamon-chocolate-chip-streusel/",
@@ -1851,6 +1882,7 @@
   },
   {
     "title": "Easy Pumpkin Muffins",
+    "slug": "pumpkin-muffins-recipe",
     "rating": 4.8,
     "num_reviews": 173,
     "link": "https://sallysbakingaddiction.com/pumpkin-muffins-recipe/",
@@ -1906,6 +1938,7 @@
   },
   {
     "title": "Savory Ham & Cheese Scones",
+    "slug": "ham-cheese-scones",
     "rating": 4.9,
     "num_reviews": 45,
     "link": "https://sallysbakingaddiction.com/ham-cheese-scones/",
@@ -1968,6 +2001,7 @@
   },
   {
     "title": "Healthy Whole Wheat Apple Muffins",
+    "slug": "healthy-apple-muffins",
     "rating": 4.9,
     "num_reviews": 104,
     "link": "https://sallysbakingaddiction.com/healthy-apple-muffins/",
@@ -2021,6 +2055,7 @@
   },
   {
     "title": "Double Chocolate Banana Muffins",
+    "slug": "whole-wheat-double-chocolate-banana-muffins",
     "rating": 4.9,
     "num_reviews": 97,
     "link": "https://sallysbakingaddiction.com/whole-wheat-double-chocolate-banana-muffins/",
@@ -2075,6 +2110,7 @@
   },
   {
     "title": "Quick No Yeast Cinnamon Rolls",
+    "slug": "no-yeast-cinnamon-rolls",
     "rating": 4.5,
     "num_reviews": 234,
     "link": "https://sallysbakingaddiction.com/no-yeast-cinnamon-rolls/",
@@ -2169,6 +2205,7 @@
   },
   {
     "title": "Easy Make-Ahead Breakfast Casserole",
+    "slug": "easy-make-ahead-breakfast-casserole",
     "rating": 4.8,
     "num_reviews": 55,
     "link": "https://sallysbakingaddiction.com/easy-make-ahead-breakfast-casserole/",
@@ -2234,6 +2271,7 @@
   },
   {
     "title": "Peach Streusel Muffins",
+    "slug": "peach-streusel-muffins",
     "rating": 4.8,
     "num_reviews": 92,
     "link": "https://sallysbakingaddiction.com/peach-streusel-muffins/",
@@ -2303,6 +2341,7 @@
   },
   {
     "title": "Zucchini Bread Muffins",
+    "slug": "zucchini-muffins",
     "rating": 4.9,
     "num_reviews": 107,
     "link": "https://sallysbakingaddiction.com/zucchini-muffins/",
@@ -2362,6 +2401,7 @@
   },
   {
     "title": "Berries & Cream French Toast Casserole",
+    "slug": "strawberries-cream-french-toast-casserole",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/strawberries-cream-french-toast-casserole/",
@@ -2416,6 +2456,7 @@
   },
   {
     "title": "Blackberry Cream Cheese Crumb Cake",
+    "slug": "blackberry-cream-cheese-crumb-cake",
     "rating": 5.0,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/blackberry-cream-cheese-crumb-cake/",
@@ -2474,6 +2515,7 @@
   },
   {
     "title": "Croissant Bread (Loaf)",
+    "slug": "croissant-bread",
     "rating": 4.9,
     "num_reviews": 193,
     "link": "https://sallysbakingaddiction.com/croissant-bread/",
@@ -2572,6 +2614,7 @@
   },
   {
     "title": "Chocolate Covered Strawberry Muffins",
+    "slug": "chocolate-covered-strawberry-muffins",
     "rating": 5.0,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/chocolate-covered-strawberry-muffins/",
@@ -2624,6 +2667,7 @@
   },
   {
     "title": "Homemade Fudge Chocolate Pop Tarts",
+    "slug": "chocolate-pastry-pop-tarts",
     "rating": 4.8,
     "num_reviews": 197,
     "link": "https://sallysbakingaddiction.com/chocolate-pastry-pop-tarts/",
@@ -2722,6 +2766,7 @@
   },
   {
     "title": "Mini Powdered Sugar Donut Muffins",
+    "slug": "mini-powdered-sugar-donut-muffins",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/mini-powdered-sugar-donut-muffins/",
@@ -2773,6 +2818,7 @@
   },
   {
     "title": "Applesauce Muffins",
+    "slug": "applesauce-muffins",
     "rating": 4.9,
     "num_reviews": 62,
     "link": "https://sallysbakingaddiction.com/applesauce-muffins/",
@@ -2827,6 +2873,7 @@
   },
   {
     "title": "Homemade English Muffins",
+    "slug": "honey-wheat-english-muffins",
     "rating": 4.9,
     "num_reviews": 298,
     "link": "https://sallysbakingaddiction.com/honey-wheat-english-muffins/",
@@ -2930,6 +2977,7 @@
   },
   {
     "title": "Cranberry Pecan Cake",
+    "slug": "cranberry-pecan-cake",
     "rating": 4.9,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/cranberry-pecan-cake/",
@@ -2989,6 +3037,7 @@
   },
   {
     "title": "Baked Cream Cheese French Toast Casserole",
+    "slug": "baked-cream-cheese-french-toast-casserole",
     "rating": 4.9,
     "num_reviews": 89,
     "link": "https://sallysbakingaddiction.com/baked-cream-cheese-french-toast-casserole/",
@@ -3042,6 +3091,7 @@
   },
   {
     "title": "Pumpkin Cinnamon Rolls",
+    "slug": "pumpkin-cinnamon-rolls",
     "rating": 4.8,
     "num_reviews": 69,
     "link": "https://sallysbakingaddiction.com/pumpkin-cinnamon-rolls/",
@@ -3108,6 +3158,7 @@
   },
   {
     "title": "Pumpkin French Toast Casserole",
+    "slug": "pumpkin-french-toast-casserole",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/pumpkin-french-toast-casserole/",
@@ -3166,6 +3217,7 @@
   },
   {
     "title": "Pumpkin Crumb Coffee Cake",
+    "slug": "iced-pumpkin-coffee-cake",
     "rating": 4.8,
     "num_reviews": 122,
     "link": "https://sallysbakingaddiction.com/iced-pumpkin-coffee-cake/",
@@ -3222,6 +3274,7 @@
   },
   {
     "title": "Healthy Whole Wheat Banana Walnut Muffins",
+    "slug": "whole-wheat-banana-nut-muffins",
     "rating": 4.8,
     "num_reviews": 104,
     "link": "https://sallysbakingaddiction.com/whole-wheat-banana-nut-muffins/",
@@ -3272,6 +3325,7 @@
   },
   {
     "title": "Homemade Oatmeal Fig Bars",
+    "slug": "oatmeal-fig-bars",
     "rating": 4.9,
     "num_reviews": 46,
     "link": "https://sallysbakingaddiction.com/oatmeal-fig-bars/",
@@ -3326,6 +3380,7 @@
   },
   {
     "title": "Homemade Berry Turnovers",
+    "slug": "berry-turnovers",
     "rating": 4.9,
     "num_reviews": 196,
     "link": "https://sallysbakingaddiction.com/berry-turnovers/",
@@ -3431,6 +3486,7 @@
   },
   {
     "title": "Double Chocolate Chip Muffins",
+    "slug": "double-chocolate-muffins",
     "rating": 4.7,
     "num_reviews": 262,
     "link": "https://sallysbakingaddiction.com/double-chocolate-muffins/",
@@ -3481,6 +3537,7 @@
   },
   {
     "title": "Chocolate Sweet Rolls",
+    "slug": "chocolate-sweet-rolls",
     "rating": 4.9,
     "num_reviews": 271,
     "link": "https://sallysbakingaddiction.com/chocolate-sweet-rolls/",
@@ -3590,6 +3647,7 @@
   },
   {
     "title": "Jumbo Blueberry Muffins",
+    "slug": "sparkling-jumbo-blueberry-muffins-2",
     "rating": 4.8,
     "num_reviews": 135,
     "link": "https://sallysbakingaddiction.com/sparkling-jumbo-blueberry-muffins-2/",
@@ -3644,6 +3702,7 @@
   },
   {
     "title": "Breakfast Strata (Spinach & Bacon)",
+    "slug": "spinach-bacon-breakfast-strata",
     "rating": 4.8,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/spinach-bacon-breakfast-strata/",
@@ -3697,6 +3756,7 @@
   },
   {
     "title": "Homemade Overnight Cinnamon Rolls",
+    "slug": "overnight-cinnamon-rolls",
     "rating": 4.9,
     "num_reviews": 228,
     "link": "https://sallysbakingaddiction.com/overnight-cinnamon-rolls/",
@@ -3763,6 +3823,7 @@
   },
   {
     "title": "Bakery-Style Chocolate Chip Muffins",
+    "slug": "bakery-style-chocolate-chip-muffins",
     "rating": 4.7,
     "num_reviews": 186,
     "link": "https://sallysbakingaddiction.com/bakery-style-chocolate-chip-muffins/",
@@ -3817,6 +3878,7 @@
   },
   {
     "title": "Pumpkin Cream Cheese Muffins",
+    "slug": "pumpkin-cheesecake-muffins",
     "rating": 4.8,
     "num_reviews": 73,
     "link": "https://sallysbakingaddiction.com/pumpkin-cheesecake-muffins/",
@@ -3876,6 +3938,7 @@
   },
   {
     "title": "Baked Pumpkin Oatmeal Cups (Muffins)",
+    "slug": "pumpkin-baked-oatmeal-cups",
     "rating": 4.8,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/pumpkin-baked-oatmeal-cups/",
@@ -3928,6 +3991,7 @@
   },
   {
     "title": "Breakfast Cookies",
+    "slug": "breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/breakfast-cookies/",
@@ -3978,6 +4042,7 @@
   },
   {
     "title": "Maple Glazed Donuts",
+    "slug": "maple-glazed-donuts",
     "rating": 4.9,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/maple-glazed-donuts/",
@@ -4031,6 +4096,7 @@
   },
   {
     "title": "Pumpkin Chocolate Chip Oatmeal Bars",
+    "slug": "pumpkin-chocolate-chip-oatmeal-bars",
     "rating": 4.6,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/pumpkin-chocolate-chip-oatmeal-bars/",
@@ -4082,6 +4148,7 @@
   },
   {
     "title": "Blueberry Cream Cheese Pastry Braid",
+    "slug": "blueberries-n-cream-danish-braid",
     "rating": 5.0,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/blueberries-n-cream-danish-braid/",
@@ -4160,6 +4227,7 @@
   },
   {
     "title": "Healthy Berry Streusel Bars",
+    "slug": "healthy-berry-streusel-bars",
     "rating": 4.9,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/healthy-berry-streusel-bars/",
@@ -4213,6 +4281,7 @@
   },
   {
     "title": "Breakfast Pastries with Shortcut Homemade Dough",
+    "slug": "breakfast-pastries",
     "rating": 4.9,
     "num_reviews": 258,
     "link": "https://sallysbakingaddiction.com/breakfast-pastries/",
@@ -4323,6 +4392,7 @@
   },
   {
     "title": "Cream Cheese Zucchini Muffins",
+    "slug": "cream-cheese-zucchini-muffins",
     "rating": 5.0,
     "num_reviews": 53,
     "link": "https://sallysbakingaddiction.com/cream-cheese-zucchini-muffins/",
@@ -4377,6 +4447,7 @@
   },
   {
     "title": "Homemade Maple Bacon Doughnuts",
+    "slug": "homemade-maple-bacon-doughnuts",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/homemade-maple-bacon-doughnuts/",
@@ -4440,6 +4511,7 @@
   },
   {
     "title": "Jumbo Raspberry Chocolate Chip Muffins",
+    "slug": "jumbo-raspberry-chocolate-chip-muffins",
     "rating": 4.9,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/jumbo-raspberry-chocolate-chip-muffins/",
@@ -4495,6 +4567,7 @@
   },
   {
     "title": "Apple Cinnamon Crumb Muffins",
+    "slug": "apple-cinnamon-crumb-muffins",
     "rating": 4.9,
     "num_reviews": 219,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-crumb-muffins/",
@@ -4557,6 +4630,7 @@
   },
   {
     "title": "Triple Chocolate Muffins",
+    "slug": "triple-chocolate-muffins",
     "rating": 4.9,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-muffins/",
@@ -4604,6 +4678,7 @@
   },
   {
     "title": "Peanut Butter Trail Mix Bars",
+    "slug": "peanut-butter-trail-mix-bars",
     "rating": 4.9,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/peanut-butter-trail-mix-bars/",
@@ -4656,6 +4731,7 @@
   },
   {
     "title": "Mini Quiche (Any Flavor!)",
+    "slug": "mini-quiche-recipe",
     "rating": 4.9,
     "num_reviews": 42,
     "link": "https://sallysbakingaddiction.com/mini-quiche-recipe/",
@@ -4699,6 +4775,7 @@
   },
   {
     "title": "Giant Cinnamon Roll Cake",
+    "slug": "giant-cinnamon-roll-cake",
     "rating": 5.0,
     "num_reviews": 82,
     "link": "https://sallysbakingaddiction.com/giant-cinnamon-roll-cake/",
@@ -4760,6 +4837,7 @@
   },
   {
     "title": "Lavender Buttermilk Scones",
+    "slug": "lavender-scones",
     "rating": 4.7,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/lavender-scones/",
@@ -4822,6 +4900,7 @@
   },
   {
     "title": "Peanut Butter Banana Chocolate Chip Oatmeal Bars",
+    "slug": "peanut-butter-banana-chocolate-chip-oatmeal-bars",
     "rating": 4.9,
     "num_reviews": 70,
     "link": "https://sallysbakingaddiction.com/peanut-butter-banana-chocolate-chip-oatmeal-bars/",
@@ -4874,6 +4953,7 @@
   },
   {
     "title": "Whole Wheat Healthy Banana Bread",
+    "slug": "whole-wheat-banana-bread",
     "rating": 4.9,
     "num_reviews": 79,
     "link": "https://sallysbakingaddiction.com/whole-wheat-banana-bread/",
@@ -4925,6 +5005,7 @@
   },
   {
     "title": "Morning Glory Muffins",
+    "slug": "simple-morning-glory-muffins",
     "rating": 4.9,
     "num_reviews": 258,
     "link": "https://sallysbakingaddiction.com/simple-morning-glory-muffins/",
@@ -4981,6 +5062,7 @@
   },
   {
     "title": "New York Style Crumb Cake",
+    "slug": "crumb-cake",
     "rating": 4.6,
     "num_reviews": 90,
     "link": "https://sallysbakingaddiction.com/crumb-cake/",
@@ -5035,6 +5117,7 @@
   },
   {
     "title": "Dark Chocolate Raspberry Coffee Cake",
+    "slug": "raspberry-chocolate-coffee-cake",
     "rating": 4.8,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/raspberry-chocolate-coffee-cake/",
@@ -5089,6 +5172,7 @@
   },
   {
     "title": "Gingerbread Muffins with Sweet Lemon Glaze",
+    "slug": "gingerbread-muffins-with-sweet-lemon-glaze",
     "rating": 4.8,
     "num_reviews": 75,
     "link": "https://sallysbakingaddiction.com/gingerbread-muffins-with-sweet-lemon-glaze/",
@@ -5142,6 +5226,7 @@
   },
   {
     "title": "Everything Bagel Breakfast Casserole",
+    "slug": "everything-bagel-breakfast-casserole",
     "rating": 4.9,
     "num_reviews": 27,
     "link": "https://sallysbakingaddiction.com/everything-bagel-breakfast-casserole/",
@@ -5195,6 +5280,7 @@
   },
   {
     "title": "Baked Pumpkin Donuts",
+    "slug": "baked-pumpkin-donuts",
     "rating": 4.7,
     "num_reviews": 72,
     "link": "https://sallysbakingaddiction.com/baked-pumpkin-donuts/",
@@ -5254,6 +5340,7 @@
   },
   {
     "title": "Baked Apple Cinnamon Oatmeal Cups",
+    "slug": "apple-cinnamon-baked-oatmeal-cups",
     "rating": 4.7,
     "num_reviews": 125,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-baked-oatmeal-cups/",
@@ -5306,6 +5393,7 @@
   },
   {
     "title": "Homemade Monkey Bread",
+    "slug": "homemade-monkey-bread-aka-cinnamon-roll-bites",
     "rating": 4.8,
     "num_reviews": 111,
     "link": "https://sallysbakingaddiction.com/homemade-monkey-bread-aka-cinnamon-roll-bites/",
@@ -5367,6 +5455,7 @@
   },
   {
     "title": "Homemade Berry Fritters",
+    "slug": "homemade-berry-fritters",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/homemade-berry-fritters/",
@@ -5431,6 +5520,7 @@
   },
   {
     "title": "Blueberry Muffins",
+    "slug": "blueberry-muffins",
     "rating": 4.9,
     "num_reviews": 525,
     "link": "https://sallysbakingaddiction.com/blueberry-muffins/",
@@ -5486,6 +5576,7 @@
   },
   {
     "title": "How to Make Perfect Scones",
+    "slug": "scones-recipe",
     "rating": 4.8,
     "num_reviews": 728,
     "link": "https://sallysbakingaddiction.com/scones-recipe/",
@@ -5573,6 +5664,7 @@
   },
   {
     "title": "Quiche Recipe",
+    "slug": "quiche-recipe",
     "rating": 4.9,
     "num_reviews": 214,
     "link": "https://sallysbakingaddiction.com/quiche-recipe/",
@@ -5626,6 +5718,7 @@
   },
   {
     "title": "Hot Cross Buns",
+    "slug": "hot-cross-buns",
     "rating": 4.7,
     "num_reviews": 131,
     "link": "https://sallysbakingaddiction.com/hot-cross-buns/",
@@ -5694,6 +5787,7 @@
   },
   {
     "title": "Blueberry Muffin Bread",
+    "slug": "blueberry-muffin-bread",
     "rating": 4.8,
     "num_reviews": 196,
     "link": "https://sallysbakingaddiction.com/blueberry-muffin-bread/",
@@ -5745,6 +5839,7 @@
   },
   {
     "title": "1 Bowl Baked Oatmeal",
+    "slug": "baked-oatmeal",
     "rating": 5.0,
     "num_reviews": 303,
     "link": "https://sallysbakingaddiction.com/baked-oatmeal/",
@@ -5797,6 +5892,7 @@
   },
   {
     "title": "Quick & Easy Banana Muffins",
+    "slug": "banana-muffins",
     "rating": 4.9,
     "num_reviews": 1568,
     "link": "https://sallysbakingaddiction.com/banana-muffins/",
@@ -5849,6 +5945,7 @@
   },
   {
     "title": "Homemade Bagels Recipe",
+    "slug": "homemade-bagels",
     "rating": 4.9,
     "num_reviews": 535,
     "link": "https://sallysbakingaddiction.com/homemade-bagels/",
@@ -5941,6 +6038,7 @@
   },
   {
     "title": "Biscuit Breakfast Casserole",
+    "slug": "biscuit-breakfast-casserole",
     "rating": 4.9,
     "num_reviews": 21,
     "link": "https://sallysbakingaddiction.com/biscuit-breakfast-casserole/",
@@ -5994,6 +6092,7 @@
   },
   {
     "title": "Star Bread",
+    "slug": "star-bread",
     "rating": 4.8,
     "num_reviews": 94,
     "link": "https://sallysbakingaddiction.com/star-bread/",
@@ -6048,6 +6147,7 @@
   },
   {
     "title": "Classic Pumpkin Scones",
+    "slug": "pumpkin-scones",
     "rating": 4.8,
     "num_reviews": 161,
     "link": "https://sallysbakingaddiction.com/pumpkin-scones/",
@@ -6101,6 +6201,7 @@
   },
   {
     "title": "Baked Apple Cider Donuts",
+    "slug": "baked-apple-cider-donuts",
     "rating": 4.7,
     "num_reviews": 213,
     "link": "https://sallysbakingaddiction.com/baked-apple-cider-donuts/",
@@ -6159,6 +6260,7 @@
   },
   {
     "title": "Baby (Mini) Apple Banana Oat Muffins",
+    "slug": "baby-apple-banana-oat-muffins",
     "rating": 4.7,
     "num_reviews": 61,
     "link": "https://sallysbakingaddiction.com/baby-apple-banana-oat-muffins/",
@@ -6207,6 +6309,7 @@
   },
   {
     "title": "Raspberry Danish Twist Bread",
+    "slug": "raspberry-danish-twist-bread",
     "rating": 4.5,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/raspberry-danish-twist-bread/",
@@ -6259,6 +6362,7 @@
   },
   {
     "title": "No-Bake Chewy Coconut Granola Bars",
+    "slug": "no-bake-coconut-granola-bars",
     "rating": 5.0,
     "num_reviews": 26,
     "link": "https://sallysbakingaddiction.com/no-bake-coconut-granola-bars/",
@@ -6308,6 +6412,7 @@
   },
   {
     "title": "Everything Bagel Pull Apart Bread",
+    "slug": "everything-bagel-pull-apart-bread",
     "rating": 4.8,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/everything-bagel-pull-apart-bread/",
@@ -6377,6 +6482,7 @@
   },
   {
     "title": "Zucchini Crumb Cake",
+    "slug": "zucchini-crumb-cake",
     "rating": 4.9,
     "num_reviews": 63,
     "link": "https://sallysbakingaddiction.com/zucchini-crumb-cake/",
@@ -6430,6 +6536,7 @@
   },
   {
     "title": "Homemade Cinnamon Swirl Bread",
+    "slug": "homemade-cinnamon-swirl-bread",
     "rating": 4.9,
     "num_reviews": 75,
     "link": "https://sallysbakingaddiction.com/homemade-cinnamon-swirl-bread/",
@@ -6484,6 +6591,7 @@
   },
   {
     "title": "Blueberry Oatmeal Muffins",
+    "slug": "blueberry-oatmeal-muffins",
     "rating": 4.9,
     "num_reviews": 687,
     "link": "https://sallysbakingaddiction.com/blueberry-oatmeal-muffins/",
@@ -6538,6 +6646,7 @@
   },
   {
     "title": "Raspberry Almond Crumb Cake",
+    "slug": "raspberry-almond-crumb-cake",
     "rating": 4.9,
     "num_reviews": 52,
     "link": "https://sallysbakingaddiction.com/raspberry-almond-crumb-cake/",
@@ -6594,6 +6703,7 @@
   },
   {
     "title": "Homemade Chocolate Croissants (Pain au Chocolat)",
+    "slug": "homemade-chocolate-croissants",
     "rating": 4.7,
     "num_reviews": 71,
     "link": "https://sallysbakingaddiction.com/homemade-chocolate-croissants/",
@@ -6663,6 +6773,7 @@
   },
   {
     "title": "How to Make Croissants",
+    "slug": "homemade-croissants",
     "rating": 4.8,
     "num_reviews": 240,
     "link": "https://sallysbakingaddiction.com/homemade-croissants/",
@@ -6742,6 +6853,7 @@
   },
   {
     "title": "Rainbow Sprinkle Chip Scones",
+    "slug": "sprinkle-scones",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/sprinkle-scones/",
@@ -6798,6 +6910,7 @@
   },
   {
     "title": "Crumb Cake Donuts",
+    "slug": "crumb-cake-donuts",
     "rating": 4.8,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/crumb-cake-donuts/",
@@ -6852,6 +6965,7 @@
   },
   {
     "title": "Apple Crumb Cake",
+    "slug": "apple-crumb-cake",
     "rating": 4.7,
     "num_reviews": 92,
     "link": "https://sallysbakingaddiction.com/apple-crumb-cake/",
@@ -6911,6 +7025,7 @@
   },
   {
     "title": "Apple Cinnamon Rolls",
+    "slug": "apple-cinnamon-rolls",
     "rating": 4.9,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/apple-cinnamon-rolls/",
@@ -6972,6 +7087,7 @@
   },
   {
     "title": "Soft Oatmeal Raisin Cookie Granola Bars",
+    "slug": "oatmeal-raisin-cookie-granola-bars",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/oatmeal-raisin-cookie-granola-bars/",
@@ -7015,6 +7131,7 @@
   },
   {
     "title": "Fluffy Whole Wheat Waffles",
+    "slug": "whole-wheat-waffles",
     "rating": 4.9,
     "num_reviews": 70,
     "link": "https://sallysbakingaddiction.com/whole-wheat-waffles/",
@@ -7060,6 +7177,7 @@
   },
   {
     "title": "Easy Orange Sweet Rolls",
+    "slug": "orange-sweet-rolls",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/orange-sweet-rolls/",
@@ -7115,6 +7233,7 @@
   },
   {
     "title": "Master Muffin Recipe",
+    "slug": "master-muffin-recipe",
     "rating": 4.9,
     "num_reviews": 151,
     "link": "https://sallysbakingaddiction.com/master-muffin-recipe/",
@@ -7171,6 +7290,7 @@
   },
   {
     "title": "Maple Pecan Sticky Buns",
+    "slug": "maple-pecan-sticky-buns",
     "rating": 4.7,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/maple-pecan-sticky-buns/",
@@ -7239,6 +7359,7 @@
   },
   {
     "title": "Banana Nut Scones with Maple Glaze",
+    "slug": "banana-nut-scones-with-maple-glaze",
     "rating": 4.7,
     "num_reviews": 58,
     "link": "https://sallysbakingaddiction.com/banana-nut-scones-with-maple-glaze/",
@@ -7292,6 +7413,7 @@
   },
   {
     "title": "Blueberry Almond Power Muffins",
+    "slug": "blueberry-almond-power-muffins",
     "rating": 4.9,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/blueberry-almond-power-muffins/",
@@ -7341,6 +7463,7 @@
   },
   {
     "title": "Blueberry Banana Breakfast Cookies",
+    "slug": "blueberry-banana-breakfast-cookies",
     "rating": 4.9,
     "num_reviews": 36,
     "link": "https://sallysbakingaddiction.com/blueberry-banana-breakfast-cookies/",
@@ -7391,6 +7514,7 @@
   },
   {
     "title": "Quinoa Crunch Snack Bars",
+    "slug": "quinoa-crunch-snack-bars",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/quinoa-crunch-snack-bars/",
@@ -7435,6 +7559,7 @@
   },
   {
     "title": "Overnight Ham & Cheese Strata",
+    "slug": "overnight-ham-cheese-strata",
     "rating": 4.5,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/overnight-ham-cheese-strata/",
@@ -7484,6 +7609,7 @@
   },
   {
     "title": "Cinnamon Roll Wreath",
+    "slug": "cinnamon-roll-wreath",
     "rating": 5.0,
     "num_reviews": 6,
     "link": "https://sallysbakingaddiction.com/cinnamon-roll-wreath/",
@@ -7539,6 +7665,7 @@
   },
   {
     "title": "Cranberry Cardamom Spice Muffins",
+    "slug": "cranberry-cardamom-spice-muffins",
     "rating": 5.0,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/cranberry-cardamom-spice-muffins/",
@@ -7591,6 +7718,7 @@
   },
   {
     "title": "Maple Almond Cranberry Granola",
+    "slug": "maple-almond-cranberry-granola",
     "rating": 5.0,
     "num_reviews": 31,
     "link": "https://sallysbakingaddiction.com/maple-almond-cranberry-granola/",
@@ -7633,6 +7761,7 @@
   },
   {
     "title": "Pumpkin Crumb Cake Muffins",
+    "slug": "pumpkin-crumb-cake-muffins",
     "rating": 4.9,
     "num_reviews": 176,
     "link": "https://sallysbakingaddiction.com/pumpkin-crumb-cake-muffins/",
@@ -7689,6 +7818,7 @@
   },
   {
     "title": "Easy Chai Spice Donuts",
+    "slug": "easy-chai-spice-donuts",
     "rating": 4.6,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/easy-chai-spice-donuts/",
@@ -7740,6 +7870,7 @@
   },
   {
     "title": "Glazed Lemon Poppy Seed Donuts",
+    "slug": "glazed-lemon-poppy-seed-donuts",
     "rating": 4.7,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/glazed-lemon-poppy-seed-donuts/",
@@ -7792,6 +7923,7 @@
   },
   {
     "title": "Big Giant Cinnamon Rolls",
+    "slug": "big-giant-cinnamon-rolls",
     "rating": 4.7,
     "num_reviews": 43,
     "link": "https://sallysbakingaddiction.com/big-giant-cinnamon-rolls/",
@@ -7852,6 +7984,7 @@
   },
   {
     "title": "Chocolate Peanut Butter Snack Bars",
+    "slug": "chocolate-peanut-butter-snack-bars",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/chocolate-peanut-butter-snack-bars/",
@@ -7897,6 +8030,7 @@
   },
   {
     "title": "Blackberry Lemon Poppy Seed Muffins",
+    "slug": "blackberry-lemon-poppy-seed-muffins",
     "rating": 4.8,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/blackberry-lemon-poppy-seed-muffins/",
@@ -7950,6 +8084,7 @@
   },
   {
     "title": "Raspberry Almond Buttermilk Scones",
+    "slug": "raspberry-almond-buttermilk-scones",
     "rating": 4.1,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/raspberry-almond-buttermilk-scones/",
@@ -7998,6 +8133,7 @@
   },
   {
     "title": "Greek Yogurt Lemon Poppy Seed Pancakes",
+    "slug": "greek-yogurt-lemon-poppy-seed-pancakes",
     "rating": 5.0,
     "num_reviews": 20,
     "link": "https://sallysbakingaddiction.com/greek-yogurt-lemon-poppy-seed-pancakes/",
@@ -8050,6 +8186,7 @@
   },
   {
     "title": "Greek Yogurt Zucchini Bread",
+    "slug": "greek-yogurt-zucchini-bread",
     "rating": 4.8,
     "num_reviews": 55,
     "link": "https://sallysbakingaddiction.com/greek-yogurt-zucchini-bread/",
@@ -8099,6 +8236,7 @@
   },
   {
     "title": "Goat Cheese Spinach & Sun-Dried Tomato Quiche",
+    "slug": "goat-cheese-spinach-sun-dried-tomato-quiche",
     "rating": 4.8,
     "num_reviews": 22,
     "link": "https://sallysbakingaddiction.com/goat-cheese-spinach-sun-dried-tomato-quiche/",
@@ -8150,6 +8288,7 @@
   },
   {
     "title": "Lemon Curd",
+    "slug": "how-to-make-lemon-curd",
     "rating": 4.8,
     "num_reviews": 228,
     "link": "https://sallysbakingaddiction.com/how-to-make-lemon-curd/",
@@ -8193,6 +8332,7 @@
   },
   {
     "title": "Pink Party Donuts",
+    "slug": "pink-party-donuts",
     "rating": 4.5,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/pink-party-donuts/",
@@ -8247,6 +8387,7 @@
   },
   {
     "title": "Berry Vanilla Cashew Snack Bars",
+    "slug": "berry-vanilla-cashew-snack-bars",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/berry-vanilla-cashew-snack-bars/",
@@ -8293,6 +8434,7 @@
   },
   {
     "title": "Slow Cooker Cinnamon Rolls",
+    "slug": "easy-slow-cooker-cinnamon-rolls",
     "rating": 4.3,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/easy-slow-cooker-cinnamon-rolls/",
@@ -8345,6 +8487,7 @@
   },
   {
     "title": "Glazed Cranberry Orange Scones",
+    "slug": "glazed-cranberry-orange-scones",
     "rating": 4.8,
     "num_reviews": 126,
     "link": "https://sallysbakingaddiction.com/glazed-cranberry-orange-scones/",
@@ -8401,6 +8544,7 @@
   },
   {
     "title": "Spiced Pumpkin Seed Cranberry Snack Bars",
+    "slug": "spiced-pumpkin-seed-cranberry-snack-bars",
     "rating": 5.0,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/spiced-pumpkin-seed-cranberry-snack-bars/",
@@ -8444,6 +8588,7 @@
   },
   {
     "title": "Homemade Cinnamon Raisin Bagels",
+    "slug": "homemade-cinnamon-raisin-bagels",
     "rating": 4.5,
     "num_reviews": 57,
     "link": "https://sallysbakingaddiction.com/homemade-cinnamon-raisin-bagels/",
@@ -8503,6 +8648,7 @@
   },
   {
     "title": "Homemade Everything Bagels",
+    "slug": "homemade-everything-bagels",
     "rating": 4.9,
     "num_reviews": 72,
     "link": "https://sallysbakingaddiction.com/homemade-everything-bagels/",
@@ -8567,6 +8713,7 @@
   },
   {
     "title": "Whole Wheat Mini Pumpkin Muffins",
+    "slug": "whole-wheat-mini-pumpkin-muffins",
     "rating": 4.8,
     "num_reviews": 19,
     "link": "https://sallysbakingaddiction.com/whole-wheat-mini-pumpkin-muffins/",
@@ -8615,6 +8762,7 @@
   },
   {
     "title": "Maple Cinnamon Rolls",
+    "slug": "melt-in-your-mouth-maple-cinnamon-rolls",
     "rating": 4.5,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/melt-in-your-mouth-maple-cinnamon-rolls/",
@@ -8668,6 +8816,7 @@
   },
   {
     "title": "Homemade Pumpkin Coffee Creamer",
+    "slug": "homemade-pumpkin-coffee-creamer",
     "rating": 4.9,
     "num_reviews": 14,
     "link": "https://sallysbakingaddiction.com/homemade-pumpkin-coffee-creamer/",
@@ -8704,6 +8853,7 @@
   },
   {
     "title": "Caramel Apple Cinnamon Scones",
+    "slug": "caramel-apple-cinnamon-scones",
     "rating": 4.8,
     "num_reviews": 27,
     "link": "https://sallysbakingaddiction.com/caramel-apple-cinnamon-scones/",
@@ -8758,6 +8908,7 @@
   },
   {
     "title": "Baked Banana Donuts with Dark Chocolate Glaze",
+    "slug": "brown-sugar-buttermilk-banana-donuts-with-dark-chocolate-glaze",
     "rating": 4.8,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/brown-sugar-buttermilk-banana-donuts-with-dark-chocolate-glaze/",
@@ -8809,6 +8960,7 @@
   },
   {
     "title": "Lemon Blueberry Scones",
+    "slug": "glazed-lemon-blueberry-scones",
     "rating": 4.9,
     "num_reviews": 245,
     "link": "https://sallysbakingaddiction.com/glazed-lemon-blueberry-scones/",
@@ -8864,6 +9016,7 @@
   },
   {
     "title": "Simple Cherry Pastry Pies",
+    "slug": "simple-cherry-pastry-pies",
     "rating": 5.0,
     "num_reviews": 11,
     "link": "https://sallysbakingaddiction.com/simple-cherry-pastry-pies/",
@@ -8909,6 +9062,7 @@
   },
   {
     "title": "Strawberry Rolls with Sweet Lemon Glaze",
+    "slug": "strawberry-rolls-with-sweet-lemon-glaze",
     "rating": 4.6,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/strawberry-rolls-with-sweet-lemon-glaze/",
@@ -8962,6 +9116,7 @@
   },
   {
     "title": "Chocolate Cherry Almond Snack Bars",
+    "slug": "chocolate-cherry-almond-snack-bars",
     "rating": 4.7,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/chocolate-cherry-almond-snack-bars/",
@@ -9001,6 +9156,7 @@
   },
   {
     "title": "Strawberry Buttermilk Pancakes with Honey Butter",
+    "slug": "strawberry-buttermilk-pancakes-with-honey-butter",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/strawberry-buttermilk-pancakes-with-honey-butter/",
@@ -9049,6 +9205,7 @@
   },
   {
     "title": "Homemade Honey Butter",
+    "slug": "homemade-honey-butter",
     "rating": 5.0,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/homemade-honey-butter/",
@@ -9085,6 +9242,7 @@
   },
   {
     "title": "Baked Cinnamon Sugar Donuts",
+    "slug": "baked-cinnamon-sugar-donuts",
     "rating": 4.7,
     "num_reviews": 65,
     "link": "https://sallysbakingaddiction.com/baked-cinnamon-sugar-donuts/",
@@ -9137,6 +9295,7 @@
   },
   {
     "title": "Jalape\u00f1o Cornbread Muffins",
+    "slug": "jalapeno-cornbread-muffins",
     "rating": 4.6,
     "num_reviews": 39,
     "link": "https://sallysbakingaddiction.com/jalapeno-cornbread-muffins/",
@@ -9185,6 +9344,7 @@
   },
   {
     "title": "Vanilla Almond Snack Bars",
+    "slug": "vanilla-almond-snack-bars",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/vanilla-almond-snack-bars/",
@@ -9229,6 +9389,7 @@
   },
   {
     "title": "Unbelievable Blueberry French Toast Casserole",
+    "slug": "unbelievable-blueberry-french-toast-casserole",
     "rating": 5.0,
     "num_reviews": 49,
     "link": "https://sallysbakingaddiction.com/unbelievable-blueberry-french-toast-casserole/",
@@ -9282,6 +9443,7 @@
   },
   {
     "title": "Honey Roasted Peanut Butter Granola",
+    "slug": "honey-roasted-peanut-butter-granola",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/honey-roasted-peanut-butter-granola/",
@@ -9323,6 +9485,7 @@
   },
   {
     "title": "Strawberry Cheesecake Muffins",
+    "slug": "strawberry-cheesecake-muffins",
     "rating": 4.6,
     "num_reviews": 27,
     "link": "https://sallysbakingaddiction.com/strawberry-cheesecake-muffins/",
@@ -9377,6 +9540,7 @@
   },
   {
     "title": "45 Calorie Mini Chocolate Chip Muffins",
+    "slug": "45-calorie-mini-chocolate-chip-muffins",
     "rating": 4.6,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/45-calorie-mini-chocolate-chip-muffins/",
@@ -9424,6 +9588,7 @@
   },
   {
     "title": "Cinnamon Chip Scones",
+    "slug": "cinnamon-chip-scones",
     "rating": 4.8,
     "num_reviews": 24,
     "link": "https://sallysbakingaddiction.com/cinnamon-chip-scones/",
@@ -9479,6 +9644,7 @@
   },
   {
     "title": "Hash Brown Breakfast Skillet",
+    "slug": "crispy-hash-breakfast-skillet",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/crispy-hash-breakfast-skillet/",
@@ -9527,6 +9693,7 @@
   },
   {
     "title": "Triple Chocolate Scones",
+    "slug": "triple-chocolate-scones-supreme",
     "rating": 4.9,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-scones-supreme/",
@@ -9584,6 +9751,7 @@
   },
   {
     "title": "Cranberry Orange Muffins",
+    "slug": "cranberry-orange-muffins",
     "rating": 4.8,
     "num_reviews": 99,
     "link": "https://sallysbakingaddiction.com/cranberry-orange-muffins/",
@@ -9637,6 +9805,7 @@
   },
   {
     "title": "130 Calorie Chocolate Pumpkin Spice Muffins",
+    "slug": "130-calorie-chocolate-pumpkin-spice-muffins",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/130-calorie-chocolate-pumpkin-spice-muffins/",
@@ -9689,6 +9858,7 @@
   },
   {
     "title": "Sunday Morning Eggs Benedict",
+    "slug": "sunday-morning-eggs-benedict",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/sunday-morning-eggs-benedict/",
@@ -9734,6 +9904,7 @@
   },
   {
     "title": "My Favorite Buttermilk Waffles",
+    "slug": "my-favorite-buttermilk-waffles",
     "rating": 4.1,
     "num_reviews": 28,
     "link": "https://sallysbakingaddiction.com/my-favorite-buttermilk-waffles/",
@@ -9779,6 +9950,7 @@
   },
   {
     "title": "Homemade Frosted Brown Sugar Cinnamon Pop Tarts",
+    "slug": "homemade-frosted-brown-sugar-cinnamon-pop-tarts",
     "rating": 4.7,
     "num_reviews": 47,
     "link": "https://sallysbakingaddiction.com/homemade-frosted-brown-sugar-cinnamon-pop-tarts/",
@@ -9838,6 +10010,7 @@
   },
   {
     "title": "20 Minute Chocolate Crescents",
+    "slug": "20-minute-chocolate-croissants",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/20-minute-chocolate-croissants/",
@@ -9874,6 +10047,7 @@
   },
   {
     "title": "My Favorite Blueberry Scones",
+    "slug": "my-favorite-blueberry-scones",
     "rating": 4.8,
     "num_reviews": 316,
     "link": "https://sallysbakingaddiction.com/my-favorite-blueberry-scones/",
@@ -9929,6 +10103,7 @@
   },
   {
     "title": "110 Calorie Crustless Veggie Quiche",
+    "slug": "110-calorie-crustless-veggie-quiche",
     "rating": 4.9,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/110-calorie-crustless-veggie-quiche/",
@@ -9977,6 +10152,7 @@
   },
   {
     "title": "Vanilla Almond Granola",
+    "slug": "vanilla-almond-granola",
     "rating": 5.0,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/vanilla-almond-granola/",
@@ -10016,6 +10192,7 @@
   },
   {
     "title": "Chocolate Chip Scones",
+    "slug": "chocolate-chip-scones",
     "rating": 4.8,
     "num_reviews": 33,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-scones/",
@@ -10068,6 +10245,7 @@
   },
   {
     "title": "Strawberry Lemon Poppy Seed Scones",
+    "slug": "strawberry-lemon-poppy-seed-scones",
     "rating": 4.5,
     "num_reviews": 23,
     "link": "https://sallysbakingaddiction.com/strawberry-lemon-poppy-seed-scones/",
@@ -10126,6 +10304,7 @@
   },
   {
     "title": "Chocolate Frosted Donuts",
+    "slug": "chocolate-frosted-donuts",
     "rating": 4.7,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/chocolate-frosted-donuts/",
@@ -10180,6 +10359,7 @@
   },
   {
     "title": "Mini French Toast Bites",
+    "slug": "mini-french-toast-bites",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/mini-french-toast-bites/",
@@ -10219,6 +10399,7 @@
   },
   {
     "title": "Orange Lemon Poppy Seed Muffins",
+    "slug": "orange-lemon-poppy-seed-muffins",
     "rating": 4.4,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/orange-lemon-poppy-seed-muffins/",
@@ -10268,6 +10449,7 @@
   },
   {
     "title": "Cheesy Spinach Quiche",
+    "slug": "cheesy-spinach-quiche",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/cheesy-spinach-quiche/",
@@ -10321,6 +10503,7 @@
   },
   {
     "title": "Master Bakery Style Muffin Recipe",
+    "slug": "master-muffin-mix",
     "rating": 4.8,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/master-muffin-mix/",
@@ -10375,6 +10558,7 @@
   },
   {
     "title": "Banana Chocolate Chip Crumb Cake",
+    "slug": "banana-chocolate-chip-crumb-cake",
     "rating": 4.7,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/banana-chocolate-chip-crumb-cake/",
@@ -10422,6 +10606,7 @@
   },
   {
     "title": "Chocolate Peanut Butter Lovers\u2019 Granola",
+    "slug": "chocolate-peanut-butter-lovers-granola",
     "rating": 4.3,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/chocolate-peanut-butter-lovers-granola/",
@@ -10463,6 +10648,7 @@
   },
   {
     "title": "110 Calorie Chocolate Cherry Muffins",
+    "slug": "skinny-chocolate-cherry-muffins",
     "rating": 4.6,
     "num_reviews": 9,
     "link": "https://sallysbakingaddiction.com/skinny-chocolate-cherry-muffins/",
@@ -10511,6 +10697,7 @@
   },
   {
     "title": "Baked Funfetti Donuts",
+    "slug": "baked-funfetti-donuts",
     "rating": 3.8,
     "num_reviews": 10,
     "link": "https://sallysbakingaddiction.com/baked-funfetti-donuts/",
@@ -10565,6 +10752,7 @@
   },
   {
     "title": "Whole Wheat Banana Pancakes",
+    "slug": "whole-wheat-banana-pancakes",
     "rating": 4.8,
     "num_reviews": 16,
     "link": "https://sallysbakingaddiction.com/whole-wheat-banana-pancakes/",
@@ -10611,6 +10799,7 @@
   },
   {
     "title": "Healthy Whole Wheat Oatmeal Pancakes",
+    "slug": "whole-wheat-oatmeal-pancakes",
     "rating": 5.0,
     "num_reviews": 25,
     "link": "https://sallysbakingaddiction.com/whole-wheat-oatmeal-pancakes/",
@@ -10657,6 +10846,7 @@
   },
   {
     "title": "Iced Raspberry Danish Braid",
+    "slug": "raspberry-danish-braid",
     "rating": 5.0,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/raspberry-danish-braid/",
@@ -10706,6 +10896,7 @@
   },
   {
     "title": "Homemade Pastry Dough (Quick Method)",
+    "slug": "danish-pastry-dough",
     "rating": 5.0,
     "num_reviews": 32,
     "link": "https://sallysbakingaddiction.com/danish-pastry-dough/",
@@ -10777,6 +10968,7 @@
   },
   {
     "title": "Caramel Apple Turnovers",
+    "slug": "caramel-apple-turnovers",
     "rating": 5.0,
     "num_reviews": 7,
     "link": "https://sallysbakingaddiction.com/caramel-apple-turnovers/",
@@ -10820,6 +11012,7 @@
   },
   {
     "title": "Glazed Chocolate Donut Holes",
+    "slug": "glazed-chocolate-donut-holes",
     "rating": 5.0,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/glazed-chocolate-donut-holes/",
@@ -10869,6 +11062,7 @@
   },
   {
     "title": "Raspberry Chocolate Chip Banana Muffins",
+    "slug": "skinny-raspberry-chocolate-chip-banana-muffins",
     "rating": 4.9,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/skinny-raspberry-chocolate-chip-banana-muffins/",
@@ -10913,6 +11107,7 @@
   },
   {
     "title": "Blueberry Sweet Rolls with Sweet Lemon Glaze",
+    "slug": "blueberry-sweet-rolls-with-lemon-glaze",
     "rating": 5.0,
     "num_reviews": 8,
     "link": "https://sallysbakingaddiction.com/blueberry-sweet-rolls-with-lemon-glaze/",
@@ -10967,6 +11162,7 @@
   },
   {
     "title": "Nutella-Stuffed Cinnamon Sugar Muffins",
+    "slug": "nutella-stuffed-cinnamon-sugar-muffins",
     "rating": 4.9,
     "num_reviews": 13,
     "link": "https://sallysbakingaddiction.com/nutella-stuffed-cinnamon-sugar-muffins/",
@@ -11015,6 +11211,7 @@
   },
   {
     "title": "Super-Crumb Coffee Cake",
+    "slug": "super-crumb-coffee-cake",
     "rating": 4.7,
     "num_reviews": 41,
     "link": "https://sallysbakingaddiction.com/super-crumb-coffee-cake/",
@@ -11066,6 +11263,7 @@
   },
   {
     "title": "Skinny Double Chocolate Chip Muffins",
+    "slug": "skinny-double-chocolate-chip-muffins",
     "rating": 4.8,
     "num_reviews": 17,
     "link": "https://sallysbakingaddiction.com/skinny-double-chocolate-chip-muffins/",
@@ -11115,6 +11313,7 @@
   },
   {
     "title": "Homemade Monkey Bread with Caramel Sauce",
+    "slug": "homemade-monkey-bread-with-caramel-sauce",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/homemade-monkey-bread-with-caramel-sauce/",
@@ -11171,6 +11370,7 @@
   },
   {
     "title": "Lightened-Up Strawberry Chocolate Chip Muffins",
+    "slug": "skinny-strawberry-chocolate-chip-muffins",
     "rating": 4.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/skinny-strawberry-chocolate-chip-muffins/",
@@ -11214,6 +11414,7 @@
   },
   {
     "title": "Homemade Orange Sweet Rolls",
+    "slug": "homemade-orange-sweet-rolls",
     "rating": 4.5,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/homemade-orange-sweet-rolls/",
@@ -11270,6 +11471,7 @@
   },
   {
     "title": "Triple Chocolate Crunch Granola",
+    "slug": "triple-chocolate-crunch-granola",
     "rating": 5.0,
     "num_reviews": 1,
     "link": "https://sallysbakingaddiction.com/triple-chocolate-crunch-granola/",
@@ -11308,6 +11510,7 @@
   },
   {
     "title": "Healthy Peanut Butter Chunk Oatmeal Bars",
+    "slug": "healthy-peanut-butter-chunk-oatmeal-bars",
     "rating": 4.9,
     "num_reviews": 15,
     "link": "https://sallysbakingaddiction.com/healthy-peanut-butter-chunk-oatmeal-bars/",
@@ -11351,6 +11554,7 @@
   },
   {
     "title": "Mini Cinnamon Sugar Pumpkin Muffins",
+    "slug": "mini-cinnamon-sugar-pumpkin-muffins",
     "rating": 4.7,
     "num_reviews": 12,
     "link": "https://sallysbakingaddiction.com/mini-cinnamon-sugar-pumpkin-muffins/",
@@ -11399,6 +11603,7 @@
   },
   {
     "title": "Strawberry Frosted Donuts",
+    "slug": "strawberry-frosted-donuts",
     "rating": 4.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/strawberry-frosted-donuts/",
@@ -11441,6 +11646,7 @@
   },
   {
     "title": "Mini Cinnamon Buns",
+    "slug": "mini-no-yeast-cinnamon-buns",
     "rating": 5.0,
     "num_reviews": 2,
     "link": "https://sallysbakingaddiction.com/mini-no-yeast-cinnamon-buns/",
@@ -11479,6 +11685,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Granola Bars",
+    "slug": "chocolate-chip-cookie-granola-bars",
     "rating": 5.0,
     "num_reviews": 3,
     "link": "https://sallysbakingaddiction.com/chocolate-chip-cookie-granola-bars/",
@@ -11521,6 +11728,7 @@
   },
   {
     "title": "Sky-High Apple Pie Muffins",
+    "slug": "sky-high-apple-pie-muffins",
     "rating": 4.8,
     "num_reviews": 4,
     "link": "https://sallysbakingaddiction.com/sky-high-apple-pie-muffins/",
@@ -11572,6 +11780,7 @@
   },
   {
     "title": "Single Serving Healthier Chocolate Chip Muffin",
+    "slug": "skinny-chocolate-chip-muffin-for-one-2",
     "rating": 4.8,
     "num_reviews": 5,
     "link": "https://sallysbakingaddiction.com/skinny-chocolate-chip-muffin-for-one-2/",
