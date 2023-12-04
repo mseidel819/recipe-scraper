@@ -44,7 +44,7 @@ def create_json(href_list, headers):
         notes = get_scraped_arrays(".tasty-recipes-notes-body", "ol")
 
         images = []
-        img_html = soup.select(".type-post img")
+        img_html = soup.select(".type-post > .entry-content img")
         for img in img_html:
             img_src = img.get('src')
             if img_src[:5] == "https":
