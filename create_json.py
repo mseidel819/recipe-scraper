@@ -5,14 +5,13 @@ from urllib.parse import urlparse, parse_qs
 
 # fix the error handling for when something doesn't exist lines 15-19
 
-def create_json(href_list, headers):
+def create_json(href_list, category, headers):
     json_data = []
     # scraping through each url
     print("Beginning data collection...")
     for url in href_list:
         res = requests.get(url, headers=headers)
         soup = bs(res.text, 'html.parser')
-
         # main recipe class ".tasty-recipes"
         def get_text(identifier):
 
@@ -52,6 +51,7 @@ def create_json(href_list, headers):
 
         recipe_dict = {
             "title": title,
+            "category": category,
             "slug": slug,
             "rating": float(rating),
             "num_reviews": int(num_reviews),

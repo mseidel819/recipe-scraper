@@ -1,6 +1,7 @@
 [
   {
     "title": "Deliciously Moist Chocolate Layer Cake",
+    "category": "desserts-pies",
     "slug": "triple-chocolate-layer-cake",
     "rating": 4.9,
     "num_reviews": 902,
@@ -69,6 +70,7 @@
   },
   {
     "title": "Homemade Strawberry Cake",
+    "category": "desserts-pies",
     "slug": "strawberry-cake",
     "rating": 4.8,
     "num_reviews": 552,
@@ -136,9 +138,10 @@
   },
   {
     "title": "Quick & Easy Banana Muffins",
+    "category": "desserts-pies",
     "slug": "banana-muffins",
     "rating": 4.9,
-    "num_reviews": 1568,
+    "num_reviews": 1570,
     "link": "https://sallysbakingaddiction.com/banana-muffins/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2018/12/banana-muffins-recipe-2.jpg",
@@ -189,9 +192,10 @@
   },
   {
     "title": "My Favorite Banana Bread",
+    "category": "desserts-pies",
     "slug": "best-banana-bread-recipe",
     "rating": 4.8,
-    "num_reviews": 1225,
+    "num_reviews": 1229,
     "link": "https://sallysbakingaddiction.com/best-banana-bread-recipe/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2018/10/moist-banana-bread.jpg",
@@ -245,9 +249,10 @@
   },
   {
     "title": "Lemon Bars",
+    "category": "desserts-pies",
     "slug": "lemon-bars-recipe",
     "rating": 4.7,
-    "num_reviews": 1021,
+    "num_reviews": 1022,
     "link": "https://sallysbakingaddiction.com/lemon-bars-recipe/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/02/lemon-bars-2.jpg",
@@ -294,9 +299,10 @@
   },
   {
     "title": "Easy Homemade Pizza Dough",
+    "category": "desserts-pies",
     "slug": "homemade-pizza-crust-recipe",
     "rating": 4.9,
-    "num_reviews": 760,
+    "num_reviews": 762,
     "link": "https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/01/homemade-pizza-dough.jpg",

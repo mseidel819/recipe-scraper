@@ -1,9 +1,10 @@
 [
   {
     "title": "Pumpkin Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "pumpkin-bundt-cake-recipe",
     "rating": 5.0,
-    "num_reviews": 71,
+    "num_reviews": 72,
     "link": "https://sallysbakingaddiction.com/pumpkin-bundt-cake-recipe/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2017/11/pumpkin-bundt-cake.jpg",
@@ -64,6 +65,7 @@
   },
   {
     "title": "Fresh Peach Cake",
+    "category": "desserts-cakes",
     "slug": "peach-cake",
     "rating": 4.9,
     "num_reviews": 46,
@@ -122,6 +124,7 @@
   },
   {
     "title": "Easy Berry Icebox Cake",
+    "category": "desserts-cakes",
     "slug": "berry-icebox-cake",
     "rating": 5.0,
     "num_reviews": 11,
@@ -173,6 +176,7 @@
   },
   {
     "title": "Easy Zucchini Cake",
+    "category": "desserts-cakes",
     "slug": "zucchini-cake",
     "rating": 4.9,
     "num_reviews": 19,
@@ -245,6 +249,7 @@
   },
   {
     "title": "Easter Cake Recipe",
+    "category": "desserts-cakes",
     "slug": "coconut-easter-cake",
     "rating": 4.6,
     "num_reviews": 16,
@@ -314,6 +319,7 @@
   },
   {
     "title": "Guinness Chocolate Cake",
+    "category": "desserts-cakes",
     "slug": "guinness-chocolate-cake",
     "rating": 4.9,
     "num_reviews": 27,
@@ -388,6 +394,7 @@
   },
   {
     "title": "Chocolate Raspberry Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-raspberry-cake",
     "rating": 4.9,
     "num_reviews": 42,
@@ -476,6 +483,7 @@
   },
   {
     "title": "Sour Cream Coffee Cake (with Crumb Topping)",
+    "category": "desserts-cakes",
     "slug": "coffee-cake-recipe",
     "rating": 4.8,
     "num_reviews": 106,
@@ -548,6 +556,7 @@
   },
   {
     "title": "Delicious Homemade Pumpkin Roll",
+    "category": "desserts-cakes",
     "slug": "pumpkin-roll",
     "rating": 4.9,
     "num_reviews": 39,
@@ -611,6 +620,7 @@
   },
   {
     "title": "Confetti Birthday Cake",
+    "category": "desserts-cakes",
     "slug": "funfetti-layer-cake",
     "rating": 4.6,
     "num_reviews": 106,
@@ -682,6 +692,7 @@
   },
   {
     "title": "Fresh Apple Cake",
+    "category": "desserts-cakes",
     "slug": "apple-cake",
     "rating": 4.9,
     "num_reviews": 78,
@@ -748,6 +759,7 @@
   },
   {
     "title": "Chocolate Peanut Butter Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-peanut-butter-cake",
     "rating": 4.8,
     "num_reviews": 60,
@@ -823,6 +835,7 @@
   },
   {
     "title": "Cookie Monster Cake (for Decorating Beginners)",
+    "category": "desserts-cakes",
     "slug": "cookie-monster-cake",
     "rating": 5.0,
     "num_reviews": 5,
@@ -899,9 +912,10 @@
   },
   {
     "title": "Brown Butter Berry Tea Cakes",
+    "category": "desserts-cakes",
     "slug": "brown-butter-berry-tea-cakes",
     "rating": 4.9,
-    "num_reviews": 135,
+    "num_reviews": 136,
     "link": "https://sallysbakingaddiction.com/brown-butter-berry-tea-cakes/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2022/04/brown-butter-berry-tea-cakes.jpg",
@@ -978,6 +992,7 @@
   },
   {
     "title": "Marble Loaf Cake",
+    "category": "desserts-cakes",
     "slug": "marble-loaf-cake",
     "rating": 4.3,
     "num_reviews": 32,
@@ -1039,6 +1054,7 @@
   },
   {
     "title": "Cheesecake Swirl Carrot Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "cheesecake-swirl-carrot-bundt-cake",
     "rating": 5.0,
     "num_reviews": 41,
@@ -1105,6 +1121,7 @@
   },
   {
     "title": "Sunshine Citrus Cake",
+    "category": "desserts-cakes",
     "slug": "6-inch-citrus-cake",
     "rating": 4.7,
     "num_reviews": 232,
@@ -1215,6 +1232,7 @@
   },
   {
     "title": "Espresso Chocolate Chip Cake",
+    "category": "desserts-cakes",
     "slug": "espresso-chocolate-chip-cake",
     "rating": 4.4,
     "num_reviews": 51,
@@ -1281,6 +1299,7 @@
   },
   {
     "title": "Mint Chocolate Cake",
+    "category": "desserts-cakes",
     "slug": "mint-chocolate-cake",
     "rating": 4.8,
     "num_reviews": 33,
@@ -1347,6 +1366,7 @@
   },
   {
     "title": "Cranberry Pecan Cake",
+    "category": "desserts-cakes",
     "slug": "cranberry-pecan-cake",
     "rating": 4.9,
     "num_reviews": 24,
@@ -1407,6 +1427,7 @@
   },
   {
     "title": "Pumpkin Crumb Coffee Cake",
+    "category": "desserts-cakes",
     "slug": "iced-pumpkin-coffee-cake",
     "rating": 4.8,
     "num_reviews": 122,
@@ -1464,6 +1485,7 @@
   },
   {
     "title": "Ice Cream Loaf Cake",
+    "category": "desserts-cakes",
     "slug": "ice-cream-loaf-cake",
     "rating": 4.7,
     "num_reviews": 119,
@@ -1545,6 +1567,7 @@
   },
   {
     "title": "Cookies & Cream Sheet Cake",
+    "category": "desserts-cakes",
     "slug": "cookies-cream-sheet-cake",
     "rating": 4.9,
     "num_reviews": 49,
@@ -1607,6 +1630,7 @@
   },
   {
     "title": "Chocolate Marble Banana Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-marble-banana-bundt-cake",
     "rating": 5.0,
     "num_reviews": 35,
@@ -1664,6 +1688,7 @@
   },
   {
     "title": "Cherry Almond Buckle",
+    "category": "desserts-cakes",
     "slug": "cherry-almond-buckle",
     "rating": 5.0,
     "num_reviews": 33,
@@ -1718,6 +1743,7 @@
   },
   {
     "title": "Chocolate Chip Loaf Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-chip-loaf-cake",
     "rating": 4.8,
     "num_reviews": 77,
@@ -1775,6 +1801,7 @@
   },
   {
     "title": "Pineapple Coconut Cake",
+    "category": "desserts-cakes",
     "slug": "pineapple-coconut-cake",
     "rating": 4.6,
     "num_reviews": 50,
@@ -1853,6 +1880,7 @@
   },
   {
     "title": "Small Chocolate Cake (6 Inch)",
+    "category": "desserts-cakes",
     "slug": "small-chocolate-cake",
     "rating": 4.7,
     "num_reviews": 107,
@@ -1913,9 +1941,10 @@
   },
   {
     "title": "B\u00fbche De No\u00ebl (Yule Log)",
+    "category": "desserts-cakes",
     "slug": "buche-de-noel-yule-log",
     "rating": 4.7,
-    "num_reviews": 160,
+    "num_reviews": 162,
     "link": "https://sallysbakingaddiction.com/buche-de-noel-yule-log/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2020/11/buche-de-noel-yule-log.jpg",
@@ -1998,9 +2027,10 @@
   },
   {
     "title": "Caramel Apple Upside Down Cake",
+    "category": "desserts-cakes",
     "slug": "buttery-caramel-apple-upside-down-cake",
     "rating": 4.8,
-    "num_reviews": 112,
+    "num_reviews": 113,
     "link": "https://sallysbakingaddiction.com/buttery-caramel-apple-upside-down-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2012/10/apple-upside-down-cake.jpg",
@@ -2055,6 +2085,7 @@
   },
   {
     "title": "Tiramisu Crepe Cake",
+    "category": "desserts-cakes",
     "slug": "tiramisu-crepe-cake",
     "rating": 4.6,
     "num_reviews": 17,
@@ -2121,6 +2152,7 @@
   },
   {
     "title": "Carrot Cake Loaf (Quick Bread)",
+    "category": "desserts-cakes",
     "slug": "carrot-cake-loaf",
     "rating": 4.9,
     "num_reviews": 89,
@@ -2182,6 +2214,7 @@
   },
   {
     "title": "One Layer Sprinkle Cake",
+    "category": "desserts-cakes",
     "slug": "easy-homemade-funfetti-cake",
     "rating": 4.7,
     "num_reviews": 35,
@@ -2245,6 +2278,7 @@
   },
   {
     "title": "Fresh Berry Cream Cake",
+    "category": "desserts-cakes",
     "slug": "fresh-berry-cream-cake",
     "rating": 5.0,
     "num_reviews": 162,
@@ -2331,6 +2365,7 @@
   },
   {
     "title": "Yellow Cake",
+    "category": "desserts-cakes",
     "slug": "yellow-cake",
     "rating": 4.7,
     "num_reviews": 101,
@@ -2404,6 +2439,7 @@
   },
   {
     "title": "Lemon Pudding Cakes",
+    "category": "desserts-cakes",
     "slug": "lemon-pudding-cakes",
     "rating": 4.9,
     "num_reviews": 43,
@@ -2460,6 +2496,7 @@
   },
   {
     "title": "Pineapple Upside Down Cake",
+    "category": "desserts-cakes",
     "slug": "pineapple-upside-cake",
     "rating": 4.8,
     "num_reviews": 217,
@@ -2518,6 +2555,7 @@
   },
   {
     "title": "Giant Cinnamon Roll Cake",
+    "category": "desserts-cakes",
     "slug": "giant-cinnamon-roll-cake",
     "rating": 5.0,
     "num_reviews": 82,
@@ -2580,6 +2618,7 @@
   },
   {
     "title": "Flourless Chocolate Cake",
+    "category": "desserts-cakes",
     "slug": "flourless-chocolate-cake-recipe",
     "rating": 4.8,
     "num_reviews": 135,
@@ -2641,6 +2680,7 @@
   },
   {
     "title": "Deliciously Moist Chocolate Layer Cake",
+    "category": "desserts-cakes",
     "slug": "triple-chocolate-layer-cake",
     "rating": 4.9,
     "num_reviews": 902,
@@ -2709,6 +2749,7 @@
   },
   {
     "title": "Simple Homemade Wedding Cake Recipe",
+    "category": "desserts-cakes",
     "slug": "homemade-wedding-cake",
     "rating": 4.8,
     "num_reviews": 68,
@@ -2793,6 +2834,7 @@
   },
   {
     "title": "Lemon Berry Yogurt Cake",
+    "category": "desserts-cakes",
     "slug": "lemon-berry-yogurt-cake",
     "rating": 4.8,
     "num_reviews": 195,
@@ -2852,6 +2894,7 @@
   },
   {
     "title": "New York Style Crumb Cake",
+    "category": "desserts-cakes",
     "slug": "crumb-cake",
     "rating": 4.6,
     "num_reviews": 90,
@@ -2907,6 +2950,7 @@
   },
   {
     "title": "Dark Chocolate Raspberry Coffee Cake",
+    "category": "desserts-cakes",
     "slug": "raspberry-chocolate-coffee-cake",
     "rating": 4.8,
     "num_reviews": 43,
@@ -2962,6 +3006,7 @@
   },
   {
     "title": "Homemade Butter Rum Cake",
+    "category": "desserts-cakes",
     "slug": "rum-cake",
     "rating": 4.5,
     "num_reviews": 37,
@@ -3024,6 +3069,7 @@
   },
   {
     "title": "Snickerdoodle Cake",
+    "category": "desserts-cakes",
     "slug": "snickerdoodle-cake",
     "rating": 4.8,
     "num_reviews": 89,
@@ -3099,6 +3145,7 @@
   },
   {
     "title": "Glazed Apple Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "glazed-apple-bundt-cake",
     "rating": 4.8,
     "num_reviews": 68,
@@ -3152,6 +3199,7 @@
   },
   {
     "title": "Elmo Cake",
+    "category": "desserts-cakes",
     "slug": "elmo-cake",
     "rating": 5.0,
     "num_reviews": 20,
@@ -3219,6 +3267,7 @@
   },
   {
     "title": "Burnt Sugar Cake",
+    "category": "desserts-cakes",
     "slug": "burnt-sugar-caramel-cake",
     "rating": 4.8,
     "num_reviews": 56,
@@ -3287,6 +3336,7 @@
   },
   {
     "title": "How to Freeze Cakes",
+    "category": "desserts-cakes",
     "slug": "how-to-freeze-cakes",
     "rating": 5.0,
     "num_reviews": 24,
@@ -3326,6 +3376,7 @@
   },
   {
     "title": "Homemade Cake Flour Substitute",
+    "category": "desserts-cakes",
     "slug": "cake-flour-substitute",
     "rating": 4.8,
     "num_reviews": 41,
@@ -3362,6 +3413,7 @@
   },
   {
     "title": "Dark Chocolate Mousse Cake",
+    "category": "desserts-cakes",
     "slug": "dark-chocolate-mousse-cake",
     "rating": 4.9,
     "num_reviews": 311,
@@ -3432,6 +3484,7 @@
   },
   {
     "title": "Vertical Cake (Lemon & Blueberry)",
+    "category": "desserts-cakes",
     "slug": "vertical-cake",
     "rating": 4.9,
     "num_reviews": 91,
@@ -3515,6 +3568,7 @@
   },
   {
     "title": "Yellow Sheet Cake with Chocolate Fudge Frosting",
+    "category": "desserts-cakes",
     "slug": "yellow-sheet-cake-chocolate-fudge-frosting",
     "rating": 4.8,
     "num_reviews": 45,
@@ -3577,6 +3631,7 @@
   },
   {
     "title": "6 Inch Vanilla Cake",
+    "category": "desserts-cakes",
     "slug": "6-inch-cake-recipes",
     "rating": 4.7,
     "num_reviews": 97,
@@ -3636,6 +3691,7 @@
   },
   {
     "title": "Vanilla Sheet Cake with Whipped Buttercream Frosting",
+    "category": "desserts-cakes",
     "slug": "vanilla-sheet-cake",
     "rating": 4.5,
     "num_reviews": 85,
@@ -3698,9 +3754,10 @@
   },
   {
     "title": "Angel Food Cake",
+    "category": "desserts-cakes",
     "slug": "angel-food-cake",
     "rating": 4.8,
-    "num_reviews": 337,
+    "num_reviews": 338,
     "link": "https://sallysbakingaddiction.com/angel-food-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/05/angel-food-cake.jpg",
@@ -3761,9 +3818,10 @@
   },
   {
     "title": "One Layer Strawberry Shortcake Cake",
+    "category": "desserts-cakes",
     "slug": "strawberry-shortcake-cake",
     "rating": 4.8,
-    "num_reviews": 130,
+    "num_reviews": 131,
     "link": "https://sallysbakingaddiction.com/strawberry-shortcake-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/05/strawberry-shortcake-cake.jpg",
@@ -3817,6 +3875,7 @@
   },
   {
     "title": "Chocolate Swiss Roll Cake (Regular & Mini)",
+    "category": "desserts-cakes",
     "slug": "chocolate-cake-roll",
     "rating": 4.5,
     "num_reviews": 75,
@@ -3884,6 +3943,7 @@
   },
   {
     "title": "Lemon Berry Petit Fours",
+    "category": "desserts-cakes",
     "slug": "lemon-berry-petit-fours",
     "rating": 4.4,
     "num_reviews": 15,
@@ -3950,6 +4010,7 @@
   },
   {
     "title": "Blackberry Lavender Cake",
+    "category": "desserts-cakes",
     "slug": "blackberry-lavender-cake",
     "rating": 4.8,
     "num_reviews": 65,
@@ -4025,6 +4086,7 @@
   },
   {
     "title": "Coconut Cake",
+    "category": "desserts-cakes",
     "slug": "coconut-cake",
     "rating": 4.8,
     "num_reviews": 555,
@@ -4096,6 +4158,7 @@
   },
   {
     "title": "Cream Cheese Pound Cake",
+    "category": "desserts-cakes",
     "slug": "cream-cheese-pound-cake",
     "rating": 4.8,
     "num_reviews": 335,
@@ -4147,6 +4210,7 @@
   },
   {
     "title": "Red Velvet Cake with Cream Cheese Frosting",
+    "category": "desserts-cakes",
     "slug": "red-velvet-layer-cake-with-cream-cheese-frosting",
     "rating": 4.7,
     "num_reviews": 309,
@@ -4213,9 +4277,10 @@
   },
   {
     "title": "Best Vanilla Cake",
+    "category": "desserts-cakes",
     "slug": "vanilla-cake",
     "rating": 4.8,
-    "num_reviews": 569,
+    "num_reviews": 570,
     "link": "https://sallysbakingaddiction.com/vanilla-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2019/01/vanilla-cake.jpg",
@@ -4277,6 +4342,7 @@
   },
   {
     "title": "Champagne Cake Roll",
+    "category": "desserts-cakes",
     "slug": "champagne-cake-roll",
     "rating": 4.9,
     "num_reviews": 7,
@@ -4336,6 +4402,7 @@
   },
   {
     "title": "Upside-Down Pear Gingerbread Cake",
+    "category": "desserts-cakes",
     "slug": "upside-down-pear-gingerbread-cake",
     "rating": 5.0,
     "num_reviews": 34,
@@ -4393,6 +4460,7 @@
   },
   {
     "title": "Black Forest Cake",
+    "category": "desserts-cakes",
     "slug": "black-forest-cake",
     "rating": 4.9,
     "num_reviews": 180,
@@ -4465,6 +4533,7 @@
   },
   {
     "title": "6 Inch Zebra Cake with Strawberry Frosting",
+    "category": "desserts-cakes",
     "slug": "1st-birthday-cake",
     "rating": 4.9,
     "num_reviews": 10,
@@ -4534,6 +4603,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Layer Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-chip-cookie-layer-cake",
     "rating": 4.9,
     "num_reviews": 15,
@@ -4605,6 +4675,7 @@
   },
   {
     "title": "Zucchini Crumb Cake",
+    "category": "desserts-cakes",
     "slug": "zucchini-crumb-cake",
     "rating": 4.9,
     "num_reviews": 63,
@@ -4659,6 +4730,7 @@
   },
   {
     "title": "Smith Island Cake",
+    "category": "desserts-cakes",
     "slug": "smith-island-cake",
     "rating": 4.9,
     "num_reviews": 16,
@@ -4723,6 +4795,7 @@
   },
   {
     "title": "Lemon Layer Cake with Lemon Cream Cheese Buttercream",
+    "category": "desserts-cakes",
     "slug": "lemon-cake",
     "rating": 4.7,
     "num_reviews": 243,
@@ -4789,6 +4862,7 @@
   },
   {
     "title": "No Bake S\u2019mores Cake",
+    "category": "desserts-cakes",
     "slug": "no-bake-smores-cake",
     "rating": 4.8,
     "num_reviews": 19,
@@ -4839,6 +4913,7 @@
   },
   {
     "title": "Brownie Baked Alaska",
+    "category": "desserts-cakes",
     "slug": "brownie-baked-alaska",
     "rating": 4.6,
     "num_reviews": 17,
@@ -4899,6 +4974,7 @@
   },
   {
     "title": "6 Inch Birthday Cake with Easy Buttercream Flowers",
+    "category": "desserts-cakes",
     "slug": "decorated-6-inch-cake",
     "rating": 5.0,
     "num_reviews": 26,
@@ -4960,6 +5036,7 @@
   },
   {
     "title": "Boston Cream Pie",
+    "category": "desserts-cakes",
     "slug": "boston-cream-pie",
     "rating": 4.5,
     "num_reviews": 71,
@@ -5029,6 +5106,7 @@
   },
   {
     "title": "Lemon Berry Trifle",
+    "category": "desserts-cakes",
     "slug": "lemon-berry-trifle",
     "rating": 4.9,
     "num_reviews": 19,
@@ -5077,6 +5155,7 @@
   },
   {
     "title": "Almond Poppy Seed Tea Cakes",
+    "category": "desserts-cakes",
     "slug": "almond-poppy-seed-tea-cakes",
     "rating": 5.0,
     "num_reviews": 10,
@@ -5134,6 +5213,7 @@
   },
   {
     "title": "Raspberry Almond Crumb Cake",
+    "category": "desserts-cakes",
     "slug": "raspberry-almond-crumb-cake",
     "rating": 4.9,
     "num_reviews": 52,
@@ -5191,9 +5271,10 @@
   },
   {
     "title": "Upgraded German Chocolate Cake",
+    "category": "desserts-cakes",
     "slug": "german-chocolate-cake",
     "rating": 4.9,
-    "num_reviews": 202,
+    "num_reviews": 203,
     "link": "https://sallysbakingaddiction.com/german-chocolate-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2018/02/german-chocolate-cake-4.jpg",
@@ -5257,6 +5338,7 @@
   },
   {
     "title": "Pavlova",
+    "category": "desserts-cakes",
     "slug": "pavlova",
     "rating": 4.8,
     "num_reviews": 112,
@@ -5308,9 +5390,10 @@
   },
   {
     "title": "Pistachio Cake",
+    "category": "desserts-cakes",
     "slug": "pistachio-cake",
     "rating": 4.9,
-    "num_reviews": 184,
+    "num_reviews": 185,
     "link": "https://sallysbakingaddiction.com/pistachio-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2018/03/pistachio-cake-3.jpg",
@@ -5368,6 +5451,7 @@
   },
   {
     "title": "Vanilla Naked Cake",
+    "category": "desserts-cakes",
     "slug": "vanilla-naked-cake",
     "rating": 4.9,
     "num_reviews": 42,
@@ -5432,6 +5516,7 @@
   },
   {
     "title": "Mini Vanilla Pound Cakes",
+    "category": "desserts-cakes",
     "slug": "mini-vanilla-pound-cakes",
     "rating": 4.9,
     "num_reviews": 12,
@@ -5486,6 +5571,7 @@
   },
   {
     "title": "Chocolate Cake Pops",
+    "category": "desserts-cakes",
     "slug": "chocolate-cake-pops",
     "rating": 4.8,
     "num_reviews": 62,
@@ -5551,6 +5637,7 @@
   },
   {
     "title": "Zebra Cake",
+    "category": "desserts-cakes",
     "slug": "zebra-cake",
     "rating": 4.7,
     "num_reviews": 38,
@@ -5620,6 +5707,7 @@
   },
   {
     "title": "Homemade Strawberry Cake",
+    "category": "desserts-cakes",
     "slug": "strawberry-cake",
     "rating": 4.8,
     "num_reviews": 552,
@@ -5687,6 +5775,7 @@
   },
   {
     "title": "Tuxedo Cake",
+    "category": "desserts-cakes",
     "slug": "tuxedo-cake",
     "rating": 4.9,
     "num_reviews": 30,
@@ -5757,6 +5846,7 @@
   },
   {
     "title": "Cranberry Orange Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "cranberry-orange-bundt-cake",
     "rating": 4.7,
     "num_reviews": 24,
@@ -5817,6 +5907,7 @@
   },
   {
     "title": "Chai Spiced Cinnamon Swirl Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "chai-cinnamon-swirl-bundt-cake",
     "rating": 4.5,
     "num_reviews": 23,
@@ -5876,9 +5967,10 @@
   },
   {
     "title": "Pumpkin Cake",
+    "category": "desserts-cakes",
     "slug": "best-pumpkin-cake",
     "rating": 4.8,
-    "num_reviews": 247,
+    "num_reviews": 249,
     "link": "https://sallysbakingaddiction.com/best-pumpkin-cake/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2017/09/best-pumpkin-cake.jpg",
@@ -5936,6 +6028,7 @@
   },
   {
     "title": "Apple Crumb Cake",
+    "category": "desserts-cakes",
     "slug": "apple-crumb-cake",
     "rating": 4.7,
     "num_reviews": 92,
@@ -5996,6 +6089,7 @@
   },
   {
     "title": "Banana Cake with Brown Butter Cream Cheese Frosting",
+    "category": "desserts-cakes",
     "slug": "banana-cake-with-brown-butter-cream-cheese-frosting",
     "rating": 4.9,
     "num_reviews": 69,
@@ -6060,6 +6154,7 @@
   },
   {
     "title": "Checkerboard Cake",
+    "category": "desserts-cakes",
     "slug": "checkerboard-cake",
     "rating": 5.0,
     "num_reviews": 12,
@@ -6119,6 +6214,7 @@
   },
   {
     "title": "Blackberry Peach Skillet Cornmeal Cake",
+    "category": "desserts-cakes",
     "slug": "blackberry-peach-skillet-cornmeal-cake",
     "rating": 5.0,
     "num_reviews": 1,
@@ -6175,6 +6271,7 @@
   },
   {
     "title": "Homemade Cake Pops",
+    "category": "desserts-cakes",
     "slug": "homemade-cake-pops",
     "rating": 4.7,
     "num_reviews": 132,
@@ -6233,6 +6330,7 @@
   },
   {
     "title": "Chocolate Zucchini Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-zucchini-cake",
     "rating": 4.9,
     "num_reviews": 168,
@@ -6288,6 +6386,7 @@
   },
   {
     "title": "Peach Bundt Cake with Brown Butter Icing",
+    "category": "desserts-cakes",
     "slug": "peach-bundt-cake-with-brown-butter-icing",
     "rating": 4.8,
     "num_reviews": 47,
@@ -6348,6 +6447,7 @@
   },
   {
     "title": "Raspberry Swirl Pound Cake",
+    "category": "desserts-cakes",
     "slug": "raspberry-swirl-pound-cake",
     "rating": 4.4,
     "num_reviews": 16,
@@ -6395,6 +6495,7 @@
   },
   {
     "title": "Blueberry Lemon Icebox Cake",
+    "category": "desserts-cakes",
     "slug": "blueberry-lemon-icebox-cake",
     "rating": 5.0,
     "num_reviews": 14,
@@ -6449,6 +6550,7 @@
   },
   {
     "title": "Strawberries \u2018n\u2019 Cream Cake Roll",
+    "category": "desserts-cakes",
     "slug": "strawberries-n-cream-cake-roll",
     "rating": 4.9,
     "num_reviews": 8,
@@ -6514,6 +6616,7 @@
   },
   {
     "title": "Hummingbird Cake",
+    "category": "desserts-cakes",
     "slug": "hummingbird-cake",
     "rating": 4.9,
     "num_reviews": 88,
@@ -6580,9 +6683,10 @@
   },
   {
     "title": "Pineapple Carrot Cake with Cream Cheese Frosting",
+    "category": "desserts-cakes",
     "slug": "pineapple-carrot-cake-with-cream-cheese-frosting",
     "rating": 4.7,
-    "num_reviews": 131,
+    "num_reviews": 132,
     "link": "https://sallysbakingaddiction.com/pineapple-carrot-cake-with-cream-cheese-frosting/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2017/03/pineapple-carrot-cake-2.jpg",
@@ -6642,6 +6746,7 @@
   },
   {
     "title": "Chocolate Cream Cheese Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-cream-cheese-bundt-cake",
     "rating": 4.6,
     "num_reviews": 55,
@@ -6702,6 +6807,7 @@
   },
   {
     "title": "Chocolate Lava Cakes",
+    "category": "desserts-cakes",
     "slug": "chocolate-lava-cakes",
     "rating": 4.9,
     "num_reviews": 128,
@@ -6751,6 +6857,7 @@
   },
   {
     "title": "Iced Lemon Pound Cake",
+    "category": "desserts-cakes",
     "slug": "iced-lemon-pound-cake",
     "rating": 4.7,
     "num_reviews": 110,
@@ -6804,6 +6911,7 @@
   },
   {
     "title": "Favorite White Layer Cake",
+    "category": "desserts-cakes",
     "slug": "new-favorite-white-layer-cake",
     "rating": 4.8,
     "num_reviews": 202,
@@ -6863,6 +6971,7 @@
   },
   {
     "title": "Red Velvet Cake Roll",
+    "category": "desserts-cakes",
     "slug": "how-to-make-a-red-velvet-cake-roll",
     "rating": 4.4,
     "num_reviews": 14,
@@ -6927,9 +7036,10 @@
   },
   {
     "title": "Spiced Gingerbread Loaf",
+    "category": "desserts-cakes",
     "slug": "spiced-gingerbread-loaf",
     "rating": 4.7,
-    "num_reviews": 49,
+    "num_reviews": 51,
     "link": "https://sallysbakingaddiction.com/spiced-gingerbread-loaf/",
     "images": [
       "https://sallysbakingaddiction.com/wp-content/uploads/2016/11/spiced-gingerbread-loaf-1.jpg",
@@ -6978,6 +7088,7 @@
   },
   {
     "title": "Pumpkin Cream Cheese Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "pumpkin-cream-cheese-bundt-cake",
     "rating": 4.5,
     "num_reviews": 12,
@@ -7035,6 +7146,7 @@
   },
   {
     "title": "Super Moist Spice Cake",
+    "category": "desserts-cakes",
     "slug": "super-moist-spice-cake",
     "rating": 4.8,
     "num_reviews": 68,
@@ -7096,6 +7208,7 @@
   },
   {
     "title": "The Best Banana Cake I\u2019ve Ever Had",
+    "category": "desserts-cakes",
     "slug": "best-banana-cake",
     "rating": 4.8,
     "num_reviews": 595,
@@ -7156,6 +7269,7 @@
   },
   {
     "title": "Easy 5 Layer Ice Cream Cake",
+    "category": "desserts-cakes",
     "slug": "easy-5-layer-ice-cream-cake",
     "rating": 4.8,
     "num_reviews": 24,
@@ -7201,6 +7315,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Pizza",
+    "category": "desserts-cakes",
     "slug": "chocolate-chip-cookie-pizza",
     "rating": 4.7,
     "num_reviews": 26,
@@ -7250,6 +7365,7 @@
   },
   {
     "title": "Grapefruit Greek Yogurt Cake",
+    "category": "desserts-cakes",
     "slug": "grapefruit-greek-yogurt-loaf",
     "rating": 4.6,
     "num_reviews": 28,
@@ -7301,6 +7417,7 @@
   },
   {
     "title": "Homemade Funnel Cakes",
+    "category": "desserts-cakes",
     "slug": "homemade-funnel-cakes",
     "rating": 5.0,
     "num_reviews": 1,
@@ -7347,6 +7464,7 @@
   },
   {
     "title": "Glazed Orange Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "glazed-orange-bundt-cake",
     "rating": 4.4,
     "num_reviews": 45,
@@ -7401,6 +7519,7 @@
   },
   {
     "title": "Brown Butter Pound Cake with Strawberry Compote",
+    "category": "desserts-cakes",
     "slug": "brown-butter-pound-cake-strawberry-compote",
     "rating": 4.6,
     "num_reviews": 29,
@@ -7453,6 +7572,7 @@
   },
   {
     "title": "Lemon Coconut Cake",
+    "category": "desserts-cakes",
     "slug": "lemon-coconut-cake",
     "rating": 4.5,
     "num_reviews": 24,
@@ -7517,6 +7637,7 @@
   },
   {
     "title": "Chocolate Sheet Cake with Creamy Peanut Butter Frosting",
+    "category": "desserts-cakes",
     "slug": "chocolate-sheet-cake-with-creamy-peanut-butter-frosting",
     "rating": 4.5,
     "num_reviews": 16,
@@ -7577,6 +7698,7 @@
   },
   {
     "title": "Marble Cake",
+    "category": "desserts-cakes",
     "slug": "marble-cake",
     "rating": 5.0,
     "num_reviews": 2,
@@ -7643,6 +7765,7 @@
   },
   {
     "title": "Peanut Butter Chocolate Lava Cakes",
+    "category": "desserts-cakes",
     "slug": "peanut-butter-chocolate-lava-cakes",
     "rating": 4.7,
     "num_reviews": 10,
@@ -7691,6 +7814,7 @@
   },
   {
     "title": "Moist Gingerbread Spice Snack Cake",
+    "category": "desserts-cakes",
     "slug": "moist-gingerbread-spice-snack-cake",
     "rating": 4.6,
     "num_reviews": 18,
@@ -7749,6 +7873,7 @@
   },
   {
     "title": "Party Angel Food Cake",
+    "category": "desserts-cakes",
     "slug": "party-angel-food-cake",
     "rating": 5.0,
     "num_reviews": 2,
@@ -7802,6 +7927,7 @@
   },
   {
     "title": "M&M\u2019S\u00ae Chocolate Chip Skillet Cookie",
+    "category": "desserts-cakes",
     "slug": "mms-chocolate-chip-skillet-cookie",
     "rating": 4.6,
     "num_reviews": 9,
@@ -7851,6 +7977,7 @@
   },
   {
     "title": "Pi\u00f1ata Cake",
+    "category": "desserts-cakes",
     "slug": "how-to-make-a-pinata-cake",
     "rating": 4.1,
     "num_reviews": 15,
@@ -7920,6 +8047,7 @@
   },
   {
     "title": "My Favorite Carrot Cake Recipe",
+    "category": "desserts-cakes",
     "slug": "my-favorite-carrot-cake-recipe",
     "rating": 4.8,
     "num_reviews": 519,
@@ -7986,6 +8114,7 @@
   },
   {
     "title": "Glazed Lemon Poppy Seed Bundt Cake",
+    "category": "desserts-cakes",
     "slug": "glazed-lemon-poppy-seed-bundt-cake",
     "rating": 4.8,
     "num_reviews": 32,
@@ -8044,6 +8173,7 @@
   },
   {
     "title": "Two Small Chocolate Cakes",
+    "category": "desserts-cakes",
     "slug": "chocolate-fudge-cakes-2",
     "rating": 5.0,
     "num_reviews": 12,
@@ -8099,6 +8229,7 @@
   },
   {
     "title": "Funfetti Sheet Cake",
+    "category": "desserts-cakes",
     "slug": "funfetti-sheet-cake",
     "rating": 4.9,
     "num_reviews": 20,
@@ -8150,6 +8281,7 @@
   },
   {
     "title": "S\u2019mores Chocolate Chip Cookie Cake",
+    "category": "desserts-cakes",
     "slug": "smores-chocolate-chip-cookie-cake",
     "rating": 5.0,
     "num_reviews": 2,
@@ -8195,6 +8327,7 @@
   },
   {
     "title": "Oreo Cake",
+    "category": "desserts-cakes",
     "slug": "oreo-cake",
     "rating": 3.6,
     "num_reviews": 10,
@@ -8263,6 +8396,7 @@
   },
   {
     "title": "Funfetti Sugar Cookie Cake",
+    "category": "desserts-cakes",
     "slug": "funfetti-sugar-cookie-cake",
     "rating": 4.7,
     "num_reviews": 11,
@@ -8321,6 +8455,7 @@
   },
   {
     "title": "Raspberry Chocolate Chip Layer Cake",
+    "category": "desserts-cakes",
     "slug": "raspberry-chocolate-chip-layer-cake",
     "rating": 4.4,
     "num_reviews": 7,
@@ -8373,6 +8508,7 @@
   },
   {
     "title": "Chocolate Chip Cookie Cake",
+    "category": "desserts-cakes",
     "slug": "chocolate-chip-cookie-cake",
     "rating": 4.7,
     "num_reviews": 74,
@@ -8418,6 +8554,7 @@
   },
   {
     "title": "Lemon Blueberry Layer Cake",
+    "category": "desserts-cakes",
     "slug": "lemon-blueberry-layer-cake",
     "rating": 4.7,
     "num_reviews": 336,
@@ -8482,6 +8619,7 @@
   },
   {
     "title": "Banana Chocolate Chip Crumb Cake",
+    "category": "desserts-cakes",
     "slug": "banana-chocolate-chip-crumb-cake",
     "rating": 4.7,
     "num_reviews": 15,
@@ -8530,6 +8668,7 @@
   },
   {
     "title": "How to Make a Tie-Dye Cake",
+    "category": "desserts-cakes",
     "slug": "how-to-make-a-tie-dye-cake",
     "rating": 5.0,
     "num_reviews": 1,
@@ -8567,6 +8706,7 @@
   },
   {
     "title": "Super-Crumb Coffee Cake",
+    "category": "desserts-cakes",
     "slug": "super-crumb-coffee-cake",
     "rating": 4.7,
     "num_reviews": 41,
@@ -8619,6 +8759,7 @@
   },
   {
     "title": "Nutella Swirl Pound Cake",
+    "category": "desserts-cakes",
     "slug": "nutella-swirl-pound-cake",
     "rating": 5.0,
     "num_reviews": 6,
@@ -8664,6 +8805,7 @@
   },
   {
     "title": "Super Moist Carrot Cake",
+    "category": "desserts-cakes",
     "slug": "super-moist-carrot-cake",
     "rating": 4.7,
     "num_reviews": 29,
@@ -8726,6 +8868,7 @@
   },
   {
     "title": "Chocolate Gingerbread Bundt Cake with Cream Cheese Frosting",
+    "category": "desserts-cakes",
     "slug": "chocolate-gingerbread-bundt-cake-with-cream-cheese-frosting",
     "rating": 4.7,
     "num_reviews": 7,
